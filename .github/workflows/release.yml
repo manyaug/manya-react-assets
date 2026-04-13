@@ -1,0 +1,137 @@
+name: Release Assets
+
+on:
+  workflow_dispatch:
+    inputs:
+      bump_type:
+        description: 'Version bump type'
+        required: true
+        default: 'patch'
+        type: choice
+        options:
+          - patch
+          - minor
+          - major
+      release_message:
+        description: 'Release message'
+        required: false
+        type: string
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Read current version
+        id: version
+        run: |
+          CURRENT=$(jq -r '.version' package.json)
+          echo "current=$CURRENT" >> $GITHUB_OUTPUT
+          
+          IFS='.' read -r MAJOR MINOR PATCH <<< "$CURRENT"
+          
+          if [ "${{ inputs.bump_type }}" = "major" ]; then
+            MAJOR=$((MAJOR + 1))
+            MINOR=0
+            PATCH=0
+          elif [ "${{ inputs.bump_type }}" = "minor" ]; then
+            MINOR=$((MINOR + 1))
+            PATCH=0
+          else
+            PATCH=$((PATCH + 1))
+          fi
+          
+          NEW="$MAJOR.$MINOR.$PATCH"
+          echo "new=$NEW" >> $GITHUB_OUTPUT
+
+      - name: Update version in package.json
+        run: |
+          jq '.version = "${{ steps.version.outputs.new }}"' package.json > package.json.tmp
+          mv package.json.tmp package.json
+          cat package.json
+
+      - name: Commit version bump
+        run: |
+          git add package.json
+          git commit -m "chore: bump version to ${{ steps.version.outputs.new }}"
+
+      - name: Create Git tag
+        run: |
+          git tag -a "v${{ steps.version.outputs.new }}" -m "Release v${{ steps.version.outputs.new }}" \
+            -m "${{ inputs.release_message || format('Auto-released version {0} version bump from {1}', inputs.bump_type, steps.version.outputs.current) }}"
+
+      - name: Push commits and tags
+        run: |
+          git push origin main
+          git push origin --tags
+
+      - name: Purge jsDelivr cache
+        run: |
+          curl -X POST "https://purge.jsdelivr.net/gh/manyaug/manya-react-assets@v${{ steps.version.outputs.new }}/"
+          
+      - name: Create GitHub Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.version.outputs.new }}
+          release_name: Release v${{ steps.version.outputs.new }}
+          body: |
+            ## Release v${{ steps.version.outputs.new }}
+            
+            **Bump Type:** ${{ inputs.bump_type }}
+            **Previous Version:** ${{ steps.version.outputs.current }}
+            **New Version:** ${{ steps.version.outputs.new }}
+            
+            ${{ inputs.release_message || 'Automated release' }}
+            
+            ### CDN URLs
+            
+            **Base URL:**
+            ```
+            https://cdn.jsdelivr.net/gh/manyaug/manya-react-assets@v${{ steps.version.outputs.new }}/
+            ```
+            
+            **Examples:**
+            - GLB Models: `https://cdn.jsdelivr.net/gh/manyaug/manya-react-assets@v${{ steps.version.outputs.new }}/assets/science/musklo-skeletal-system/quest_2_human_skeleton/male_skeleton_compressed.glb`
+            - Images: `https://cdn.jsdelivr.net/gh/manyaug/manya-react-assets@v${{ steps.version.outputs.new }}/assets/science/musklo-skeletal-system/quest_8_hinge_ball-and-socket/elbow_image.webp`
+            - JSON: `https://cdn.jsdelivr.net/gh/manyaug/manya-react-assets@v${{ steps.version.outputs.new }}/content/science/musklo-skeletal-system/quest_4_axial_rib_cage/labeling_v3.json`
+          draft: false
+          prerelease: false
+
+      - name: Output release info
+        run: |
+          echo "## Release Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Version bumped: ${{ steps.version.outputs.current }} → v${{ steps.version.outputs.new }}" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Git tag created and pushed" >> $GITHUB_STEP_SUMMARY
+          echo "✅ GitHub Release created" >> $GITHUB_STEP_SUMMARY
+          echo "✅ jsDelivr cache purged" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### CDN URL:" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "https://cdn.jsdelivr.net/gh/manyaug/manya-react-assets@v${{ steps.version.outputs.new }}/" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
