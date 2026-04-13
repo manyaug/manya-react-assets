@@ -2,7 +2,7 @@
   "engineType": "3D_SKELETON",
   "mode": "quiz",
   "variantTitle": "Skull Anatomy Quiz",
-  "modelUrl": "assets/science/musklo-skeletal-system/quest_3_axial_skull_spine/manya-skull.glb",
+  "modelUrl": "assets/science/musklo-skeletal-system/quest_3_axial_skull_spine/manya-skull_compressed.glb",
   "hotspots": [
     {
       "id": "1",

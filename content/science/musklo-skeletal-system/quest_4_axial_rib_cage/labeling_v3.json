@@ -2,7 +2,7 @@
   "engineType": "3D_SKELETON",
   "mode": "quiz",
   "variantTitle": "Function & Protection Challenge",
-  "modelUrl": "assets/science/musklo-skeletal-system/quest_4_axial_rib_cage/rib-cage-heart.glb",
+  "modelUrl": "assets/science/musklo-skeletal-system/quest_4_axial_rib_cage/rib-cage-heart_compressed.glb",
   "hotspots": [
     { 
       "id": "2", 
