@@ -1,43 +1,43 @@
 {
-    "name":  "manya-react-assets",
-    "version":  "2.0.0",
-    "description":  "Comprehensive educational content assets - Science, Math, English, SST with 3D models, images, and interactive content",
-    "repository":  {
-                       "type":  "git",
-                       "url":  "https://github.com/manyaug/manya-react-assets.git"
-                   },
-    "keywords":  [
-                     "education",
-                     "science",
-                     "math",
-                     "sst",
-                     "english",
-                     "3d-models",
-                     "learning",
-                     "interactive-content",
-                     "glb-models",
-                     "manya"
-                 ],
-    "scripts":  {
-                    "release:patch":  "powershell -File release.ps1 -BumpType patch",
-                    "release:minor":  "powershell -File release.ps1 -BumpType minor",
-                    "release:major":  "powershell -File release.ps1 -BumpType major",
-                    "release:skip-push":  "powershell -File release.ps1 -BumpType patch -SkipPush $true",
-                    "release:skip-purge":  "powershell -File release.ps1 -BumpType patch -SkipPurge $true"
-                },
-    "author":  "MANYA Learning",
-    "license":  "MIT",
-    "content":  {
-                    "subjects":  [
-                                     "English",
-                                     "Mathematics",
-                                     "Science",
-                                     "Social Studies"
-                                 ],
-                    "assets":  {
-                                   "3d-models":  "Science GLB models with hotspots",
-                                   "images":  "WebP and JFIF format for web optimization",
-                                   "json-configs":  "Interactive content configurations"
-                               }
-                }
+  "name": "manya-react-assets",
+  "version": "2.0.1",
+  "description": "Comprehensive educational content assets - Science, Math, English, SST with 3D models, images, and interactive content",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manyaug/manya-react-assets.git"
+  },
+  "keywords": [
+    "education",
+    "science",
+    "math",
+    "sst",
+    "english",
+    "3d-models",
+    "learning",
+    "interactive-content",
+    "glb-models",
+    "manya"
+  ],
+  "scripts": {
+    "release:patch": "powershell -File release.ps1 -BumpType patch",
+    "release:minor": "powershell -File release.ps1 -BumpType minor",
+    "release:major": "powershell -File release.ps1 -BumpType major",
+    "release:skip-push": "powershell -File release.ps1 -BumpType patch -SkipPush $true",
+    "release:skip-purge": "powershell -File release.ps1 -BumpType patch -SkipPurge $true"
+  },
+  "author": "MANYA Learning",
+  "license": "MIT",
+  "content": {
+    "subjects": [
+      "English",
+      "Mathematics",
+      "Science",
+      "Social Studies"
+    ],
+    "assets": {
+      "3d-models": "Science GLB models with hotspots",
+      "images": "WebP and JFIF format for web optimization",
+      "json-configs": "Interactive content configurations"
+    }
+  }
 }
