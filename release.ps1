@@ -23,7 +23,9 @@ param(
     [bool]$SkipPurge = $false
 )
 
-# Color output helper
+# Helper functions for output
+$ErrorActionPreference = 'Stop'
+
 function Write-Header {
     param([string]$Text)
     Write-Host "`n========================================" -ForegroundColor Cyan
@@ -41,7 +43,7 @@ function Write-Info {
     Write-Host "ℹ $Text" -ForegroundColor Blue
 }
 
-function Write-Error {
+function Write-ErrorMsg {
     param([string]$Text)
     Write-Host "✗ $Text" -ForegroundColor Red
 }
@@ -51,7 +53,7 @@ Write-Header "MANYA ASSETS - Release Automation"
 
 # Check if package.json exists
 if (-not (Test-Path "package.json")) {
-    Write-Error "package.json not found in current directory!"
+    Write-ErrorMsg "package.json not found in current directory!"
     exit 1
 }
 
@@ -101,7 +103,7 @@ try {
     $packageJson | ConvertTo-Json -Depth 10 | Set-Content "package.json"
     Write-Success "Updated package.json to version $newVersion"
 } catch {
-    Write-Error "Failed to update package.json: $_"
+    Write-ErrorMsg "Failed to update package.json: $_"
     exit 1
 }
 
@@ -112,7 +114,7 @@ try {
     git commit -m "chore: bump version to $newVersion"
     Write-Success "Git commit created"
 } catch {
-    Write-Error "Failed to commit: $_"
+    Write-ErrorMsg "Failed to commit: $_"
     exit 1
 }
 
@@ -122,7 +124,7 @@ try {
     git tag -a "v$newVersion" -m "$Message"
     Write-Success "Git tag v$newVersion created"
 } catch {
-    Write-Error "Failed to create tag: $_"
+    Write-ErrorMsg "Failed to create tag: $_"
     exit 1
 }
 
@@ -138,7 +140,7 @@ if (-not $SkipPush) {
         git push origin --tags
         Write-Success "Tags pushed"
     } catch {
-        Write-Error "Failed to push: $_"
+        Write-ErrorMsg "Failed to push: $_"
         exit 1
     }
 } else {
@@ -158,7 +160,7 @@ if (-not $SkipPurge) {
             Write-Success "jsDelivr cache purged successfully"
         }
     } catch {
-        Write-Error "Warning: jsDelivr purge may have failed: $_"
+        Write-Information "Warning: jsDelivr purge may have failed: $_" -InformationAction Continue
         Write-Info "You can manually purge at: https://purge.jsdelivr.net/gh/manyaug/manya-react-assets@v$newVersion/"
     }
 } else {
