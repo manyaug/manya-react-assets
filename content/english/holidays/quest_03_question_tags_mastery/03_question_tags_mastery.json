@@ -25,7 +25,24 @@
         "image": "assets/english/chap-1-holidays/quest_1/holiday_chat_5.webp",
         "text": "Before we guess the tags — the sentences on the roadside signs are <b>WILTING</b>! The verbs don't match their subjects. <b>Tap the sick word</b> to fix it first!"
       }
-    },
+    }  ,
+      {
+      "id": "q3-game-garden-guard",
+      "engineType": "GARDEN_GUARD",
+      "data": {
+        "queries": [
+          { "text": "He is late, aren't he?", "error": "aren't", "correct": "isn't" },
+          { "text": "You like travel, doesn't you?", "error": "doesn't", "correct": "don't" },
+          { "text": "She went home, isn't she?", "error": "isn't", "correct": "didn't" },
+          { "text": "They can swim, don't they?", "error": "don't", "correct": "can't" },
+          { "text": "I am right, isn't I?", "error": "isn't", "correct": "aren't" },
+          { "text": "We will win, don't we?", "error": "don't", "correct": "won't" }
+        ],
+        "winScore": 500,
+        "spawnRate": 4000
+      }
+    }
+,
     {
       "id": "q3-game-hangman",
       "engineType": "HANGMAN_ENGINE",
