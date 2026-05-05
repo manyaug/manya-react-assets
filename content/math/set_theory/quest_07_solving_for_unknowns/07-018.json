@@ -3,7 +3,7 @@
   "mode": "quiz",
   "subject": "MATH",
   "topic": "Algebra",
-  "variantTitle": "Quest 7-014: Mystery Total",
+  "variantTitle": "Quest 7-018: Mystery Total",
   "sets": { "A": { "label": "A (2x)", "color": "#0284c7" }, "B": { "label": "B (3x)", "color": "#059669" } },
   "zones": { "left": ["2x-10"], "center": ["10"], "right": ["3x-10"], "outside": ["0"] },
   "questions": [

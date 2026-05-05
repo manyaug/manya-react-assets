@@ -27,11 +27,6 @@
       }
     },
     {
-      "id": "q3-game-garden-guard",
-      "engineType": "GARDEN_GUARD",
-      "data": {}
-    },
-    {
       "id": "q3-game-hangman",
       "engineType": "HANGMAN_ENGINE",
       "data": {
