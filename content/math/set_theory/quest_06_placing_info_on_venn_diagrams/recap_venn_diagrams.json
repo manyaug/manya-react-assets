@@ -1,0 +1,71 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Venn Diagrams",
+  "variantTitle": "Quest 6 Math Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is a Venn Diagram?",
+      "points": [
+        "A Venn Diagram uses circles to show how sets overlap.",
+        "Each region shows who belongs to one set, both sets, or neither.",
+        "It is a useful way to organise information visually."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Golden Rule: Fill the Middle First",
+      "points": [
+        "Always place the members that belong to both sets in the intersection first.",
+        "This makes it easier to fill the remaining 'only' regions.",
+        "Example: A red circle goes in the middle if it is red and a circle."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Fill the Only Regions",
+      "points": [
+        "After the middle, place objects that belong only to one set.",
+        "Left side is A only, right side is B only.",
+        "Example: A red square is red but not a circle, so it belongs in A only."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Outside the Circles",
+      "points": [
+        "Objects that do not belong to either set go outside the circles.",
+        "This region still stays inside the Universal Set.",
+        "Example: A blue square that is not red and not a circle belongs outside."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: If the question gives totals instead of lists, use subtraction: circle total minus intersection gives the 'only' region."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Venn Diagram",
+      "fact": "A diagram that shows set relationships using overlapping circles.",
+      "mnemonic": "Venn diagrams help you see overlap clearly."
+    },
+    {
+      "term": "Intersection",
+      "fact": "The middle region where both sets overlap.",
+      "mnemonic": "Intersection is the shared space."
+    },
+    {
+      "term": "Only Region",
+      "fact": "A region for members of one set but not the other.",
+      "mnemonic": "Only means no sharing."
+    },
+    {
+      "term": "Outside Region",
+      "fact": "Members that are not in either circle.",
+      "mnemonic": "Outside means neither set."
+    }
+  ]
+}

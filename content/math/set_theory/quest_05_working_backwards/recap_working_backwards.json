@@ -1,0 +1,67 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Working Backwards",
+  "variantTitle": "Quest 5 Math Recap",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Reverse the Problem",
+      "points": [
+        "Instead of counting members to find subsets, we start with the number of subsets.",
+        "Then we work backwards to find n, the number of members.",
+        "This uses the same formula 2ⁿ = number of subsets."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Recognise Power of 2",
+      "points": [
+        "2¹ = 2 subsets, 2² = 4, 2³ = 8, 2⁴ = 16.",
+        "If a set has 8 subsets, then n = 3 because 2³ = 8.",
+        "Use the table of powers to decode the answer."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Proper Subsets to Total Subsets",
+      "points": [
+        "If you are given proper subsets, add 1 to get total subsets.",
+        "Example: 15 proper subsets means 16 total subsets.",
+        "Then solve 2ⁿ = 16 to find n = 4."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Example with 63 Proper Subsets",
+      "points": [
+        "Add 1: 63 + 1 = 64 total subsets.",
+        "64 = 2⁶, so n = 6.",
+        "This means the set has 6 members."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "term": "Reverse Counting",
+      "fact": "Find the number of set members using the number of subsets.",
+      "mnemonic": "Work backwards from 2ⁿ."
+    },
+    {
+      "term": "Power of 2",
+      "fact": "The pattern of subset counts: 2, 4, 8, 16, ...",
+      "mnemonic": "Each extra item doubles the subsets."
+    },
+    {
+      "term": "Total Subsets",
+      "fact": "All subsets including the set itself.",
+      "mnemonic": "Total includes every possible subgroup."
+    },
+    {
+      "term": "Proper Subsets",
+      "fact": "All subsets except the set itself.",
+      "mnemonic": "Proper means we remove the whole set."
+    }
+  ]
+}

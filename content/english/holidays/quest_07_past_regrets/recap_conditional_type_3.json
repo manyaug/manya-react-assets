@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Third Conditional",
+  "variantTitle": "Past Regrets Recap",
+  "themeColor": "#ec4899",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is the Third Conditional?",
+      "points": [
+        "It talks about past situations that did not happen.",
+        "The structure is: If + past perfect, would have + past participle.",
+        "Example: 'If I had remembered, I would have stayed dry.'"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "When to Use It",
+      "points": [
+        "Use it when you imagine a different past outcome.",
+        "It often shows regret or missed opportunities.",
+        "Example: 'If she had trained, she would have won.'"
+      ]
+    },
+      {
+      "type": "warning",
+      "text": "Tip: This conditional does not change the past — it only imagines what could have happened."
+    }
+  ],
+  "cards": [
+    {
+      "term": "If + past perfect",
+      "fact": "The first part of a third conditional sentence.",
+      "mnemonic": "If I had known..."
+    },
+    {
+      "term": "Would have + past participle",
+      "fact": "The result part of a third conditional sentence.",
+      "mnemonic": "...I would have come."
+    },
+    {
+      "term": "Regret",
+      "fact": "Third conditional often shows a wish for a different past.",
+      "mnemonic": "If only..."
+    }
+  ]
+}

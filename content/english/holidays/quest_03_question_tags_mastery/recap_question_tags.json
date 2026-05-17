@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Question Tags",
+  "variantTitle": "Question Tag Mastery Recap",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What are Question Tags?",
+      "points": [
+        "A question tag is added to the end of a statement to check or confirm information.",
+        "Positive sentences usually end with a negative tag.",
+        "Negative sentences usually end with a positive tag."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "How to Choose the Tag",
+      "points": [
+        "Use the same auxiliary verb from the sentence.",
+        "If there is no auxiliary, use do/does/did.",
+        "Example: 'She can swim, can't she?'"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Remember: 'I am' uses the special tag 'aren't I?'."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Mirror rule",
+      "fact": "Positive statement + negative tag, negative statement + positive tag.",
+      "mnemonic": "Mirror the sentence with the opposite tag."
+    },
+    {
+      "term": "Auxiliary verb",
+      "fact": "The helper verb stays the same in the tag.",
+      "mnemonic": "Can → can't, will → won't, do → don't."
+    },
+    {
+      "term": "Special case",
+      "fact": "I am uses 'aren't I?' instead of 'amn't I?'.",
+      "mnemonic": "I am right, aren't I?"
+    }
+  ]
+}

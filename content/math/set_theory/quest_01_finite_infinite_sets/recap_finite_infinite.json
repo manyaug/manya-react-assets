@@ -1,0 +1,71 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Finite and Infinite Sets",
+  "variantTitle": "Quest 1 Math Recap",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is a Set?",
+      "points": [
+        "A set is a collection of objects that belong together.",
+        "Each object inside a set is called a member or element.",
+        "Example: { 1, 2, 3 } is a set of three numbers."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Finite Sets",
+      "points": [
+        "A finite set has a definite number of members.",
+        "You can count them and reach an end.",
+        "Example: { a, e, i, o, u } has 5 members."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Infinite Sets",
+      "points": [
+        "An infinite set goes on forever and never ends.",
+        "Example: { 1, 2, 3, ... } keeps growing without stopping.",
+        "We write '...' to show the set continues forever."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Counting Members",
+      "points": [
+        "The number of members in a set is written as n(A).",
+        "For { 2, 4, 6 }, n(A) = 3.",
+        "For an infinite set, we cannot give a final count."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Remember: A set is not infinite just because it has many members. Infinite means it never ends, like counting all natural numbers."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Set",
+      "fact": "A collection of well-defined objects.",
+      "mnemonic": "Think of a set as a basket holding items."
+    },
+    {
+      "term": "Finite Set",
+      "fact": "A set with a fixed number of members.",
+      "mnemonic": "Finite = Finish. It ends."
+    },
+    {
+      "term": "Infinite Set",
+      "fact": "A set that continues forever.",
+      "mnemonic": "Infinite = No end, like 1, 2, 3, ..."
+    },
+    {
+      "term": "Cardinal Number",
+      "fact": "n(A) shows the number of members in set A.",
+      "mnemonic": "Count the contents."
+    }
+  ]
+}

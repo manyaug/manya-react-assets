@@ -1,0 +1,62 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Proper Subsets",
+  "variantTitle": "Quest 4 Math Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Proper vs Improper Subsets",
+      "points": [
+        "A proper subset is smaller than the original set.",
+        "A set cannot be a proper subset of itself.",
+        "If A = {a, b}, then {a} is proper but {a, b} is not."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "The Shortcut Formula",
+      "points": [
+        "Total subsets of a set with n members is 2ⁿ.",
+        "Proper subsets are one less than total subsets.",
+        "Formula: Proper Subsets = 2ⁿ - 1."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Example with 2 Members",
+      "points": [
+        "For {a, b}, total subsets = 2² = 4.",
+        "Proper subsets = 4 - 1 = 3.",
+        "Proper subsets: {a}, {b}, {}."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Why We Subtract 1",
+      "points": [
+        "The one subset we remove is the set itself.",
+        "This subset is called the improper subset.",
+        "Every set always contains itself as a subset."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "term": "Proper Subset",
+      "fact": "A subset that is strictly smaller than the original set.",
+      "mnemonic": "Proper means it is not the full set."
+    },
+    {
+      "term": "Improper Subset",
+      "fact": "A subset that is the set itself.",
+      "mnemonic": "Improper is the whole set, so it is not proper."
+    },
+    {
+      "term": "Formula",
+      "fact": "Use 2ⁿ - 1 to count proper subsets.",
+      "mnemonic": "Subtract the one exact match."
+    }
+  ]
+}

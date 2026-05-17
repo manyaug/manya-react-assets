@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Reported Speech",
+  "variantTitle": "Reported Speech Mastery Recap",
+  "themeColor": "#f43f5e",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is Reported Speech?",
+      "points": [
+        "It tells what someone else said without using their exact words.",
+        "We usually change the verb tense back in time.",
+        "Example: 'I am happy' becomes 'He said he was happy.'"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Common Changes",
+      "points": [
+        "Present becomes past: am/is → was.",
+        "Will becomes would, can becomes could.",
+        "Have/has becomes had."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "If the reporting verb is in the past, the reported verb usually moves back one tense."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Direct speech",
+      "fact": "When someone’s exact words are shown in quotes.",
+      "mnemonic": "He said, 'I am going.'"
+    },
+    {
+      "term": "Reported speech",
+      "fact": "When we describe what someone said using a reporting verb.",
+      "mnemonic": "He said that he was going."
+    },
+    {
+      "term": "Tense shift",
+      "fact": "A change in verb tense from direct to reported speech.",
+      "mnemonic": "Now becomes then."
+    }
+  ]
+}

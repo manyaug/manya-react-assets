@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Chapter 1 Mastery",
+  "variantTitle": "Final Review Recap",
+  "themeColor": "#f59e0b",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Key Grammar Points",
+      "points": [
+        "Future plans use 'going to'.",
+        "Question tags check information: positive + negative, negative + positive.",
+        "Reported speech changes tense: 'will' becomes 'would'."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Useful Writing Tips",
+      "points": [
+        "Use punctuation marks to make meanings clear.",
+        "Use -ing adjectives for causes and -ed adjectives for feelings.",
+        "Use passive voice when the action is the focus."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: If you are unsure, ask 'What is the main idea?' and choose the grammar form that matches it."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Going to",
+      "fact": "Used for planned future actions.",
+      "mnemonic": "I am going to..."
+    },
+    {
+      "term": "Question tags",
+      "fact": "Add a short question at the end of a sentence to confirm it.",
+      "mnemonic": "You are coming, aren't you?"
+    },
+    {
+      "term": "Reported speech",
+      "fact": "Use it to tell someone what another person said.",
+      "mnemonic": "He said that..."
+    }
+  ]
+}

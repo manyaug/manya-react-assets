@@ -1,0 +1,76 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Applications of Sets",
+  "variantTitle": "Quest 8 Math Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "From Words to Venn Diagrams",
+      "points": [
+        "Many exam questions are written as stories about people or objects.",
+        "The first job is to turn the story into a Venn Diagram.",
+        "Look for keywords like 'only', 'at least one', and 'neither'."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Only One Item",
+      "points": [
+        "This means the members in one set only, not the overlap.",
+        "Example: Tea only or Cake only are the two outer regions of the diagram.",
+        "Add those regions to find the answer."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "At Least One",
+      "points": [
+        "This asks for the union of the sets.",
+        "It includes both the only regions and the intersection.",
+        "Example: 20 + 15 + 10 = 45."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Neither or None",
+      "points": [
+        "This is the outside region, not in either circle.",
+        "It is part of the Universal Set but not part of A or B.",
+        "Example: 5 guests took neither item."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Probability in Venn Problems",
+      "points": [
+        "Probability is target count divided by total count.",
+        "Example: Both = 15 out of 50 gives 15/50.",
+        "Always count all regions before writing the fraction."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "term": "Word Problem",
+      "fact": "A story that must be converted into set language.",
+      "mnemonic": "Read slowly and find the set clues."
+    },
+    {
+      "term": "At Least One",
+      "fact": "The union of the sets, including the overlap.",
+      "mnemonic": "At least one means everyone who has anything."
+    },
+    {
+      "term": "Neither",
+      "fact": "The region outside both circles.",
+      "mnemonic": "Neither means none of the options."
+    },
+    {
+      "term": "Probability",
+      "fact": "Chance = target count / total count.",
+      "mnemonic": "Probability compares one part to the whole."
+    }
+  ]
+}

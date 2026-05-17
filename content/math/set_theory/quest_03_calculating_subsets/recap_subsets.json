@@ -1,0 +1,71 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Subsets",
+  "variantTitle": "Quest 3 Math Recap",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is a Subset?",
+      "points": [
+        "Set A is a subset of Set B when every member of A is also in B.",
+        "Example: {1, 2} is a subset of {1, 2, 3}.",
+        "We write this as A ⊂ B."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "The Empty Set",
+      "points": [
+        "The empty set has no members and is written {} or Ø.",
+        "The empty set is a subset of every set.",
+        "Example: Ø ⊂ {1, 2, 3}."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Counting Subsets",
+      "points": [
+        "The total number of subsets of a set with n members is 2ⁿ.",
+        "Example: A = {1, 2, 4} has 3 members, so 2³ = 8 subsets.",
+        "Each member can either be inside a subset or left out."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Example: Set with 2 Members",
+      "points": [
+        "If V = {a, b}, then n = 2.",
+        "2² = 4 subsets.",
+        "The subsets are: {a, b}, {a}, {b}, {}."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Important: The whole set itself is always one of its subsets."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Subset",
+      "fact": "A set whose members all appear inside another set.",
+      "mnemonic": "A subset fits inside a bigger set like a smaller box."
+    },
+    {
+      "term": "Empty Set",
+      "fact": "A set with no members.",
+      "mnemonic": "Empty means nothing is inside."
+    },
+    {
+      "term": "Power of Two",
+      "fact": "The formula 2ⁿ gives the total number of subsets.",
+      "mnemonic": "Every item has 2 choices: in or out."
+    },
+    {
+      "term": "Subset Notation",
+      "fact": "We use ⊂ to say one set is inside another set.",
+      "mnemonic": "The shape points from smaller to larger."
+    }
+  ]
+}

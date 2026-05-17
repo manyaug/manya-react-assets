@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Village Arrival",
+  "variantTitle": "Village Arrival Recap",
+  "themeColor": "#22c55e",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "New Vocabulary",
+      "points": [
+        "FARM, ROUTINE, and NOTICE are useful words for village life.",
+        "PUNCTUATION helps make sentences clear and correct.",
+        "Daily chores can be described with verbs like MILK, COOK, and CLEAN."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Fixing Sentences",
+      "points": [
+        "A sentence needs the right punctuation mark to make sense.",
+        "Question marks, periods, and commas are the most common.",
+        "Example: 'What is the time?' uses a question mark."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: A sentence with a question needs a question mark, and a complete statement usually ends with a period."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Routine",
+      "fact": "A regular set of tasks done every day.",
+      "mnemonic": "Routine is what we do day after day."
+    },
+    {
+      "term": "Notice",
+      "fact": "A written message that gives information or instructions.",
+      "mnemonic": "A notice tells people what to do."
+    },
+    {
+      "term": "Punctuation",
+      "fact": "Marks that organize writing and show pauses or stops.",
+      "mnemonic": "Punctuation makes meaning clear."
+    }
+  ]
+}

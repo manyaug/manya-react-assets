@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Voice Mastery",
+  "variantTitle": "Active and Passive Recap",
+  "themeColor": "#14b8a6",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Active Voice",
+      "points": [
+        "The subject performs the action.",
+        "Example: 'Kiki cooked the food.'",
+        "Active voice is direct and clear."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Passive Voice",
+      "points": [
+        "The subject receives the action.",
+        "Example: 'The food was cooked by Kiki.'",
+        "Use passive when the action or result is more important than the doer."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Remember: Passive voice uses a form of 'be' plus the past participle."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Active voice",
+      "fact": "Subject + verb + object.",
+      "mnemonic": "Actor first."
+    },
+    {
+      "term": "Passive voice",
+      "fact": "Object + be + past participle (+ by agent).",
+      "mnemonic": "Receiver first."
+    },
+    {
+      "term": "Be + past participle",
+      "fact": "The key structure for passive sentences.",
+      "mnemonic": "Is being cooked."
+    }
+  ]
+}

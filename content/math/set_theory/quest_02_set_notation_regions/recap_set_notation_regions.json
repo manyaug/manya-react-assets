@@ -1,0 +1,78 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Set Notation and Regions",
+  "variantTitle": "Quest 2 Math Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is a Set?",
+      "points": [
+        "A set is a group of things that are clearly defined.",
+        "We use curly braces { } to list the members.",
+        "Example: { 2, 4, 6 } is a set of even numbers."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Intersection (∩)",
+      "points": [
+        "Intersection are members shared by both sets.",
+        "Example: A ∩ B contains elements that appear in A and in B.",
+        "If A = {1, 2, 3} and B = {2, 3, 4}, then A ∩ B = {2, 3}."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Union (∪)",
+      "points": [
+        "Union is everything in A or B or both.",
+        "It joins all members without repeating them.",
+        "Example: A ∪ B = {1, 2, 3, 4}."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Difference and 'Only' Regions",
+      "points": [
+        "A - B means the members in A but not in B.",
+        "This is called the 'A only' region.",
+        "Example: If A = {1, 2, 3} and B = {3, 4}, then A - B = {1, 2}."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Intersection vs Union",
+      "itemA": "Intersection (∩)",
+      "itemB": "Union (∪)",
+      "rows": [
+        { "feature": "Meaning", "valA": "Items in both sets", "valB": "Items in either set" },
+        { "feature": "Example", "valA": "{2, 3}", "valB": "{1, 2, 3, 4}" },
+        { "feature": "Used for", "valA": "Common members", "valB": "Combined members" }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "term": "Intersection",
+      "fact": "The overlap where both sets share members.",
+      "mnemonic": "Intersect means 'meet in the middle'."
+    },
+    {
+      "term": "Union",
+      "fact": "All members from both sets combined.",
+      "mnemonic": "Union is a big team of both sets."
+    },
+    {
+      "term": "Difference",
+      "fact": "Members in A that are not in B.",
+      "mnemonic": "Difference keeps A only."
+    },
+    {
+      "term": "Set Notation",
+      "fact": "Sets are written with curly braces and symbols like ∩ and ∪.",
+      "mnemonic": "Braces hold the set, symbols show the action."
+    }
+  ]
+}

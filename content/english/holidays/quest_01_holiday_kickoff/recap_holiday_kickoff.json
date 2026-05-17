@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Holiday Kickoff",
+  "variantTitle": "Holiday Vocab & Grammar Recap",
+  "themeColor": "#f97316",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Holiday Vocabulary",
+      "points": [
+        "Words like VACATION, PEN-PAL, and RURAL help describe the holiday story.",
+        "A PEN-PAL is a friend you write to, often from far away.",
+        "RURAL describes a village or countryside place."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Nouns and Verbs",
+      "points": [
+        "A NOUN names a person, place, or thing, such as FARM or CHORES.",
+        "A VERB shows an action, such as SCRUB, DIG, or PLAN.",
+        "Sentences often use both a noun and a verb together."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: If a word tells you 'what is happening', it is usually a verb. If it names someone or something, it is usually a noun."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Vacation",
+      "fact": "A break from school or work, often for travel or rest.",
+      "mnemonic": "Vacation = time away from regular routine."
+    },
+    {
+      "term": "Pen-pal",
+      "fact": "A friend you write letters to, usually in another place.",
+      "mnemonic": "Pen-pal uses a pen to make a new pal."
+    },
+    {
+      "term": "Rural",
+      "fact": "A place in the countryside, away from the city.",
+      "mnemonic": "Rural = relaxed village life."
+    }
+  ]
+}

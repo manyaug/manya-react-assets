@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Feeling and Facts",
+  "variantTitle": "-ing and -ed Adjectives Recap",
+  "themeColor": "#8b5cf6",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "-ing Adjectives",
+      "points": [
+        "These describe what something is like or what it causes.",
+        "Example: The village is exciting.",
+        "Use -ing when the thing makes a feeling happen."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "-ed Adjectives",
+      "points": [
+        "These describe how someone feels.",
+        "Example: I am excited.",
+        "Use -ed when a person receives the feeling."
+      ]
+    },
+      {
+      "type": "warning",
+      "text": "Remember: The same base word can make two different adjectives with -ing and -ed."
+    }
+  ],
+  "cards": [
+    {
+      "term": "-ing adjective",
+      "fact": "Shows the cause of the emotion or quality.",
+      "mnemonic": "The thing is exciting."
+    },
+    {
+      "term": "-ed adjective",
+      "fact": "Shows the feeling of a person or thing.",
+      "mnemonic": "I am excited."
+    },
+    {
+      "term": "Pair",
+      "fact": "Many adjectives come in -ing / -ed pairs with different meanings.",
+      "mnemonic": "One makes you feel, the other describes you."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Probability",
+  "variantTitle": "Quest 10 Math Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is Probability?",
+      "points": [
+        "Probability shows the chance of choosing someone from a group.",
+        "The formula is: target count / total count.",
+        "Write the answer as a fraction or simplified ratio."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Simple Probability",
+      "points": [
+        "If Set A has 40 people out of 60 total, probability = 40/60.",
+        "Simplify the fraction if needed: 40/60 = 2/3.",
+        "Always count the right parts of the Venn diagram."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Probability of 'Only'",
+      "points": [
+        "For 'B only', use the part that is in B but not in A.",
+        "Example: If B only = 20 and total is 60, probability = 20/60 = 1/3.",
+        "Do not include the intersection in 'only' questions."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Probability of Neither",
+      "points": [
+        "If the outside region has 14 people and total is 60, probability = 14/60.",
+        "Always include outside when the question asks for neither.",
+        "Count all regions before writing the probability."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "term": "Probability",
+      "fact": "Chance = target count divided by total count.",
+      "mnemonic": "Probability compares one part to the whole."
+    },
+    {
+      "term": "Target Count",
+      "fact": "The number of favourable outcomes.",
+      "mnemonic": "The target is what we want to pick."
+    },
+    {
+      "term": "Total Count",
+      "fact": "The number of all possible outcomes.",
+      "mnemonic": "Total is the full group size."
+    },
+    {
+      "term": "Neither",
+      "fact": "The people outside both circles.",
+      "mnemonic": "Neither means none of the options."
+    }
+  ]
+}

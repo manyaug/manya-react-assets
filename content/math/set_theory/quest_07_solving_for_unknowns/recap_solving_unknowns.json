@@ -1,0 +1,71 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Solving Unknowns",
+  "variantTitle": "Quest 7 Math Recap",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Using Letters in Venn Problems",
+      "points": [
+        "Sometimes a region is labelled with a letter like x or y.",
+        "We write an equation to find that unknown value.",
+        "Read the question carefully to know which regions are included."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Whole Circle Equations",
+      "points": [
+        "If n(A) is given, it includes both A only and the intersection.",
+        "Example: x + 10 = 25 means the whole circle A has 25 members.",
+        "Solve the equation to find x."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Total Class Equation",
+      "points": [
+        "When total pupils are given, add every region including outside.",
+        "Example: x + 10 + 2x + 5 = 50.",
+        "Solve the sum to find the unknown value."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Intersection Trick",
+      "points": [
+        "If n(A) and n(B) are both given, the overlap may be counted twice.",
+        "Use: (A + B) - Total = Intersection.",
+        "Example: 30 + 25 - 50 = 5."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Always substitute the value back into the question before answering. If x = 15 and the question asks for 2x, answer 30."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Unknown",
+      "fact": "A letter representing an unknown number in a set region.",
+      "mnemonic": "Solve the unknown like a mystery."
+    },
+    {
+      "term": "Whole Circle",
+      "fact": "The total of a set including the intersection.",
+      "mnemonic": "Whole circle = all pieces in that circle."
+    },
+    {
+      "term": "Total Class",
+      "fact": "The sum of all regions, including outside the circles.",
+      "mnemonic": "Total class counts everyone."
+    },
+    {
+      "term": "Intersection Trick",
+      "fact": "Use (A + B) - Total = Intersection when A and B overlap.",
+      "mnemonic": "Double count minus total gives the overlap."
+    }
+  ]
+}

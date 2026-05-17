@@ -1,0 +1,67 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Complements",
+  "variantTitle": "Quest 9 Math Recap",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is a Complement?",
+      "points": [
+        "The complement of set A is everything that is not in A.",
+        "We write it as A'.",
+        "Example: If A = {1, 2}, and the universal set is {1, 2, 3, 4}, then A' = {3, 4}."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Visual Test for 'Not'",
+      "points": [
+        "If the question says 'Not Pizza', we exclude the Pizza circle completely.",
+        "We include only Burger only and outside.",
+        "This is how complement problems are solved visually."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Finding Neither",
+      "points": [
+        "When the total is given, add all regions and subtract from the total.",
+        "Example: 15 + 10 + 10 + y = 50 means y = 15.",
+        "The outside region is the neither group."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Not Both (Complement of Intersection)",
+      "points": [
+        "n(S ∩ W)' means everything except the middle region.",
+        "This includes left only, right only, and outside.",
+        "Example: If 'not both' = 32, then you count all non-middle regions."
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "term": "Complement",
+      "fact": "All members not inside the given set.",
+      "mnemonic": "A' means everything outside A."
+    },
+    {
+      "term": "Neither",
+      "fact": "The region outside both circles.",
+      "mnemonic": "Neither means none of the choices."
+    },
+    {
+      "term": "Not Both",
+      "fact": "Everything except the intersection of two sets.",
+      "mnemonic": "Not both removes the middle part."
+    },
+    {
+      "term": "Universal Set",
+      "fact": "The big box containing all items under discussion.",
+      "mnemonic": "The universal set is the scene for the whole problem."
+    }
+  ]
+}

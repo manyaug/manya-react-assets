@@ -1,0 +1,48 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Going to Future",
+  "variantTitle": "Going To Mastery Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What 'Going to' Means",
+      "points": [
+        "Use 'going to' for plans or intentions in the near future.",
+        "The structure is subject + be + going to + base verb.",
+        "Example: 'She is going to visit relatives.'"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Common Uses",
+      "points": [
+        "We use it when the plan is already decided.",
+        "It is not the same as a sudden promise or offer.",
+        "Example: 'I am going to cook rice.' is a planned action."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Note: For a quick decision or promise, use 'will' instead of 'going to'."
+    }
+  ],
+  "cards": [
+    {
+      "term": "Future plan",
+      "fact": "'Going to' describes something you intend to do.",
+      "mnemonic": "Going to = a plan already in motion."
+    },
+    {
+      "term": "Be verb",
+      "fact": "Use am/is/are before 'going to'.",
+      "mnemonic": "I am, you are, she is going to."
+    },
+    {
+      "term": "Base verb",
+      "fact": "After 'going to' use the verb in its basic form.",
+      "mnemonic": "Going to play, going to eat, going to travel."
+    }
+  ]
+}

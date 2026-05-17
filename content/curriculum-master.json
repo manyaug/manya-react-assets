@@ -94,6 +94,10 @@
               {
                 "label": "Practice 008.2",
                 "file": "01-008_2"
+              },
+              {
+                "label": "Recap Finite Infinite",
+                "file": "recap_finite_infinite"
               }
             ],
             "practiceCount": 0
@@ -114,6 +118,10 @@
               {
                 "label": "Study Relations",
                 "file": "study_relations"
+              },
+              {
+                "label": "Recap Set Notation Regions",
+                "file": "recap_set_notation_regions"
               }
             ],
             "practiceCount": 20
@@ -126,6 +134,10 @@
               {
                 "label": "Study Subsets",
                 "file": "study_subsets"
+              },
+              {
+                "label": "Recap Subsets",
+                "file": "recap_subsets"
               }
             ],
             "practiceCount": 10
@@ -138,6 +150,10 @@
               {
                 "label": "Study Proper Subsets",
                 "file": "study_proper_subsets"
+              },
+              {
+                "label": "Recap Proper Subsets",
+                "file": "recap_proper_subsets"
               }
             ],
             "practiceCount": 19
@@ -150,6 +166,10 @@
               {
                 "label": "Study Reverse Subsets",
                 "file": "study_reverse_subsets"
+              },
+              {
+                "label": "Recap Working Backwards",
+                "file": "recap_working_backwards"
               }
             ],
             "practiceCount": 19
@@ -174,6 +194,10 @@
               {
                 "label": "Study Ven Solving",
                 "file": "study_ven_solving"
+              },
+              {
+                "label": "Recap Venn Diagrams",
+                "file": "recap_venn_diagrams"
               }
             ],
             "practiceCount": 24
@@ -190,6 +214,10 @@
               {
                 "label": "Study Finding Unknowns",
                 "file": "study_finding_unknowns"
+              },
+              {
+                "label": "Recap Solving Unknowns",
+                "file": "recap_solving_unknowns"
               }
             ],
             "practiceCount": 24
@@ -202,6 +230,10 @@
               {
                 "label": "Study Applications",
                 "file": "study_applications"
+              },
+              {
+                "label": "Recap Applications",
+                "file": "recap_applications"
               }
             ],
             "practiceCount": 21
@@ -214,6 +246,10 @@
               {
                 "label": "Study Complements",
                 "file": "study_complements"
+              },
+              {
+                "label": "Recap Complements",
+                "file": "recap_complements"
               }
             ],
             "practiceCount": 23
@@ -230,6 +266,10 @@
               {
                 "label": "Study Probabilities",
                 "file": "study_probabilities"
+              },
+              {
+                "label": "Recap Probability",
+                "file": "recap_probability"
               }
             ],
             "practiceCount": 37
@@ -1308,6 +1348,10 @@
               {
                 "label": "01 Holiday Kickoff",
                 "file": "01_holiday_kickoff"
+              },
+              {
+                "label": "Holiday Kickoff Recap",
+                "file": "recap_holiday_kickoff"
               }
             ],
             "practiceCount": 0
@@ -1320,6 +1364,10 @@
               {
                 "label": "02 Going To Mastery",
                 "file": "02_going_to_mastery"
+              },
+              {
+                "label": "Going To Recap",
+                "file": "recap_going_to"
               }
             ],
             "practiceCount": 0
@@ -1332,6 +1380,10 @@
               {
                 "label": "03 Question Tags Mastery",
                 "file": "03_question_tags_mastery"
+              },
+              {
+                "label": "Question Tags Recap",
+                "file": "recap_question_tags"
               }
             ],
             "practiceCount": 0
@@ -1344,6 +1396,10 @@
               {
                 "label": "04 Reported Speech Mastery",
                 "file": "04_reported_speech_mastery"
+              },
+              {
+                "label": "Reported Speech Recap",
+                "file": "recap_reported_speech"
               }
             ],
             "practiceCount": 0
@@ -1356,6 +1412,10 @@
               {
                 "label": "05 Village Arrival",
                 "file": "05_village_arrival"
+              },
+              {
+                "label": "Village Arrival Recap",
+                "file": "recap_village_arrival"
               }
             ],
             "practiceCount": 0
@@ -1368,6 +1428,10 @@
               {
                 "label": "06 Feeling And Facts",
                 "file": "06_feeling_and_facts"
+              },
+              {
+                "label": "Feeling And Facts Recap",
+                "file": "recap_adj_ing_ed"
               }
             ],
             "practiceCount": 0
@@ -1380,6 +1444,10 @@
               {
                 "label": "07 Past Regrets",
                 "file": "07_past_regrets"
+              },
+              {
+                "label": "Past Regrets Recap",
+                "file": "recap_conditional_type_3"
               }
             ],
             "practiceCount": 0
@@ -1392,6 +1460,10 @@
               {
                 "label": "08 Voice Mastery",
                 "file": "08_voice_mastery"
+              },
+              {
+                "label": "Voice Mastery Recap",
+                "file": "recap_active_passive"
               }
             ],
             "practiceCount": 0
@@ -1404,6 +1476,10 @@
               {
                 "label": "09 Final Review",
                 "file": "09_final_review"
+              },
+              {
+                "label": "Chapter Review Recap",
+                "file": "recap_chapter_review"
               }
             ],
             "practiceCount": 0
