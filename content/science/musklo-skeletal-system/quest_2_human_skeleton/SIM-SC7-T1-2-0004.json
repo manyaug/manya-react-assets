@@ -1,0 +1,55 @@
+{
+  "engineType": "3D_SKELETON",
+  "mode": "quiz",
+  "qid": "SIM-SC7-T1-2-0004",
+  "variantTitle": "Skeleton Mastery: Girdles & Limbs",
+  "modelUrl": "assets/science/musklo-skeletal-system/quest_2_human_skeleton/male_skeleton_compressed.glb",
+  "hotspots": [
+    {
+      "id": "7",
+      "label": "Pectoral Girdle",
+      "pos": "-1.23 14.97 -1.28",
+      "info": "Shoulder structure"
+    },
+    {
+      "id": "10",
+      "label": "Humerus",
+      "pos": "-2.78 13.81 -0.38",
+      "info": "Upper arm bone"
+    },
+    {
+      "id": "9",
+      "label": "Pelvic Girdle",
+      "pos": "-0.95 10.41 -0.02",
+      "info": "Hip structure"
+    },
+    {
+      "id": "12",
+      "label": "Femur",
+      "pos": "1.35 7.51 0.36",
+      "info": "Thigh bone"
+    },
+    {
+      "id": "13",
+      "label": "Patella",
+      "pos": "-1.03 5.27 0.73",
+      "info": "Kneecap"
+    },
+    {
+      "id": "14",
+      "label": "Tibia & Fibula",
+      "pos": "1.19 3.22 0.16",
+      "info": "Lower leg bones"
+    }
+  ],
+  "wordBank": [
+    "Pectoral Girdle",
+    "Humerus",
+    "Pelvic Girdle",
+    "Femur",
+    "Patella",
+    "Tibia & Fibula",
+    "Vertebrae",
+    "Sternum"
+  ]
+}

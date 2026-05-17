@@ -1,0 +1,55 @@
+{
+  "engineType": "3D_SKELETON",
+  "mode": "quiz",
+  "qid": "SIM-SC7-T1-4-0004",
+  "variantTitle": "Rib Cage: Structure Challenge",
+  "modelUrl": "assets/science/musklo-skeletal-system/quest_4_axial_rib_cage/rib-cage-heart_compressed.glb",
+  "hotspots": [
+    {
+      "id": "2",
+      "label": "True Ribs",
+      "pos": "0.09 0.19 -0.13",
+      "info": "Ribs 1-7"
+    },
+    {
+      "id": "2b",
+      "label": "False Ribs",
+      "pos": "0.15 0.12 -0.10",
+      "info": "Ribs 8-10"
+    },
+    {
+      "id": "2c",
+      "label": "Floating Ribs",
+      "pos": "0.20 0.05 -0.08",
+      "info": "Ribs 11-12"
+    },
+    {
+      "id": "3",
+      "label": "Sternum",
+      "pos": "0.18 0.14 -0.01",
+      "info": "Breastbone"
+    },
+    {
+      "id": "6",
+      "label": "Thoracic Vertebrae",
+      "pos": "-0.13 0.13 -0.00",
+      "info": "Spine attachment"
+    },
+    {
+      "id": "8",
+      "label": "Costal Cartilage",
+      "pos": "0.21 -0.04 -0.07",
+      "info": "Flexible connector"
+    }
+  ],
+  "wordBank": [
+    "True Ribs",
+    "False Ribs",
+    "Floating Ribs",
+    "Sternum",
+    "Thoracic Vertebrae",
+    "Costal Cartilage",
+    "Heart",
+    "Lungs"
+  ]
+}

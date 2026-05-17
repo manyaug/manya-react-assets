@@ -1,0 +1,40 @@
+{
+  "engineType": "2D_HOTSPOT",
+  "mode": "quiz",
+  "qid": "SIM-SC7-T1-10-0002",
+  "variantTitle": "Muscle Types: Properties Quiz",
+  "imageUrl": "assets/science/musklo-skeletal-system/quest_10_muscular_system_types/3_muscle_types.webp",
+  "hotspots": [
+    {
+      "id": "cardiac_q",
+      "label": "Cardiac Muscle",
+      "x": 54.2,
+      "y": 38.67,
+      "info": "Heart muscle"
+    },
+    {
+      "id": "smooth_q",
+      "label": "Smooth Muscle",
+      "x": 54.69,
+      "y": 60.74,
+      "info": "Organ muscle"
+    },
+    {
+      "id": "skeletal_q",
+      "label": "Skeletal Muscle",
+      "x": 26.17,
+      "y": 44.73,
+      "info": "Movement muscle"
+    }
+  ],
+  "wordBank": [
+    "Cardiac Muscle",
+    "Smooth Muscle",
+    "Skeletal Muscle",
+    "Voluntary",
+    "Involuntary",
+    "Striated",
+    "Non-striated",
+    "Bone Attached"
+  ]
+}
