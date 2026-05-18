@@ -82,5 +82,6 @@
       "fact": "When a bone moves out of its normal position at a joint.",
       "mnemonic": "<b>D</b>islocation = <b>D</b>isplaced bone!"
     }
-  ]
+  ],
+  "qid": "recap_joints_structure"
 }

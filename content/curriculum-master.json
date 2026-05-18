@@ -1088,7 +1088,7 @@
               },
               {
                 "label": "Quest 1 Master Study Guide",
-                "file": "recap_quest_1"
+                "file": "recap_types_of_skeletons"
               }
             ],
             "practiceCount": 0
@@ -1104,7 +1104,7 @@
               },
               {
                 "label": "The Human Skeleton",
-                "file": "study_sim"
+                "file": "study_human_skeleton"
               },
               {
                 "label": "Axial Skeleton Mastery",
@@ -1124,7 +1124,7 @@
               },
               {
                 "label": "Quest 2 Master Recap",
-                "file": "recap_quest_2"
+                "file": "recap_human_skeleton"
               }
             ],
             "practiceCount": 4
@@ -1164,7 +1164,7 @@
               },
               {
                 "label": "Quest 3 Master Recap",
-                "file": "recap_quest_3"
+                "file": "recap_axial_skull_spine"
               }
             ],
             "practiceCount": 4
@@ -1200,7 +1200,7 @@
               },
               {
                 "label": "Quest 4 Master Recap",
-                "file": "recap_quest_4"
+                "file": "recap_axial_rib_cage"
               }
             ],
             "practiceCount": 4
@@ -1240,7 +1240,7 @@
               },
               {
                 "label": "Quest 5 Master Recap",
-                "file": "recap_quest_5"
+                "file": "recap_appendicular_limbs"
               }
             ],
             "practiceCount": 4
@@ -1276,7 +1276,7 @@
               },
               {
                 "label": "Quest 6 Master Recap",
-                "file": "recap_quest_6"
+                "file": "recap_bone_structure"
               }
             ],
             "practiceCount": 4
@@ -1320,7 +1320,7 @@
               },
               {
                 "label": "Quest 7 Master Recap",
-                "file": "recap_quest_7"
+                "file": "recap_joints_structure"
               }
             ],
             "practiceCount": 5
@@ -1368,7 +1368,7 @@
               },
               {
                 "label": "Quest 8 Master Recap",
-                "file": "recap_quest_8"
+                "file": "recap_hinge_ball_socket"
               }
             ],
             "practiceCount": 4
@@ -1412,7 +1412,7 @@
               },
               {
                 "label": "Quest 9 Master Recap",
-                "file": "recap_quest_9"
+                "file": "recap_pivot_gliding"
               }
             ],
             "practiceCount": 4
@@ -1440,7 +1440,7 @@
               },
               {
                 "label": "Quest 10 Master Recap",
-                "file": "recap_quest_10"
+                "file": "recap_muscular_system_types"
               }
             ],
             "practiceCount": 2
@@ -1484,7 +1484,7 @@
               },
               {
                 "label": "Quest 11 Master Study Guide",
-                "file": "recap_quest_11"
+                "file": "recap_muscle_action_antagonistic_pairs"
               }
             ],
             "practiceCount": 5
@@ -1520,7 +1520,7 @@
               },
               {
                 "label": "Quest 12 Master Study Guide",
-                "file": "recap_quest_12"
+                "file": "recap_posture_teeth"
               }
             ],
             "practiceCount": 3
@@ -1544,7 +1544,7 @@
               },
               {
                 "label": "Quest 13 Master Study Guide",
-                "file": "recap_quest_13"
+                "file": "recap_disorders_first_aid"
               }
             ],
             "practiceCount": 1
@@ -1564,7 +1564,7 @@
               },
               {
                 "label": "Quest 14 Master Study Guide",
-                "file": "recap_quest_14"
+                "file": "recap_bone_diseases"
               }
             ],
             "practiceCount": 0
