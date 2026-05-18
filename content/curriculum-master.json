@@ -12,95 +12,95 @@
             "prefix": "01",
             "resources": [
               {
-                "label": "Study Finite Infinite",
+                "label": "Finite vs Infinite",
                 "file": "study_finite_infinite"
               },
               {
-                "label": "Practice 001.2",
-                "file": "01-001_2"
+                "label": "Quest 1-001: Set Types (Part 2)",
+                "file": "SIM-MT7-T1-01-0001"
               },
               {
-                "label": "Practice 001.3",
-                "file": "01-001_3"
+                "label": "Quest 1-001: Set Types (Part 3)",
+                "file": "SIM-MT7-T1-01-0002"
               },
               {
-                "label": "Practice 001.4",
-                "file": "01-001_4"
+                "label": "Quest 1-001: Set Types (Part 4)",
+                "file": "SIM-MT7-T1-01-0003"
               },
               {
-                "label": "Practice 002.2",
-                "file": "01-002_2"
+                "label": "Quest 1-003: Abstract Sets (Part 2)",
+                "file": "SIM-MT7-T1-01-0004"
               },
               {
-                "label": "Practice 002.3",
-                "file": "01-002_3"
+                "label": "Quest 1-003: Abstract Sets (Part 3)",
+                "file": "SIM-MT7-T1-01-0005"
               },
               {
-                "label": "Practice 002.4",
-                "file": "01-002_4"
+                "label": "Quest 1-003: Abstract Sets (Part 4)",
+                "file": "SIM-MT7-T1-01-0006"
               },
               {
-                "label": "Practice 003.2",
-                "file": "01-003_2"
+                "label": "Quest 1-004: Nature Walk (Part 2)",
+                "file": "SIM-MT7-T1-01-0007"
               },
               {
-                "label": "Practice 003.3",
-                "file": "01-003_3"
+                "label": "Quest 1-004: Nature Walk (Part 3)",
+                "file": "SIM-MT7-T1-01-0008"
               },
               {
-                "label": "Practice 003.4",
-                "file": "01-003_4"
+                "label": "Quest 1-004: Nature Walk (Part 4)",
+                "file": "SIM-MT7-T1-01-0009"
               },
               {
-                "label": "Practice 004.2",
-                "file": "01-004_2"
+                "label": "Quest 1-005: Number Sets (Part 2)",
+                "file": "SIM-MT7-T1-01-0010"
               },
               {
-                "label": "Practice 004.3",
-                "file": "01-004_3"
+                "label": "Quest 1-005: Number Sets (Part 3)",
+                "file": "SIM-MT7-T1-01-0011"
               },
               {
-                "label": "Practice 005.2",
-                "file": "01-005_2"
+                "label": "Quest 1-006: My Class (Part 2)",
+                "file": "SIM-MT7-T1-01-0012"
               },
               {
-                "label": "Practice 005.3",
-                "file": "01-005_3"
+                "label": "Quest 1-006: My Class (Part 3)",
+                "file": "SIM-MT7-T1-01-0013"
               },
               {
-                "label": "Practice 006.2",
-                "file": "01-006_2"
+                "label": "Quest 1-007: Infinite Visuals (Part 2)",
+                "file": "SIM-MT7-T1-01-0014"
               },
               {
-                "label": "Practice 006.3",
-                "file": "01-006_3"
+                "label": "Quest 1-007: Infinite Visuals (Part 3)",
+                "file": "SIM-MT7-T1-01-0015"
               },
               {
-                "label": "Practice 007.2",
-                "file": "01-007_2"
+                "label": "Quest 1-008: Nature Visuals (Part 2)",
+                "file": "SIM-MT7-T1-01-0016"
               },
               {
-                "label": "Practice 007.3",
-                "file": "01-007_3"
+                "label": "Quest 1-008: Nature Visuals (Part 3)",
+                "file": "SIM-MT7-T1-01-0017"
               },
               {
-                "label": "Practice 007.4",
-                "file": "01-007_4"
+                "label": "Quest 1-008: Nature Visuals (Part 4)",
+                "file": "SIM-MT7-T1-01-0018"
               },
               {
-                "label": "Practice 007.5",
-                "file": "01-007_5"
+                "label": "Quest 1-008: Nature Visuals (Part 5)",
+                "file": "SIM-MT7-T1-01-0019"
               },
               {
-                "label": "Practice 008.2",
-                "file": "01-008_2"
+                "label": "Quest 1-009: Class Visuals (Part 2)",
+                "file": "SIM-MT7-T1-01-0020"
               },
               {
-                "label": "Recap Finite Infinite",
+                "label": "Quest 1 Math Recap",
                 "file": "recap_finite_infinite"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 20
           },
           {
             "folder": "quest_02_set_notation_regions",
@@ -108,19 +108,99 @@
             "prefix": "02",
             "resources": [
               {
-                "label": "Study Operations 1",
+                "label": "Universal Set & Operations",
                 "file": "study_operations_1"
               },
               {
-                "label": "Study Relation",
+                "label": "Comparing Sets",
                 "file": "study_relation"
               },
               {
-                "label": "Study Relations",
+                "label": "Understanding Sets",
                 "file": "study_relations"
               },
               {
-                "label": "Recap Set Notation Regions",
+                "label": "Reading Regions",
+                "file": "SIM-MT7-T1-02-0001"
+              },
+              {
+                "label": "Quest 2-003: Overlap Sets",
+                "file": "SIM-MT7-T1-02-0002"
+              },
+              {
+                "label": "Quest 2-003: Visual Relations",
+                "file": "SIM-MT7-T1-02-0003"
+              },
+              {
+                "label": "Quest 2-004: The Lunchbox",
+                "file": "SIM-MT7-T1-02-0004"
+              },
+              {
+                "label": "Quest 3-002: The Toy Van",
+                "file": "SIM-MT7-T1-02-0005"
+              },
+              {
+                "label": "Quest 3-003: Flag Painter",
+                "file": "SIM-MT7-T1-02-0006"
+              },
+              {
+                "label": "Quest 3-004: The Card Machine",
+                "file": "SIM-MT7-T1-02-0007"
+              },
+              {
+                "label": "Quest 2-005: Disjoint Logic",
+                "file": "SIM-MT7-T1-02-0008"
+              },
+              {
+                "label": "Quest 2-004: Equal or Equivalent?",
+                "file": "SIM-MT7-T1-02-0009"
+              },
+              {
+                "label": "Quest 2-007: Union Quiz",
+                "file": "SIM-MT7-T1-02-0010"
+              },
+              {
+                "label": "Quest 2-008: Set Difference",
+                "file": "SIM-MT7-T1-02-0011"
+              },
+              {
+                "label": "Quest 2-009: Complement Quiz",
+                "file": "SIM-MT7-T1-02-0012"
+              },
+              {
+                "label": "Quest 2-010: Disjoint Quiz",
+                "file": "SIM-MT7-T1-02-0013"
+              },
+              {
+                "label": "Quest 2-012: Subset Reverse",
+                "file": "SIM-MT7-T1-02-0014"
+              },
+              {
+                "label": "Quest 2-013: Disjoint",
+                "file": "SIM-MT7-T1-02-0015"
+              },
+              {
+                "label": "Quest 2-014: Intersection",
+                "file": "SIM-MT7-T1-02-0016"
+              },
+              {
+                "label": "Quest 2-015: Equality",
+                "file": "SIM-MT7-T1-02-0017"
+              },
+              {
+                "label": "Quest 2-016: Living vs Non-Living",
+                "file": "SIM-MT7-T1-02-0018"
+              },
+              {
+                "label": "Quest 2-017: Notation Quiz",
+                "file": "SIM-MT7-T1-02-0019"
+              },
+              {
+                "label": "Quest 2-018: Symbols",
+                "file": "SIM-MT7-T1-02-0020"
+              },
+              {
+                "label": "Quest 2 Math Recap",
                 "file": "recap_set_notation_regions"
               }
             ],
@@ -132,11 +212,51 @@
             "prefix": "03",
             "resources": [
               {
-                "label": "Study Subsets",
+                "label": "Subsets & The Empty Set",
                 "file": "study_subsets"
               },
               {
-                "label": "Recap Subsets",
+                "label": "Quest 3-001: Venn Subsets",
+                "file": "SIM-MT7-T1-03-0001"
+              },
+              {
+                "label": "Quest 3-005: Factors of 4",
+                "file": "SIM-MT7-T1-03-0002"
+              },
+              {
+                "label": "Quest 3-006: Word Sets",
+                "file": "SIM-MT7-T1-03-0003"
+              },
+              {
+                "label": "Quest 3-007: Prime Numbers",
+                "file": "SIM-MT7-T1-03-0004"
+              },
+              {
+                "label": "Quest 3-008: High Powers",
+                "file": "SIM-MT7-T1-03-0005"
+              },
+              {
+                "label": "Quest 3-009: Weekend",
+                "file": "SIM-MT7-T1-03-0006"
+              },
+              {
+                "label": "Quest 3-010: School Bag",
+                "file": "SIM-MT7-T1-03-0007"
+              },
+              {
+                "label": "Quest 3-011: Factors of 6",
+                "file": "SIM-MT7-T1-03-0008"
+              },
+              {
+                "label": "Quest 3-012: Vowels Set",
+                "file": "SIM-MT7-T1-03-0009"
+              },
+              {
+                "label": "Quest 3-013: Big Sets",
+                "file": "SIM-MT7-T1-03-0010"
+              },
+              {
+                "label": "Quest 3 Math Recap",
                 "file": "recap_subsets"
               }
             ],
@@ -148,11 +268,87 @@
             "prefix": "04",
             "resources": [
               {
-                "label": "Study Proper Subsets",
+                "label": "Proper vs Improper Subsets",
                 "file": "study_proper_subsets"
               },
               {
-                "label": "Recap Proper Subsets",
+                "label": "Proper Subsets",
+                "file": "SIM-MT7-T1-04-0001"
+              },
+              {
+                "label": "Quest 4-002: Vowels",
+                "file": "SIM-MT7-T1-04-0002"
+              },
+              {
+                "label": "Quest 4-003: Colors",
+                "file": "SIM-MT7-T1-04-0003"
+              },
+              {
+                "label": "Quest 4-004: Even Numbers",
+                "file": "SIM-MT7-T1-04-0004"
+              },
+              {
+                "label": "Quest 4-005: Single Set",
+                "file": "SIM-MT7-T1-04-0005"
+              },
+              {
+                "label": "Quest 4-006: The Giant Pizza",
+                "file": "SIM-MT7-T1-04-0006"
+              },
+              {
+                "label": "Quest 4-007: Prime Proper",
+                "file": "SIM-MT7-T1-04-0007"
+              },
+              {
+                "label": "Quest 4-008: Word Proper",
+                "file": "SIM-MT7-T1-04-0008"
+              },
+              {
+                "label": "Quest 4-010: Concept Check",
+                "file": "SIM-MT7-T1-04-0009"
+              },
+              {
+                "label": "Power of 2",
+                "file": "SIM-MT7-T1-04-0010"
+              },
+              {
+                "label": "The Void Challenge",
+                "file": "SIM-MT7-T1-04-0011"
+              },
+              {
+                "label": "The Triple Threat",
+                "file": "SIM-MT7-T1-04-0012"
+              },
+              {
+                "label": "Union Mystery",
+                "file": "SIM-MT7-T1-04-0013"
+              },
+              {
+                "label": "Complement Quest",
+                "file": "SIM-MT7-T1-04-0014"
+              },
+              {
+                "label": "The Prime Zone",
+                "file": "SIM-MT7-T1-04-0015"
+              },
+              {
+                "label": "Diagram Fill",
+                "file": "SIM-MT7-T1-04-0016"
+              },
+              {
+                "label": "Shading Puzzle",
+                "file": "SIM-MT7-T1-04-0017"
+              },
+              {
+                "label": "Proper Subset Ignite",
+                "file": "SIM-MT7-T1-04-0018"
+              },
+              {
+                "label": "Real World Logic",
+                "file": "SIM-MT7-T1-04-0019"
+              },
+              {
+                "label": "Quest 4 Math Recap",
                 "file": "recap_proper_subsets"
               }
             ],
@@ -164,11 +360,87 @@
             "prefix": "05",
             "resources": [
               {
-                "label": "Study Reverse Subsets",
+                "label": "Working Backwards",
                 "file": "study_reverse_subsets"
               },
               {
-                "label": "Recap Working Backwards",
+                "label": "Power Plant",
+                "file": "SIM-MT7-T1-05-0001"
+              },
+              {
+                "label": "The Pizza Chef",
+                "file": "SIM-MT7-T1-05-0002"
+              },
+              {
+                "label": "Quest 5-009: Reverse 63",
+                "file": "SIM-MT7-T1-05-0003"
+              },
+              {
+                "label": "Quest 5-007: Indices Quiz",
+                "file": "SIM-MT7-T1-05-0004"
+              },
+              {
+                "label": "Quest 5-006: Build to Target",
+                "file": "SIM-MT7-T1-05-0005"
+              },
+              {
+                "label": "Quest 5-005: Compare Sets",
+                "file": "SIM-MT7-T1-05-0006"
+              },
+              {
+                "label": "Quest 5-004: Fact Check",
+                "file": "SIM-MT7-T1-05-0007"
+              },
+              {
+                "label": "Quest 5-003: Library Logic",
+                "file": "SIM-MT7-T1-05-0008"
+              },
+              {
+                "label": "Quest 5-002: Power Plant II",
+                "file": "SIM-MT7-T1-05-0009"
+              },
+              {
+                "label": "Ultimate Lock",
+                "file": "SIM-MT7-T1-05-0010"
+              },
+              {
+                "label": "The Subset Signal",
+                "file": "SIM-MT7-T1-05-0011"
+              },
+              {
+                "label": "The Proper Oracle",
+                "file": "SIM-MT7-T1-05-0012"
+              },
+              {
+                "label": "Total Balance",
+                "file": "SIM-MT7-T1-05-0013"
+              },
+              {
+                "label": "Reverse Algebra",
+                "file": "SIM-MT7-T1-05-0014"
+              },
+              {
+                "label": "Target Shading",
+                "file": "SIM-MT7-T1-05-0015"
+              },
+              {
+                "label": "Reverse Generator",
+                "file": "SIM-MT7-T1-05-0016"
+              },
+              {
+                "label": "Disjoint Mystery",
+                "file": "SIM-MT7-T1-05-0017"
+              },
+              {
+                "label": "Intersection Riddle",
+                "file": "SIM-MT7-T1-05-0018"
+              },
+              {
+                "label": "Algebraic Backwards",
+                "file": "SIM-MT7-T1-05-0019"
+              },
+              {
+                "label": "Quest 5 Math Recap",
                 "file": "recap_working_backwards"
               }
             ],
@@ -180,27 +452,123 @@
             "prefix": "06",
             "resources": [
               {
-                "label": "06-sim 1",
-                "file": "06-sim_1"
-              },
-              {
-                "label": "Study Placing Info",
+                "label": "Placing Info Correctly",
                 "file": "study_placing_info"
               },
               {
-                "label": "Study Venn Logic",
-                "file": "study_venn_logic"
-              },
-              {
-                "label": "Study Ven Solving",
+                "label": "Placing Information",
                 "file": "study_ven_solving"
               },
               {
-                "label": "Recap Venn Diagrams",
+                "label": "Solving & Placing Info",
+                "file": "study_venn_logic"
+              },
+              {
+                "label": "Quest 6b: The Spotlight",
+                "file": "06-sim_1"
+              },
+              {
+                "label": "Quest 6-001: Map the Venn",
+                "file": "SIM-MT7-T1-06-0001"
+              },
+              {
+                "label": "Quest 6-010: Shape Logic",
+                "file": "SIM-MT7-T1-06-0002"
+              },
+              {
+                "label": "Quest 6-009: Integers",
+                "file": "SIM-MT7-T1-06-0003"
+              },
+              {
+                "label": "Quest 6-008: Food Sort",
+                "file": "SIM-MT7-T1-06-0004"
+              },
+              {
+                "label": "Quest 6-007: Even vs Odd",
+                "file": "SIM-MT7-T1-06-0005"
+              },
+              {
+                "label": "Quest 6-006: Factors Subset",
+                "file": "SIM-MT7-T1-06-0006"
+              },
+              {
+                "label": "Quest 6-005: Universal Box",
+                "file": "SIM-MT7-T1-06-0007"
+              },
+              {
+                "label": "Quest 6-004: LCM Finder",
+                "file": "SIM-MT7-T1-06-0008"
+              },
+              {
+                "label": "Quest 6-003: Word Sets",
+                "file": "SIM-MT7-T1-06-0009"
+              },
+              {
+                "label": "Quest 6-002: Primes & Odds",
+                "file": "SIM-MT7-T1-06-0010"
+              },
+              {
+                "label": "Quest 6-001: Factors of 12 & 18",
+                "file": "SIM-MT7-T1-06-0011"
+              },
+              {
+                "label": "Quest 6-012: Word Sets",
+                "file": "SIM-MT7-T1-06-0012"
+              },
+              {
+                "label": "Quest 6-011: Logic Ranges",
+                "file": "SIM-MT7-T1-06-0013"
+              },
+              {
+                "label": "Quest 6-015: Visual Intersect",
+                "file": "SIM-MT7-T1-06-0014"
+              },
+              {
+                "label": "Quest 6-016: Region Decoder",
+                "file": "SIM-MT7-T1-06-0015"
+              },
+              {
+                "label": "Quest 6-017: Identify Overlap",
+                "file": "SIM-MT7-T1-06-0016"
+              },
+              {
+                "label": "Quest 6-018: Identify Difference",
+                "file": "SIM-MT7-T1-06-0017"
+              },
+              {
+                "label": "Quest 6-019: Only One",
+                "file": "SIM-MT7-T1-06-0018"
+              },
+              {
+                "label": "Quest 6-020: Factors 12 & 18",
+                "file": "SIM-MT7-T1-06-0019"
+              },
+              {
+                "label": "Quest 6-022: Shape Sorter",
+                "file": "SIM-MT7-T1-06-0020"
+              },
+              {
+                "label": "Quest 6-023: Region Painter",
+                "file": "SIM-MT7-T1-06-0021"
+              },
+              {
+                "label": "Quest 6-024: Shade Union",
+                "file": "SIM-MT7-T1-06-0022"
+              },
+              {
+                "label": "Quest 6-026: Shade Neither",
+                "file": "SIM-MT7-T1-06-0023"
+              },
+              {
+                "label": "Quest 6-027: Only One",
+                "file": "SIM-MT7-T1-06-0024"
+              },
+              {
+                "label": "Quest 6 Math Recap",
                 "file": "recap_venn_diagrams"
               }
             ],
-            "practiceCount": 24
+            "practiceCount": 25
           },
           {
             "folder": "quest_07_solving_for_unknowns",
@@ -208,15 +576,111 @@
             "prefix": "07",
             "resources": [
               {
-                "label": "Study Complex Algebra",
+                "label": "Mastering Set Equations",
                 "file": "study_complex_algebra"
               },
               {
-                "label": "Study Finding Unknowns",
+                "label": "Algebra in Sets",
                 "file": "study_finding_unknowns"
               },
               {
-                "label": "Recap Solving Unknowns",
+                "label": "Finding X",
+                "file": "SIM-MT7-T1-07-0001"
+              },
+              {
+                "label": "Quest 7-002: Advanced Algebra",
+                "file": "SIM-MT7-T1-07-0002"
+              },
+              {
+                "label": "Quest 7-003: Region Algebra",
+                "file": "SIM-MT7-T1-07-0003"
+              },
+              {
+                "label": "Quest 7-004: Only One Type",
+                "file": "SIM-MT7-T1-07-0004"
+              },
+              {
+                "label": "Quest 7-005: Equating Sets",
+                "file": "SIM-MT7-T1-07-0005"
+              },
+              {
+                "label": "Quest 7-005: Equal Sets",
+                "file": "SIM-MT7-T1-07-0006"
+              },
+              {
+                "label": "Quest 7-006: Music Festival",
+                "file": "SIM-MT7-T1-07-0007"
+              },
+              {
+                "label": "Quest 7-007: Market Day",
+                "file": "SIM-MT7-T1-07-0008"
+              },
+              {
+                "label": "Quest 7-008: Sports Ratios",
+                "file": "SIM-MT7-T1-07-0009"
+              },
+              {
+                "label": "Quest 7-009: Book Sale",
+                "file": "SIM-MT7-T1-07-0010"
+              },
+              {
+                "label": "Quest 7-006: Sports Algebra",
+                "file": "SIM-MT7-T1-07-0011"
+              },
+              {
+                "label": "Quest 7-007: Farmer's Market",
+                "file": "SIM-MT7-T1-07-0012"
+              },
+              {
+                "label": "Quest 7-008: Clinic Data",
+                "file": "SIM-MT7-T1-07-0013"
+              },
+              {
+                "label": "Quest 7-009: Food Survey",
+                "file": "SIM-MT7-T1-07-0014"
+              },
+              {
+                "label": "Quest 7-010: Subject Algebra",
+                "file": "SIM-MT7-T1-07-0015"
+              },
+              {
+                "label": "Quest 7-011: Art Class",
+                "file": "SIM-MT7-T1-07-0016"
+              },
+              {
+                "label": "Quest 7-012: Sports Algebra",
+                "file": "SIM-MT7-T1-07-0017"
+              },
+              {
+                "label": "Quest 7-018: Mystery Total",
+                "file": "SIM-MT7-T1-07-0018"
+              },
+              {
+                "label": "Quest 7-013: 3:2 Ratio",
+                "file": "SIM-MT7-T1-07-0019"
+              },
+              {
+                "label": "Quest 7-016: Set Construction",
+                "file": "SIM-MT7-T1-07-0020"
+              },
+              {
+                "label": "Quest 7-017: Exam Build",
+                "file": "SIM-MT7-T1-07-0021"
+              },
+              {
+                "label": "Quest 7-018: Sports Build",
+                "file": "SIM-MT7-T1-07-0022"
+              },
+              {
+                "label": "Quest 7-019: Set Logic",
+                "file": "SIM-MT7-T1-07-0023"
+              },
+              {
+                "label": "Quest 7-020: Intersection Solver",
+                "file": "SIM-MT7-T1-07-0024"
+              },
+              {
+                "label": "Quest 7 Math Recap",
                 "file": "recap_solving_unknowns"
               }
             ],
@@ -228,11 +692,95 @@
             "prefix": "08",
             "resources": [
               {
-                "label": "Study Applications",
+                "label": "Word Problems in Sets",
                 "file": "study_applications"
               },
               {
-                "label": "Recap Applications",
+                "label": "Quest 8-001: Sports Survey",
+                "file": "SIM-MT7-T1-08-0001"
+              },
+              {
+                "label": "Quest 8-002: The Reading Club",
+                "file": "SIM-MT7-T1-08-0002"
+              },
+              {
+                "label": "Quest 8-003: Book Club",
+                "file": "SIM-MT7-T1-08-0003"
+              },
+              {
+                "label": "Quest 8-004: Hockey & Rugby",
+                "file": "SIM-MT7-T1-08-0004"
+              },
+              {
+                "label": "Quest 8-005: Science Project",
+                "file": "SIM-MT7-T1-08-0005"
+              },
+              {
+                "label": "Quest 8-006: Farm Ratios",
+                "file": "SIM-MT7-T1-08-0006"
+              },
+              {
+                "label": "Quest 8-007: Sports Algebra",
+                "file": "SIM-MT7-T1-08-0007"
+              },
+              {
+                "label": "Quest 8-008: Debate Club",
+                "file": "SIM-MT7-T1-08-0008"
+              },
+              {
+                "label": "Quest 8-009: Voting",
+                "file": "SIM-MT7-T1-08-0009"
+              },
+              {
+                "label": "Quest 8-010: Music Fest",
+                "file": "SIM-MT7-T1-08-0010"
+              },
+              {
+                "label": "Quest 8-011: Clinic Logic",
+                "file": "SIM-MT7-T1-08-0011"
+              },
+              {
+                "label": "Quest 8-012: The Debate",
+                "file": "SIM-MT7-T1-08-0012"
+              },
+              {
+                "label": "Quest 8-013: Science Ratios",
+                "file": "SIM-MT7-T1-08-0013"
+              },
+              {
+                "label": "Quest 8-014: Drink Survey",
+                "file": "SIM-MT7-T1-08-0014"
+              },
+              {
+                "label": "Quest 8-015: Sports Diff",
+                "file": "SIM-MT7-T1-08-0015"
+              },
+              {
+                "label": "Quest 8-016: Party Invite",
+                "file": "SIM-MT7-T1-08-0016"
+              },
+              {
+                "label": "Quest 8-024: Click to Sum",
+                "file": "SIM-MT7-T1-08-0017"
+              },
+              {
+                "label": "Quest 8-024: Visual Sums",
+                "file": "SIM-MT7-T1-08-0018"
+              },
+              {
+                "label": "Quest 8-027: Visual Market",
+                "file": "SIM-MT7-T1-08-0019"
+              },
+              {
+                "label": "Quest 8-028: Exam Clicks",
+                "file": "SIM-MT7-T1-08-0020"
+              },
+              {
+                "label": "Quest 8-029: Fruit Clicks",
+                "file": "SIM-MT7-T1-08-0021"
+              },
+              {
+                "label": "Quest 8 Math Recap",
                 "file": "recap_applications"
               }
             ],
@@ -244,11 +792,103 @@
             "prefix": "09",
             "resources": [
               {
-                "label": "Study Complements",
+                "label": "Understanding 'Not'",
                 "file": "study_complements"
               },
               {
-                "label": "Recap Complements",
+                "label": "Quest 9-001: The Universal Box",
+                "file": "SIM-MT7-T1-09-0001"
+              },
+              {
+                "label": "Quest 9-002: Science Lab",
+                "file": "SIM-MT7-T1-09-0002"
+              },
+              {
+                "label": "Quest 9-003: Debate Team",
+                "file": "SIM-MT7-T1-09-0003"
+              },
+              {
+                "label": "Quest 9-004: Sports Prob",
+                "file": "SIM-MT7-T1-09-0004"
+              },
+              {
+                "label": "Quest 9-005: Library Books",
+                "file": "SIM-MT7-T1-09-0005"
+              },
+              {
+                "label": "Quest 9-006: The Garden",
+                "file": "SIM-MT7-T1-09-0006"
+              },
+              {
+                "label": "Quest 9-007: Science Test",
+                "file": "SIM-MT7-T1-09-0007"
+              },
+              {
+                "label": "Quest 9-008: Book Fair",
+                "file": "SIM-MT7-T1-09-0008"
+              },
+              {
+                "label": "Quest 9-009: Election Day",
+                "file": "SIM-MT7-T1-09-0009"
+              },
+              {
+                "label": "Quest 9-010: Party Drinks",
+                "file": "SIM-MT7-T1-09-0010"
+              },
+              {
+                "label": "Quest 9-011: Transport",
+                "file": "SIM-MT7-T1-09-0011"
+              },
+              {
+                "label": "Quest 9-013: Lunch Logic",
+                "file": "SIM-MT7-T1-09-0012"
+              },
+              {
+                "label": "Quest 9-014: Music Class",
+                "file": "SIM-MT7-T1-09-0013"
+              },
+              {
+                "label": "Quest 9-015: Exam Results",
+                "file": "SIM-MT7-T1-09-0014"
+              },
+              {
+                "label": "Quest 9-016: Market Data",
+                "file": "SIM-MT7-T1-09-0015"
+              },
+              {
+                "label": "Quest 9-017: Complements",
+                "file": "SIM-MT7-T1-09-0016"
+              },
+              {
+                "label": "Quest 9-019: Party Build",
+                "file": "SIM-MT7-T1-09-0017"
+              },
+              {
+                "label": "Quest 9-022: Library Data",
+                "file": "SIM-MT7-T1-09-0018"
+              },
+              {
+                "label": "Quest 9-023: Not A",
+                "file": "SIM-MT7-T1-09-0019"
+              },
+              {
+                "label": "Quest 9-024: Missing Group",
+                "file": "SIM-MT7-T1-09-0020"
+              },
+              {
+                "label": "Quest 9-025: Travel Plans",
+                "file": "SIM-MT7-T1-09-0021"
+              },
+              {
+                "label": "Quest 9-026: Food Clicks",
+                "file": "SIM-MT7-T1-09-0022"
+              },
+              {
+                "label": "Quest 9-027: Sports Clicks",
+                "file": "SIM-MT7-T1-09-0023"
+              },
+              {
+                "label": "Quest 9 Math Recap",
                 "file": "recap_complements"
               }
             ],
@@ -260,46 +900,194 @@
             "prefix": "10",
             "resources": [
               {
-                "label": "10-sim 1",
-                "file": "10-sim_1"
-              },
-              {
-                "label": "Study Probabilities",
+                "label": "Chance in Venn Diagrams",
                 "file": "study_probabilities"
               },
               {
-                "label": "Recap Probability",
+                "label": "Probability Sim",
+                "file": "10-sim_1"
+              },
+              {
+                "label": "Topic 10: Probability Master",
+                "file": "SIM-MT7-T1-10-0001"
+              },
+              {
+                "label": "Topic 10: School Subjects",
+                "file": "SIM-MT7-T1-10-0002"
+              },
+              {
+                "label": "Topic 10: Party Drinks",
+                "file": "SIM-MT7-T1-10-0003"
+              },
+              {
+                "label": "Topic 10: Language Village",
+                "file": "SIM-MT7-T1-10-0004"
+              },
+              {
+                "label": "Topic 10: Pet Owners",
+                "file": "SIM-MT7-T1-10-0005"
+              },
+              {
+                "label": "Topic 10: Sports Selection",
+                "file": "SIM-MT7-T1-10-0006"
+              },
+              {
+                "label": "Quest 10-005: Music Class",
+                "file": "SIM-MT7-T1-10-0007"
+              },
+              {
+                "label": "Quest 10-006: Farming Ratios",
+                "file": "SIM-MT7-T1-10-0008"
+              },
+              {
+                "label": "Quest 10-007: Reading List",
+                "file": "SIM-MT7-T1-10-0009"
+              },
+              {
+                "label": "Quest 10-008: Party Time",
+                "file": "SIM-MT7-T1-10-0010"
+              },
+              {
+                "label": "Topic 10: Crop Farming",
+                "file": "SIM-MT7-T1-10-0011"
+              },
+              {
+                "label": "The Pet Shop",
+                "file": "SIM-MT7-T1-10-0012"
+              },
+              {
+                "label": "Fruit Market",
+                "file": "SIM-MT7-T1-10-0013"
+              },
+              {
+                "label": "Talent Show",
+                "file": "SIM-MT7-T1-10-0014"
+              },
+              {
+                "label": "Drink Stand",
+                "file": "SIM-MT7-T1-10-0015"
+              },
+              {
+                "label": "Quest 10-005: Art Club",
+                "file": "SIM-MT7-T1-10-0016"
+              },
+              {
+                "label": "Quest 10-006: Science Fair",
+                "file": "SIM-MT7-T1-10-0017"
+              },
+              {
+                "label": "Quest 10-007: The Clinic",
+                "file": "SIM-MT7-T1-10-0018"
+              },
+              {
+                "label": "Quest 10-008: Language Prob",
+                "file": "SIM-MT7-T1-10-0019"
+              },
+              {
+                "label": "Topic 10: Harvest Time",
+                "file": "SIM-MT7-T1-10-0020"
+              },
+              {
+                "label": "Topic 10: Peas & Beans",
+                "file": "SIM-MT7-T1-10-0021"
+              },
+              {
+                "label": "Topic 10: Wedding Drinks",
+                "file": "SIM-MT7-T1-10-0022"
+              },
+              {
+                "label": "Quest 10-011: Garden Prob",
+                "file": "SIM-MT7-T1-10-0023"
+              },
+              {
+                "label": "Quest 10-006: Exam Results",
+                "file": "SIM-MT7-T1-10-0024"
+              },
+              {
+                "label": "Topic 10: Math & English",
+                "file": "SIM-MT7-T1-10-0025"
+              },
+              {
+                "label": "Topic 10: Sports Logic",
+                "file": "SIM-MT7-T1-10-0026"
+              },
+              {
+                "label": "Topic 10: Math & Science",
+                "file": "SIM-MT7-T1-10-0027"
+              },
+              {
+                "label": "Quest 10-017: Sports Final",
+                "file": "SIM-MT7-T1-10-0028"
+              },
+              {
+                "label": "Topic 10: Fruits Total",
+                "file": "SIM-MT7-T1-10-0029"
+              },
+              {
+                "label": "Quest 10-018: Garden Prob",
+                "file": "SIM-MT7-T1-10-0030"
+              },
+              {
+                "label": "Quest 10-018: Subject Sets",
+                "file": "SIM-MT7-T1-10-0031"
+              },
+              {
+                "label": "Quest 10-020: Prime Odds",
+                "file": "SIM-MT7-T1-10-0032"
+              },
+              {
+                "label": "Quest 10-019: Complement Solver",
+                "file": "SIM-MT7-T1-10-0033"
+              },
+              {
+                "label": "Quest 10-019: Complement Solver",
+                "file": "SIM-MT7-T1-10-0034"
+              },
+              {
+                "label": "Quest 10-022: Farm Build",
+                "file": "SIM-MT7-T1-10-0035"
+              },
+              {
+                "label": "Quest 10-025: Drink Prob",
+                "file": "SIM-MT7-T1-10-0036"
+              },
+              {
+                "label": "Quest 10-026: Sports Prob",
+                "file": "SIM-MT7-T1-10-0037"
+              },
+              {
+                "label": "Quest 10 Math Recap",
                 "file": "recap_probability"
               }
             ],
-            "practiceCount": 37
+            "practiceCount": 38
           }
         ]
       }
     ]
   },
   "science": {
-    "theme": "#16a34a",
+    "theme": "#059669",
     "units": [
       {
         "id": "musklo-skeletal-system",
-        "title": "Musklo-skeletal-system",
+        "title": "Musklo Skeletal System",
         "quests": [
           {
             "folder": "quest_1_types_of_skeletons",
-            "title": "1 Types Of Skeletons",
-            "prefix": "",
+            "title": "01 Types Of Skeletons",
+            "prefix": "1",
             "resources": [
               {
-                "label": "📚 Study Notes: Types of Skeletons",
+                "label": "Musculo-Skeletal System",
                 "file": "note_types_skeleton"
               },
               {
-                "label": "Study Types Skeleton",
+                "label": "Types of Skeletons",
                 "file": "study_types_skeleton"
               },
               {
-                "label": "Recap Quest 1",
+                "label": "Quest 1 Master Study Guide",
                 "file": "recap_quest_1"
               }
             ],
@@ -307,461 +1095,476 @@
           },
           {
             "folder": "quest_2_human_skeleton",
-            "title": "2 Human Skeleton",
-            "prefix": "",
+            "title": "02 Human Skeleton",
+            "prefix": "2",
             "resources": [
               {
-                "label": "📚 Study Notes: Human Skeleton",
+                "label": "Musculo-Skeletal System",
                 "file": "note_human_skeleton"
               },
               {
-                "label": "Labeling V1",
-                "file": "labeling_v1"
-              },
-              {
-                "label": "Labeling V2",
-                "file": "labeling_v2"
-              },
-              {
-                "label": "Labeling V3",
-                "file": "labeling_v3"
-
-              },
-              {
-                "label": "Recap Quest 2",
-                "file": "recap_quest_2"
-              },
-              {
-                "label": "Study Sim",
+                "label": "The Human Skeleton",
                 "file": "study_sim"
+              },
+              {
+                "label": "Axial Skeleton Mastery",
+                "file": "SIM-SC7-T1-2-0001"
+              },
+              {
+                "label": "Appendicular Skeleton Mastery",
+                "file": "SIM-SC7-T1-2-0002"
+              },
+              {
+                "label": "Full Skeleton Master Challenge",
+                "file": "SIM-SC7-T1-2-0003"
+              },
+              {
+                "label": "Skeleton Mastery: Girdles & Limbs",
+                "file": "SIM-SC7-T1-2-0004"
+              },
+              {
+                "label": "Quest 2 Master Recap",
+                "file": "recap_quest_2"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_3_axial_skull_spine",
-            "title": "3 Axial Skull Spine",
-            "prefix": "",
+            "title": "03 Axial Skull Spine",
+            "prefix": "3",
             "resources": [
               {
-                "label": "📚 Study Notes: Axial Skull & Spine",
+                "label": "Musculo-Skeletal System",
                 "file": "note_axial_skull"
               },
               {
-                "label": "Labeling Skull V1",
-                "file": "labeling_skull_v1"
-              },
-              {
-                "label": "Labeling Skull V2",
-                "file": "labeling_skull_v2"
-              },
-              {
-                "label": "Labeling Spine V1",
-                "file": "labeling_spine_v1"
-              },
-              {
-                "label": "Labeling Spine V2",
-                "file": "labeling_spine_v2"
-              },
-              {
-                "label": "Recap Quest 3",
-                "file": "recap_quest_3"
-              },
-              {
-                "label": "Skull Study",
+                "label": "The Axial Skeleton: The Skull",
                 "file": "skull_study"
               },
               {
-                "label": "Spine Study",
+                "label": "The Axial Skeleton: Vertebral Column",
                 "file": "spine_study"
+              },
+              {
+                "label": "Skull Anatomy Quiz",
+                "file": "SIM-SC7-T1-3-0001"
+              },
+              {
+                "label": "Spine Regions Challenge",
+                "file": "SIM-SC7-T1-3-0002"
+              },
+              {
+                "label": "Spine: Regional Identification",
+                "file": "SIM-SC7-T1-3-0003"
+              },
+              {
+                "label": "Spine: Anatomy & Bone Counts",
+                "file": "SIM-SC7-T1-3-0004"
+              },
+              {
+                "label": "Quest 3 Master Recap",
+                "file": "recap_quest_3"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_4_axial_rib_cage",
-            "title": "4 Axial Rib Cage",
-            "prefix": "",
+            "title": "04 Axial Rib Cage",
+            "prefix": "4",
             "resources": [
               {
-                "label": "📚 Study Notes: Axial Rib Cage",
+                "label": "Musculo-Skeletal System",
                 "file": "note_axial_ribs"
               },
               {
-                "label": "Labeling V1",
-                "file": "labeling_v1"
-              },
-              {
-                "label": "Labeling V2",
-                "file": "labeling_v2"
-              },
-              {
-                "label": "Labeling V3",
-                "file": "labeling_v3"
-              },
-              {
-                "label": "Recap Quest 4",
-                "file": "recap_quest_4"
-              },
-              {
-                "label": "Rib Study",
+                "label": "The Axial Skeleton: The Rib Cage",
                 "file": "rib_study"
+              },
+              {
+                "label": "Rib Cage: Bone Identification",
+                "file": "SIM-SC7-T1-4-0001"
+              },
+              {
+                "label": "Rib Cage: Function Challenge",
+                "file": "SIM-SC7-T1-4-0002"
+              },
+              {
+                "label": "Function & Protection Challenge",
+                "file": "SIM-SC7-T1-4-0003"
+              },
+              {
+                "label": "Rib Cage: Structure Challenge",
+                "file": "SIM-SC7-T1-4-0004"
+              },
+              {
+                "label": "Quest 4 Master Recap",
+                "file": "recap_quest_4"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_5_appendicular_limbs",
-            "title": "5 Appendicular Limbs",
-            "prefix": "",
+            "title": "05 Appendicular Limbs",
+            "prefix": "5",
             "resources": [
               {
-                "label": "📚 Study Notes: Appendicular Limbs",
-                "file": "note_appendicular_limbs"
-              },
-              {
-                "label": "Arm Study",
+                "label": "Appendicular Skeleton: The Arm",
                 "file": "arm_study"
               },
               {
-                "label": "Labeling Arm V1",
-                "file": "labeling_arm_v1"
-              },
-              {
-                "label": "Labeling Arm V2",
-                "file": "labeling_arm_v2"
-              },
-              {
-                "label": "Labeling Leg V1",
-                "file": "labeling_leg_v1"
-              },
-              {
-                "label": "Labeling Leg V2",
-                "file": "labeling_leg_v2"
-              },
-              {
-                "label": "Leg Study",
+                "label": "Appendicular Skeleton: The Leg",
                 "file": "leg_study"
               },
               {
-                "label": "Recap Quest 5",
+                "label": "Musculo-Skeletal System",
+                "file": "note_appendicular_limbs"
+              },
+              {
+                "label": "Arm Anatomy Challenge",
+                "file": "SIM-SC7-T1-5-0001"
+              },
+              {
+                "label": "Arm Anatomy: Full Mastery",
+                "file": "SIM-SC7-T1-5-0002"
+              },
+              {
+                "label": "Leg Bones: Primary Structure",
+                "file": "SIM-SC7-T1-5-0003"
+              },
+              {
+                "label": "Leg Bones: Lower Leg & Ankle",
+                "file": "SIM-SC7-T1-5-0004"
+              },
+              {
+                "label": "Quest 5 Master Recap",
                 "file": "recap_quest_5"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_6_bone_structure",
-            "title": "6 Bone Structure",
-            "prefix": "",
+            "title": "06 Bone Structure",
+            "prefix": "6",
             "resources": [
               {
-                "label": "📚 Study Notes: Bone Structure",
-                "file": "note_bone_structure"
-              },
-              {
-                "label": "Bone Study",
+                "label": "Bone Structure & Functions",
                 "file": "bone_study"
               },
               {
-                "label": "Labeling Bone V1",
-                "file": "labeling_bone_v1"
+                "label": "Musculo-Skeletal System",
+                "file": "note_bone_structure"
               },
               {
-                "label": "Labeling Bone V2",
-                "file": "labeling_bone_v2"
+                "label": "Internal Bone Anatomy",
+                "file": "SIM-SC7-T1-6-0001"
               },
               {
-                "label": "Labeling Bone V3",
-                "file": "labeling_bone_v3"
+                "label": "Blood Cell & Storage Quiz",
+                "file": "SIM-SC7-T1-6-0002"
               },
               {
-                "label": "Labeling Bone V4",
-                "file": "labeling_bone_v4"
+                "label": "Bone Layers & Tissues",
+                "file": "SIM-SC7-T1-6-0003"
               },
               {
-                "label": "Recap Quest 6",
+                "label": "Health & Vital Functions",
+                "file": "SIM-SC7-T1-6-0004"
+              },
+              {
+                "label": "Quest 6 Master Recap",
                 "file": "recap_quest_6"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_7_joints_structure",
-            "title": "7 Joints Structure",
-            "prefix": "",
+            "title": "07 Joints Structure",
+            "prefix": "7",
             "resources": [
               {
-                "label": "📚 Study Notes: Joint Structure",
-                "file": "note_joints"
-              },
-              {
-                "label": "Knee Study 3d",
+                "label": "Joint Structure: The Knee",
                 "file": "knee_study_3d"
               },
               {
-                "label": "Labeling Knee Joints V1",
-                "file": "labeling_knee_joints_v1"
+                "label": "Musculo-Skeletal System",
+                "file": "note_joints"
               },
               {
-                "label": "Labeling Knee Joints V2",
-                "file": "labeling_knee_joints_v2"
-              },
-              {
-                "label": "Labeling Knee Joints V3",
-                "file": "labeling_knee_joints_v3"
-              },
-              {
-                "label": "Labeling Synovial V1",
-                "file": "labeling_synovial_v1"
-              },
-              {
-                "label": "Labeling Synovial V2",
-                "file": "labeling_synovial_v2"
-              },
-              {
-                "label": "Recap Quest 7",
-                "file": "recap_quest_7"
-              },
-              {
-                "label": "Synovial Study",
+                "label": "Study: Synovial Joint Structure",
                 "file": "synovial_study"
+              },
+              {
+                "label": "Knee Anatomy: Basic Labeling",
+                "file": "SIM-SC7-T1-7-0001"
+              },
+              {
+                "label": "Joint Connections & Rules",
+                "file": "SIM-SC7-T1-7-0002"
+              },
+              {
+                "label": "Joint Structure Properties",
+                "file": "SIM-SC7-T1-7-0003"
+              },
+              {
+                "label": "Internal Joint Mechanics",
+                "file": "SIM-SC7-T1-7-0004"
+              },
+              {
+                "label": "Quiz: Synovial Joint Mechanics",
+                "file": "SIM-SC7-T1-7-0005"
+              },
+              {
+                "label": "Quest 7 Master Recap",
+                "file": "recap_quest_7"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 5
           },
           {
             "folder": "quest_8_hinge_ball-and-socket",
-            "title": "8 Hinge Ball-and-socket",
-            "prefix": "",
+            "title": "08 Hinge Ball-And-Socket",
+            "prefix": "8",
             "resources": [
               {
-                "label": "📚 Study Notes: Hinge & Ball-and-Socket",
-                "file": "note_hinge_socket"
-              },
-              {
-                "label": "Elbow 2d Study",
+                "label": "The Elbow Joint (Diagram View)",
                 "file": "elbow_2d_study"
               },
               {
-                "label": "Elbow 3d Study",
+                "label": "The Elbow Joint (Hinge)",
                 "file": "elbow_3d_study"
               },
               {
-                "label": "Hip 2d Study",
+                "label": "The Hip Joint (Diagram View)",
                 "file": "hip_2d_study"
               },
               {
-                "label": "Hip 3d Study",
+                "label": "The Hip Joint (Ball & Socket)",
                 "file": "hip_3d_study"
               },
               {
-                "label": "Labeling Elbow 2d V1",
-                "file": "labeling_elbow_2d_v1"
+                "label": "Musculo-Skeletal System",
+                "file": "note_hinge_socket"
               },
               {
-                "label": "Labeling Elbow 3d V1",
-                "file": "labeling_elbow_3d_v1"
+                "label": "Elbow Diagram: Identification",
+                "file": "SIM-SC7-T1-8-0001"
               },
               {
-                "label": "Labeling Hip 2d V1",
-                "file": "labeling_hip_2d_v1"
+                "label": "Elbow Anatomy: 3D Challenge",
+                "file": "SIM-SC7-T1-8-0002"
               },
               {
-                "label": "Labeling Hip 3d V1",
-                "file": "labeling_hip_3d_v1"
+                "label": "Hip Diagram: Identification",
+                "file": "SIM-SC7-T1-8-0003"
               },
               {
-                "label": "Recap Quest 8",
+                "label": "Hip Anatomy: 3D Challenge",
+                "file": "SIM-SC7-T1-8-0004"
+              },
+              {
+                "label": "Quest 8 Master Recap",
                 "file": "recap_quest_8"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_9_pivot_and_gliding",
-            "title": "9 Pivot And Gliding",
-            "prefix": "",
+            "title": "09 Pivot And Gliding",
+            "prefix": "9",
             "resources": [
               {
-                "label": "📚 Study Notes: Pivot & Gliding",
-                "file": "note_pivot_gliding"
-              },
-              {
-                "label": "Ankle Gliding Study",
+                "label": "The Gliding Joint: Ankle",
                 "file": "ankle_gliding_study"
               },
               {
-                "label": "Labeling Ankle Gliding V1",
-                "file": "labeling_ankle_gliding_v1"
-              },
-              {
-                "label": "Labeling Neck Pivot V1",
-                "file": "labeling_neck_pivot_v1"
-              },
-              {
-                "label": "Labeling Wrist Gliding V1",
-                "file": "labeling_wrist_gliding_v1"
-              },
-              {
-                "label": "Neck Pivot Study",
+                "label": "The Pivot Joint: The Neck",
                 "file": "neck_pivot_study"
               },
               {
-                "label": "Quest Skeleton Joints",
+                "label": "Musculo-Skeletal System",
+                "file": "note_pivot_gliding"
+              },
+              {
+                "label": "The Gliding Joint: Wrist",
+                "file": "wrist_gliding_study"
+              },
+              {
+                "label": "Skeletal Joint Coordination",
                 "file": "quest_skeleton_joints"
               },
               {
-                "label": "Recap Quest 9",
-                "file": "recap_quest_9"
+                "label": "Quiz: Ankle & Foot Bones",
+                "file": "SIM-SC7-T1-9-0001"
               },
               {
-                "label": "Wrist Gliding Study",
-                "file": "wrist_gliding_study"
+                "label": "Quiz: Neck Pivot Anatomy",
+                "file": "SIM-SC7-T1-9-0002"
+              },
+              {
+                "label": "Quiz: Wrist & Hand Bones",
+                "file": "SIM-SC7-T1-9-0003"
+              },
+              {
+                "label": "Quest 9 Master Recap",
+                "file": "recap_quest_9"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 4
           },
           {
             "folder": "quest_10_muscular_system_types",
             "title": "10 Muscular System Types",
-            "prefix": "",
+            "prefix": "10",
             "resources": [
               {
-                "label": "📚 Study Notes: Muscular System Types",
-                "file": "note_muscular_system"
-              },
-              {
-                "label": "Labeling Muscle Types V1",
-                "file": "labeling_muscle_types_v1"
-              },
-              {
-                "label": "Muscle Types Study",
+                "label": "The Three Types of Muscles",
                 "file": "muscle_types_study"
               },
               {
-                "label": "Recap Quest 10",
+                "label": "Musculo-Skeletal System",
+                "file": "note_muscular_system"
+              },
+              {
+                "label": "Quiz: Muscle Type Identification",
+                "file": "SIM-SC7-T1-10-0001"
+              },
+              {
+                "label": "Muscle Types: Properties Quiz",
+                "file": "SIM-SC7-T1-10-0002"
+              },
+              {
+                "label": "Quest 10 Master Recap",
                 "file": "recap_quest_10"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 2
           },
           {
             "folder": "quest_11_muscle_action_antagonistic_pairs",
             "title": "11 Muscle Action Antagonistic Pairs",
-            "prefix": "",
+            "prefix": "11",
             "resources": [
               {
-                "label": "📚 Study Notes: Muscle Action & Antagonistic Pairs",
-                "file": "note_antagonistic_muscles"
-              },
-              {
-                "label": "Labeling Arm Muscles",
-                "file": "labeling_arm_muscles"
-              },
-              {
-                "label": "Labeling Bone Muscle Connection V1",
-                "file": "labeling_bone_muscle_connection_v1"
-              },
-              {
-                "label": "Labeling Flexor Extensor V1",
-                "file": "labeling_flexor_extensor_v1"
-              },
-              {
-                "label": "Labeling Muscle States V1",
-                "file": "labeling_muscle_states_v1"
-              },
-              {
-                "label": "Muscle Action Procedural",
-                "file": "muscle_action_procedural"
-              },
-              {
-                "label": "Muscle Action Study",
+                "label": "Antagonistic Muscle Action",
                 "file": "muscle_action_study"
               },
               {
-                "label": "Recap Quest 11",
-                "file": "recap_quest_11"
+                "label": "Musculo-Skeletal System",
+                "file": "note_antagonistic_muscles"
               },
               {
-                "label": "Skeletal Muscle Study",
+                "label": "Anatomy of Voluntary Muscles",
                 "file": "skeletal_muscle_study"
+              },
+              {
+                "label": "Antagonistic Muscle Action",
+                "file": "muscle_action_procedural"
+              },
+              {
+                "label": "Quiz: Arm Muscle Structure",
+                "file": "SIM-SC7-T1-11-0001"
+              },
+              {
+                "label": "Quiz: Bones & Connectors",
+                "file": "SIM-SC7-T1-11-0002"
+              },
+              {
+                "label": "Quiz: Flexors & Extensors",
+                "file": "SIM-SC7-T1-11-0003"
+              },
+              {
+                "label": "Quiz: Muscle States",
+                "file": "SIM-SC7-T1-11-0004"
+              },
+              {
+                "label": "Quest 11 Master Study Guide",
+                "file": "recap_quest_11"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 5
           },
           {
             "folder": "quest_12_posture_and_teeth",
             "title": "12 Posture And Teeth",
-            "prefix": "",
+            "prefix": "12",
             "resources": [
               {
-                "label": "📚 Study Notes: Posture and Teeth",
+                "label": "Musculo-Skeletal System",
                 "file": "note_posture_teeth"
               },
               {
-                "label": "Posture Maintenance Study",
+                "label": "Body Maintenance: Posture",
                 "file": "posture_maintenance_study"
               },
               {
-                "label": "Recap Quest 12",
-                "file": "recap_quest_12"
-              },
-              {
-                "label": "Teeth Types Quiz V1",
-                "file": "teeth_types_quiz_v1"
-              },
-              {
-                "label": "Teeth Types Study",
+                "label": "Human Dentition: All 32 Teeth",
                 "file": "teeth_types_study"
               },
               {
-                "label": "Tooth Anatomy Quiz V1",
-                "file": "tooth_anatomy_quiz_v1"
+                "label": "Master Quiz: The Complete Set",
+                "file": "SIM-SC7-T1-12-0001"
               },
               {
-                "label": "Tooth Anatomy Study",
-                "file": "tooth_anatomy_study"
+                "label": "Quiz: Inside a Tooth",
+                "file": "SIM-SC7-T1-12-0002"
+              },
+              {
+                "label": "Internal Anatomy of a Tooth",
+                "file": "SIM-SC7-T1-12-0003"
+              },
+              {
+                "label": "Quest 12 Master Study Guide",
+                "file": "recap_quest_12"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 3
           },
           {
             "folder": "quest_13_disorders_and_first_aid",
             "title": "13 Disorders And First Aid",
-            "prefix": "",
+            "prefix": "13",
             "resources": [
               {
-                "label": "📚 Study Notes: Disorders and First Aid",
+                "label": "Musculo-Skeletal System",
                 "file": "note_disorders_first_aid"
               },
               {
-                "label": "Recap Quest 13",
-                "file": "recap_quest_13"
+                "label": "Skeletal Disorders & First Aid",
+                "file": "study_disorders"
               },
               {
-                "label": "Study Disorders",
-                "file": "study_disorders"
+                "label": "Practice SC7-T1-13-0001",
+                "file": "SIM-SC7-T1-13-0001"
+              },
+              {
+                "label": "Quest 13 Master Study Guide",
+                "file": "recap_quest_13"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 1
           },
           {
             "folder": "quest_14_bone_diseases",
             "title": "14 Bone Diseases",
-            "prefix": "",
+            "prefix": "14",
             "resources": [
               {
-                "label": "📚 Study Notes: Bone Diseases and Disorders",
+                "label": "Musculo-Skeletal System",
                 "file": "note_bone_diseases"
               },
               {
-                "label": "Recap Quest 14",
-                "file": "recap_quest_14"
+                "label": "Diseases of the Skeleton",
+                "file": "study_diseases"
               },
               {
-                "label": "Study Diseases",
-                "file": "study_diseases"
+                "label": "Quest 14 Master Study Guide",
+                "file": "recap_quest_14"
               }
             ],
             "practiceCount": 0
@@ -771,7 +1574,7 @@
     ]
   },
   "sst": {
-    "theme": "#0ea5e9",
+    "theme": "#4f46e5",
     "units": [
       {
         "id": "locating_africa",
@@ -779,562 +1582,570 @@
         "quests": [
           {
             "folder": "quest_1_world_stage",
-            "title": "1 World Stage",
-            "prefix": "",
+            "title": "01 World Stage",
+            "prefix": "1",
             "resources": [
               {
-                "label": "📚 Study Notes: World Stage",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_world_stage"
               },
               {
-                "label": "Extremes Of Africa",
-                "file": "extremes_of_africa"
-              },
-              {
-                "label": "Project Genesis",
-                "file": "project_genesis"
-              },
-              {
-                "label": "Puzzle Regions",
-                "file": "puzzle_regions"
-              },
-              {
-                "label": "Recap Afrcan Facts",
-                "file": "recap_afrcan_facts"
-              },
-              {
-                "label": "Recap Continents",
-                "file": "recap_continents"
-              },
-              {
-                "label": "Recap Locating Africa",
-                "file": "recap_locating_africa"
-              },
-              {
-                "label": "Study Africa",
+                "label": "Study: Africa in Detail (PLE Focus)",
                 "file": "study_africa"
               },
               {
-                "label": "Study Continents",
+                "label": "World Explorer",
                 "file": "study_continents"
+              },
+              {
+                "label": "The Four Corners",
+                "file": "SIM-SST7-T1-1-0001"
+              },
+              {
+                "label": "The World Stage",
+                "file": "SIM-SST7-T1-1-0002"
+              },
+              {
+                "label": "The Regional Puzzle",
+                "file": "SIM-SST7-T1-1-0003"
+              },
+              {
+                "label": "Africa: Records, People & Wealth",
+                "file": "recap_afrcan_facts"
+              },
+              {
+                "label": "World Map Mastery",
+                "file": "recap_continents"
+              },
+              {
+                "label": "Africa's Address",
+                "file": "recap_locating_africa"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 3
           },
           {
             "folder": "quest_2_grid_master",
-            "title": "2 Grid Master",
-            "prefix": "",
+            "title": "02 Grid Master",
+            "prefix": "2",
             "resources": [
               {
-                "label": "📚 Study Notes: Grid System",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_grid"
               },
               {
-                "label": "Basics: Equator 0°",
-                "file": "quiz_grid_basics_01"
-              },
-              {
-                "label": "Basics: Uganda Highlight",
-                "file": "quiz_grid_basics_02"
-              },
-              {
-                "label": "Basics: Tropic of Capricorn",
-                "file": "quiz_grid_basics_03"
-              },
-              {
-                "label": "Basics: Cancer Solstice",
-                "file": "quiz_grid_basics_04"
-              },
-              {
-                "label": "Ext: Equator Division",
-                "file": "quiz_grid_ext_01"
-              },
-              {
-                "label": "Ext: Country Check",
-                "file": "quiz_grid_ext_02"
-              },
-              {
-                "label": "Ext: Southern Africa",
-                "file": "quiz_grid_ext_03"
-              },
-              {
-                "label": "Ext: Torrid Zone",
-                "file": "quiz_grid_ext_04"
-              },
-              {
-                "label": "Puzzle: Global Lines",
-                "file": "quiz_grid_puzzle_01"
-              },
-              {
-                "label": "Puzzle: World Identification",
-                "file": "quiz_grid_puzzle_02"
-              },
-              {
-                "label": "Master: Four Hemispheres",
-                "file": "quiz_grid_master_01"
-              },
-              {
-                "label": "Master: South Africa Climate",
-                "file": "quiz_grid_master_02"
-              },
-              {
-                "label": "Master: IDL Longitude",
-                "file": "quiz_grid_master_03"
-              },
-              {
-                "label": "Master: Algiers Meridian",
-                "file": "quiz_grid_master_04"
-              },
-              {
-                "label": "Master: Kampala Reference",
-                "file": "quiz_grid_master_05"
-              },
-              {
-                "label": "Adv: Arctic Latitude",
-                "file": "quiz_adv_grid_01"
-              },
-              {
-                "label": "Adv: Climatic Zones",
-                "file": "quiz_adv_grid_02"
-              },
-              {
-                "label": "Adv: Int. Date Line",
-                "file": "quiz_adv_grid_03"
-              },
-              {
-                "label": "Adv: Antarctic Continent",
-                "file": "quiz_adv_grid_04"
-              },
-              {
-                "label": "Adv: Date Line Rules",
-                "file": "quiz_adv_grid_05"
-              },
-              {
-                "label": "Recap Afrca Grid",
-                "file": "recap_afrca_grid"
-              },
-              {
-                "label": "Recap Global Grid",
-                "file": "recap_global_grid"
-              },
-              {
-                "label": "Study Grid",
+                "label": "The Grid Master",
                 "file": "study_grid"
               },
               {
-                "label": "Study Polar",
+                "label": "Lesson: The Frozen Frontiers",
                 "file": "study_polar"
               },
               {
-                "label": "Study Tropics",
+                "label": "Latitudes & Climate",
                 "file": "study_tropics"
+              },
+              {
+                "label": "Arctic Latitude",
+                "file": "SIM-SST7-T1-2-0001"
+              },
+              {
+                "label": "Climatic Zones",
+                "file": "SIM-SST7-T1-2-0002"
+              },
+              {
+                "label": "International Date Line",
+                "file": "SIM-SST7-T1-2-0003"
+              },
+              {
+                "label": "Antarctic Continent",
+                "file": "SIM-SST7-T1-2-0004"
+              },
+              {
+                "label": "Date Line Rules",
+                "file": "SIM-SST7-T1-2-0005"
+              },
+              {
+                "label": "Line at 0°",
+                "file": "SIM-SST7-T1-2-0006"
+              },
+              {
+                "label": "Equator: Uganda",
+                "file": "SIM-SST7-T1-2-0007"
+              },
+              {
+                "label": "Tropic of Capricorn",
+                "file": "SIM-SST7-T1-2-0008"
+              },
+              {
+                "label": "Tropic of Cancer: Solstice",
+                "file": "SIM-SST7-T1-2-0009"
+              },
+              {
+                "label": "Equator: Division",
+                "file": "SIM-SST7-T1-2-0010"
+              },
+              {
+                "label": "Equator: Country Highlight",
+                "file": "SIM-SST7-T1-2-0011"
+              },
+              {
+                "label": "Capricorn: Southern Africa",
+                "file": "SIM-SST7-T1-2-0012"
+              },
+              {
+                "label": "Climatic Zones: Torrid",
+                "file": "SIM-SST7-T1-2-0013"
+              },
+              {
+                "label": "Africa: Four Hemispheres",
+                "file": "SIM-SST7-T1-2-0014"
+              },
+              {
+                "label": "South Africa: Climate Zone",
+                "file": "SIM-SST7-T1-2-0015"
+              },
+              {
+                "label": "Date Line: Longitude",
+                "file": "SIM-SST7-T1-2-0016"
+              },
+              {
+                "label": "Prime Meridian: Algiers",
+                "file": "SIM-SST7-T1-2-0017"
+              },
+              {
+                "label": "Kampala: Grid Reference",
+                "file": "SIM-SST7-T1-2-0018"
+              },
+              {
+                "label": "Puzzle: Name the Lines",
+                "file": "SIM-SST7-T1-2-0019"
+              },
+              {
+                "label": "Puzzle: Identification (PLE Level)",
+                "file": "SIM-SST7-T1-2-0020"
+              },
+              {
+                "label": "Africa's Global Address",
+                "file": "recap_afrca_grid"
+              },
+              {
+                "label": "Lines of the World",
+                "file": "recap_global_grid"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 20
           },
           {
             "folder": "quest_3_calculating_time",
-            "title": "3 Calculating Time",
-            "prefix": "",
+            "title": "03 Calculating Time",
+            "prefix": "3",
             "resources": [
               {
-                "label": "📚 Study Notes: Time Calculations",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_time_calc"
               },
               {
-                "label": "Recap Time Calc",
-                "file": "recap_time_calc"
-              },
-              {
-                "label": "Study Calc Time 2",
+                "label": "Study: How to Calculate Time",
                 "file": "study_calc_time_2"
               },
               {
-                "label": "Time: GMT to Uganda",
-                "file": "quiz_time_01"
+                "label": "GMT to Uganda (Ahead)",
+                "file": "SIM-SST7-T1-3-0001"
               },
               {
-                "label": "Time: Uganda to London",
-                "file": "quiz_time_02"
+                "label": "Uganda to London (Behind)",
+                "file": "SIM-SST7-T1-3-0002"
               },
               {
-                "label": "Time: Uganda to Sydney",
-                "file": "quiz_time_03"
+                "label": "Uganda to Sydney (East-East)",
+                "file": "SIM-SST7-T1-3-0003"
               },
               {
-                "label": "Time: Uganda to USA",
-                "file": "quiz_time_04"
+                "label": "Uganda to USA (Crossing GMT)",
+                "file": "SIM-SST7-T1-3-0004"
               },
               {
-                "label": "Time: Finding Longitude",
-                "file": "quiz_time_05"
+                "label": "Finding Longitude (Ahead)",
+                "file": "SIM-SST7-T1-3-0005"
               },
               {
-                "label": "West: GMT to 30°W",
-                "file": "quiz_time_06"
+                "label": "GMT to 30° West",
+                "file": "SIM-SST7-T1-3-0006"
               },
               {
-                "label": "West: Accra to NY",
-                "file": "quiz_time_07"
+                "label": "Accra to New York (Westward)",
+                "file": "SIM-SST7-T1-3-0007"
               },
               {
-                "label": "West: GMT to Brazil",
-                "file": "quiz_time_08"
+                "label": "GMT to Brazil (Subtract)",
+                "file": "SIM-SST7-T1-3-0008"
               },
               {
-                "label": "West: Early Morning",
-                "file": "quiz_time_09"
+                "label": "Early Morning Calculation (Westward)",
+                "file": "SIM-SST7-T1-3-0009"
               },
               {
-                "label": "East: GMT to Cairo",
-                "file": "quiz_time_10"
+                "label": "GMT to Cairo (Eastward)",
+                "file": "SIM-SST7-T1-3-0010"
               },
               {
-                "label": "East: Ghana to Uganda",
-                "file": "quiz_time_11"
+                "label": "Ghana to Uganda (Eastward)",
+                "file": "SIM-SST7-T1-3-0011"
               },
               {
-                "label": "East: London to Mauritius",
-                "file": "quiz_time_12"
+                "label": "London to Mauritius (Eastward)",
+                "file": "SIM-SST7-T1-3-0012"
               },
               {
-                "label": "East: Finding Longitude",
-                "file": "quiz_time_13"
+                "label": "Finding Longitude (East/PM)",
+                "file": "SIM-SST7-T1-3-0013"
               },
               {
-                "label": "Expert: Cairo to Dhaka",
-                "file": "quiz_time_14"
+                "label": "East to East (Cairo to Dhaka)",
+                "file": "SIM-SST7-T1-3-0014"
               },
               {
-                "label": "Expert: Crossing 0°",
-                "file": "quiz_time_15"
+                "label": "Crossing 0° (West to East)",
+                "file": "SIM-SST7-T1-3-0015"
               },
               {
-                "label": "Expert: London to Baghdad",
-                "file": "quiz_time_16"
+                "label": "Event Timing: London to Baghdad",
+                "file": "SIM-SST7-T1-3-0016"
               },
               {
-                "label": "Expert: Finding West",
-                "file": "quiz_time_17"
+                "label": "Finding Longitude (West/AM)",
+                "file": "SIM-SST7-T1-3-0017"
               },
               {
-                "label": "Puzzle: West Logic",
-                "file": "quiz_time_18"
+                "label": "Puzzle: West is Behind",
+                "file": "SIM-SST7-T1-3-0018"
               },
               {
-                "label": "Puzzle: East-East Calc",
-                "file": "quiz_time_19"
+                "label": "Puzzle: East to East Calculation",
+                "file": "SIM-SST7-T1-3-0019"
               },
               {
-                "label": "Puzzle: Crossing Line",
-                "file": "quiz_time_20"
+                "label": "Puzzle: Crossing the Line",
+                "file": "SIM-SST7-T1-3-0020"
               },
               {
-                "label": "Puzzle: Finding Location",
-                "file": "quiz_time_21"
+                "label": "Puzzle: Find the Location",
+                "file": "SIM-SST7-T1-3-0021"
+              },
+              {
+                "label": "The Time Traveller's Handbook",
+                "file": "recap_time_calc"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 21
           },
           {
             "folder": "quest_4_water_bodies",
-            "title": "4 Water Bodies",
-            "prefix": "",
+            "title": "04 Water Bodies",
+            "prefix": "4",
             "resources": [
               {
-                "label": "📚 Study Notes: Water Bodies",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_water_bodies"
               },
               {
-                "label": "Ocean: Largest Pacific",
-                "file": "quiz_water_01"
-              },
-              {
-                "label": "Ocean: West Atlantic",
-                "file": "quiz_water_02"
-              },
-              {
-                "label": "Ocean: North Pole Arctic",
-                "file": "quiz_water_03"
-              },
-              {
-                "label": "Ocean: Southern Boundary",
-                "file": "quiz_water_04"
-              },
-              {
-                "label": "Ocean: East Africa Indian",
-                "file": "quiz_water_05"
-              },
-              {
-                "label": "Water: Mediterranean Sea",
-                "file": "quiz_water_06"
-              },
-              {
-                "label": "Water: Suez Canal",
-                "file": "quiz_water_07"
-              },
-              {
-                "label": "Water: Red Sea Boundary",
-                "file": "quiz_water_08"
-              },
-              {
-                "label": "Water: Bab-el-Mandeb",
-                "file": "quiz_water_09"
-              },
-              {
-                "label": "Water: Cape Agulhas",
-                "file": "quiz_water_10"
-              },
-              {
-                "label": "Recap Water Bodies Africa",
-                "file": "recap_water_bodies_africa"
-              },
-              {
-                "label": "Study African Waters",
+                "label": "Quest 4b: Africa's Water Borders",
                 "file": "study_african_waters"
               },
               {
-                "label": "Study Oceans",
+                "label": "Quest 4a: The 5 Major Oceans",
                 "file": "study_oceans"
+              },
+              {
+                "label": "The Water Borders",
+                "file": "study_water_bodies"
+              },
+              {
+                "label": "Ocean: Largest in the World",
+                "file": "SIM-SST7-T1-4-0001"
+              },
+              {
+                "label": "Ocean: West of Africa",
+                "file": "SIM-SST7-T1-4-0002"
+              },
+              {
+                "label": "Ocean: North Pole (Arctic)",
+                "file": "SIM-SST7-T1-4-0003"
+              },
+              {
+                "label": "Ocean: Southern (Antarctic)",
+                "file": "SIM-SST7-T1-4-0004"
+              },
+              {
+                "label": "Ocean: East of Africa (Indian)",
+                "file": "SIM-SST7-T1-4-0005"
+              },
+              {
+                "label": "Water: Mediterranean Sea",
+                "file": "SIM-SST7-T1-4-0006"
+              },
+              {
+                "label": "Water: Suez Canal",
+                "file": "SIM-SST7-T1-4-0007"
+              },
+              {
+                "label": "Water: Red Sea",
+                "file": "SIM-SST7-T1-4-0008"
+              },
+              {
+                "label": "Water: Bab-el-Mandeb Strait",
+                "file": "SIM-SST7-T1-4-0009"
+              },
+              {
+                "label": "Water: Cape Agulhas (Meeting Point)",
+                "file": "SIM-SST7-T1-4-0010"
+              },
+              {
+                "label": "Oceans, Seas and the Hydrosphere",
+                "file": "recap_water_bodies_africa"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 10
           },
           {
             "folder": "quest_5_coastal_features",
-            "title": "5 Coastal Features",
-            "prefix": "",
+            "title": "05 Coastal Features",
+            "prefix": "5",
             "resources": [
               {
-                "label": "📚 Study Notes: Coastal Features",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_coastal_features"
               },
               {
-                "label": "Gulf: Guinea",
-                "file": "quiz_coastal_01"
+                "label": "Shaping the Coast",
+                "file": "study_coastal_features"
               },
               {
-                "label": "Gulf: Aden",
-                "file": "quiz_coastal_02"
+                "label": "Gulf: Gulf of Guinea",
+                "file": "SIM-SST7-T1-5-0001"
               },
               {
-                "label": "Gulf: Sirte",
-                "file": "quiz_coastal_03"
+                "label": "Gulf: Gulf of Aden",
+                "file": "SIM-SST7-T1-5-0002"
               },
               {
-                "label": "Gulf: Gabes",
-                "file": "quiz_coastal_04"
+                "label": "Gulf: Gulf of Sirte (Libya)",
+                "file": "SIM-SST7-T1-5-0003"
               },
               {
-                "label": "Island: Madagascar",
-                "file": "quiz_coastal_05"
+                "label": "Gulf: Gulf of Gabes (Tunisia)",
+                "file": "SIM-SST7-T1-5-0004"
               },
               {
-                "label": "Island: Indian Ocean",
-                "file": "quiz_coastal_06"
+                "label": "Island: Madagascar (Largest)",
+                "file": "SIM-SST7-T1-5-0005"
               },
               {
-                "label": "Island: Seychelles",
-                "file": "quiz_coastal_07"
+                "label": "Island: Madagascar (Ocean)",
+                "file": "SIM-SST7-T1-5-0006"
               },
               {
-                "label": "Island: Cape Verde",
-                "file": "quiz_coastal_08"
+                "label": "Island: Seychelles (Smallest)",
+                "file": "SIM-SST7-T1-5-0007"
               },
               {
-                "label": "Island: Sao Tome",
-                "file": "quiz_coastal_09"
+                "label": "Island: Cape Verde (West)",
+                "file": "SIM-SST7-T1-5-0008"
               },
               {
-                "label": "Strait: Gibraltar",
-                "file": "quiz_coastal_10"
+                "label": "Island: Sao Tome (Equator)",
+                "file": "SIM-SST7-T1-5-0009"
+              },
+              {
+                "label": "Strait: Gibraltar (North)",
+                "file": "SIM-SST7-T1-5-0010"
               },
               {
                 "label": "Peninsula: Horn of Africa",
-                "file": "quiz_coastal_11"
+                "file": "SIM-SST7-T1-5-0011"
               },
               {
-                "label": "Strait: Bab-el-Mandeb",
-                "file": "quiz_coastal_12"
+                "label": "Strait: Bab-el-Mandeb (East)",
+                "file": "SIM-SST7-T1-5-0012"
               },
               {
-                "label": "Cape: Agulhas Southern",
-                "file": "quiz_coastal_13"
+                "label": "Cape: Agulhas (Southern Point)",
+                "file": "SIM-SST7-T1-5-0013"
               },
               {
-                "label": "Strait: Mozambique",
-                "file": "quiz_coastal_14"
+                "label": "Strait: Mozambique Channel",
+                "file": "SIM-SST7-T1-5-0014"
               },
               {
-                "label": "Identify: Gibraltar",
-                "file": "quiz_coastal_15"
+                "label": "Shape: Strait of Gibraltar (ID)",
+                "file": "SIM-SST7-T1-5-0015"
               },
               {
-                "label": "Identify: Gulf Guinea",
-                "file": "quiz_coastal_16"
+                "label": "Shape: Gulf of Guinea (Curve)",
+                "file": "SIM-SST7-T1-5-0016"
               },
               {
-                "label": "Identify: Horn Africa",
-                "file": "quiz_coastal_17"
+                "label": "Shape: Horn of Africa (Region)",
+                "file": "SIM-SST7-T1-5-0017"
               },
               {
-                "label": "Identify: Cape Agulhas",
-                "file": "quiz_coastal_18"
+                "label": "Shape: Cape Agulhas (Point)",
+                "file": "SIM-SST7-T1-5-0018"
               },
               {
-                "label": "Identify: Seychelles",
-                "file": "quiz_coastal_19"
+                "label": "Shape: Seychelles (ID)",
+                "file": "SIM-SST7-T1-5-0019"
               },
               {
-                "label": "Recap Coastal Feat Africa",
+                "label": "Shaping the African Coast",
                 "file": "recap_coastal_feat_africa"
-              },
-              {
-                "label": "Study Coastal Features",
-                "file": "study_coastal_features"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 19
           },
           {
             "folder": "quest_6_regional_division_capital_cities",
-            "title": "6 Regional Division Capital Cities",
-            "prefix": "",
+            "title": "06 Regional Division Capital Cities",
+            "prefix": "6",
             "resources": [
               {
-                "label": "📚 Study Notes: Regions & Capitals",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_regionals_capitals"
               },
               {
-                "label": "Region: East Africa",
-                "file": "quiz_reg_cap_01"
+                "label": "Capital City Sprint",
+                "file": "study_capitals"
               },
               {
-                "label": "Region: West Africa",
-                "file": "quiz_reg_cap_02"
-              },
-              {
-                "label": "Region: Horn of Africa",
-                "file": "quiz_reg_cap_03"
-              },
-              {
-                "label": "Region: Central Africa",
-                "file": "quiz_reg_cap_04"
-              },
-              {
-                "label": "Region: North Africa",
-                "file": "quiz_reg_cap_05"
-              },
-              {
-                "label": "Region: Southern Africa",
-                "file": "quiz_reg_cap_06"
-              },
-              {
-                "label": "Region: West Africa Line",
-                "file": "quiz_reg_cap_07"
-              },
-              {
-                "label": "Capital: Kampala",
-                "file": "quiz_reg_cap_08"
-              },
-              {
-                "label": "Capital: Abuja",
-                "file": "quiz_reg_cap_09"
-              },
-              {
-                "label": "Capital: Cairo",
-                "file": "quiz_reg_cap_10"
-              },
-              {
-                "label": "Capital: Pretoria",
-                "file": "quiz_reg_cap_11"
-              },
-              {
-                "label": "Capital: Antananarivo",
-                "file": "quiz_reg_cap_12"
-              },
-              {
-                "label": "Capital: Mogadishu",
-                "file": "quiz_reg_cap_13"
-              },
-              {
-                "label": "Recap: Regions & Capitals",
-                "file": "recap_regions_capitals"
-              },
-              {
-                "label": "Study Regions",
+                "label": "The Regional Puzzle",
                 "file": "study_regions"
+              },
+              {
+                "label": "Region: East Africa (Kilimanjaro)",
+                "file": "SIM-SST7-T1-6-0001"
+              },
+              {
+                "label": "Region: West Africa (Population)",
+                "file": "SIM-SST7-T1-6-0002"
+              },
+              {
+                "label": "Region: Horn of Africa (Somalia)",
+                "file": "SIM-SST7-T1-6-0003"
+              },
+              {
+                "label": "Region: Central Africa (Rainforest)",
+                "file": "SIM-SST7-T1-6-0004"
+              },
+              {
+                "label": "Region: North Africa (Nile)",
+                "file": "SIM-SST7-T1-6-0005"
+              },
+              {
+                "label": "Region: Southern Africa (Minerals)",
+                "file": "SIM-SST7-T1-6-0006"
+              },
+              {
+                "label": "Region: West Africa (Prime Meridian)",
+                "file": "SIM-SST7-T1-6-0007"
+              },
+              {
+                "label": "Capital: Kampala (Uganda)",
+                "file": "SIM-SST7-T1-6-0008"
+              },
+              {
+                "label": "Capital: Abuja (Nigeria)",
+                "file": "SIM-SST7-T1-6-0009"
+              },
+              {
+                "label": "Capital: Cairo (Egypt)",
+                "file": "SIM-SST7-T1-6-0010"
+              },
+              {
+                "label": "Capital: Pretoria (South Africa)",
+                "file": "SIM-SST7-T1-6-0011"
+              },
+              {
+                "label": "Capital: Antananarivo (Madagascar)",
+                "file": "SIM-SST7-T1-6-0012"
+              },
+              {
+                "label": "Capital: Mogadishu (Somalia)",
+                "file": "SIM-SST7-T1-6-0013"
+              },
+              {
+                "label": "The Political Map of Africa",
+                "file": "recap_regions_capitals"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 13
           },
           {
             "folder": "quest_7_landlocked_countries",
-            "title": "7 Landlocked Countries",
-            "prefix": "",
+            "title": "07 Landlocked Countries",
+            "prefix": "7",
             "resources": [
               {
-                "label": "📚 Study Notes: Landlocked Countries",
+                "label": "Locating Africa on the World Stage",
                 "file": "note_landlocked"
               },
               {
-                "label": "Recap: Landlocked Nations",
-                "file": "recap_landlocked"
-              },
-              {
-                "label": "Study: Interior Nations",
+                "label": "The Landlocked Challenge",
                 "file": "study_landlocked"
               },
               {
-                "label": "Landlocked: Definition",
-                "file": "quiz_landlocked_01"
+                "label": "Definition: Landlocked Nations",
+                "file": "SIM-SST7-T1-7-0001"
               },
               {
-                "label": "Landlocked: Uganda Port",
-                "file": "quiz_landlocked_02"
+                "label": "East Africa: Uganda's Port",
+                "file": "SIM-SST7-T1-7-0002"
               },
               {
-                "label": "Landlocked: Ethiopia Port",
-                "file": "quiz_landlocked_03"
+                "label": "Horn of Africa: Ethiopia",
+                "file": "SIM-SST7-T1-7-0003"
               },
               {
-                "label": "Landlocked: Lesotho Enclave",
-                "file": "quiz_landlocked_04"
+                "label": "The Enclave: Lesotho",
+                "file": "SIM-SST7-T1-7-0004"
               },
               {
-                "label": "Landlocked: Mali Gateway",
-                "file": "quiz_landlocked_05"
+                "label": "West Africa: Mali & Dakar",
+                "file": "SIM-SST7-T1-7-0005"
               },
               {
-                "label": "Landlocked: Central Africa",
-                "file": "quiz_landlocked_06"
+                "label": "Central Africa: Chad & CAR",
+                "file": "SIM-SST7-T1-7-0006"
               },
               {
-                "label": "Landlocked: Zambia TAZARA",
-                "file": "quiz_landlocked_07"
+                "label": "Southern Africa: Zambia TAZARA",
+                "file": "SIM-SST7-T1-7-0007"
               },
               {
-                "label": "Landlocked: Zimbabwe Beira",
-                "file": "quiz_landlocked_08"
+                "label": "Southern Africa: Zimbabwe's Route",
+                "file": "SIM-SST7-T1-7-0008"
               },
               {
-                "label": "Landlocked: Botswana Kalahari",
-                "file": "quiz_landlocked_09"
+                "label": "Southern Africa: Botswana",
+                "file": "SIM-SST7-T1-7-0009"
               },
               {
-                "label": "Landlocked: Economic Impact",
-                "file": "quiz_landlocked_10"
+                "label": "Challenge: Economic Impacts",
+                "file": "SIM-SST7-T1-7-0010"
+              },
+              {
+                "label": "Africa's Interior Nations",
+                "file": "recap_landlocked"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 10
           }
         ]
       }
     ]
   },
   "english": {
-    "theme": "#7c3aed",
+    "theme": "#d97706",
     "units": [
       {
         "id": "holidays",
@@ -1343,160 +2154,688 @@
           {
             "folder": "quest_01_holiday_kickoff",
             "title": "01 Holiday Kickoff",
-            "prefix": "",
+            "prefix": "01",
             "resources": [
               {
-                "label": "01 Holiday Kickoff",
+                "label": "The Announcement",
                 "file": "01_holiday_kickoff"
               },
               {
-                "label": "Holiday Kickoff Recap",
+                "label": "Practice ENG7-T1-01-0001",
+                "file": "SIM-ENG7-T1-01-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0002",
+                "file": "SIM-ENG7-T1-01-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0003",
+                "file": "SIM-ENG7-T1-01-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0004",
+                "file": "SIM-ENG7-T1-01-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0005",
+                "file": "SIM-ENG7-T1-01-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0006",
+                "file": "SIM-ENG7-T1-01-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0008",
+                "file": "SIM-ENG7-T1-01-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0009",
+                "file": "SIM-ENG7-T1-01-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0010",
+                "file": "SIM-ENG7-T1-01-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0011",
+                "file": "SIM-ENG7-T1-01-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0012",
+                "file": "SIM-ENG7-T1-01-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0013",
+                "file": "SIM-ENG7-T1-01-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0014",
+                "file": "SIM-ENG7-T1-01-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-01-0015",
+                "file": "SIM-ENG7-T1-01-0015"
+              },
+              {
+                "label": "Holiday Vocab & Grammar Recap",
                 "file": "recap_holiday_kickoff"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 15
           },
           {
             "folder": "quest_02_going_to_mastery",
             "title": "02 Going To Mastery",
-            "prefix": "",
+            "prefix": "02",
             "resources": [
               {
-                "label": "02 Going To Mastery",
+                "label": "Planning the Journey",
                 "file": "02_going_to_mastery"
               },
               {
-                "label": "Going To Recap",
+                "label": "Practice ENG7-T1-02-0001",
+                "file": "SIM-ENG7-T1-02-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0002",
+                "file": "SIM-ENG7-T1-02-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0003",
+                "file": "SIM-ENG7-T1-02-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0004",
+                "file": "SIM-ENG7-T1-02-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0005",
+                "file": "SIM-ENG7-T1-02-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0006",
+                "file": "SIM-ENG7-T1-02-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0007",
+                "file": "SIM-ENG7-T1-02-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0008",
+                "file": "SIM-ENG7-T1-02-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0009",
+                "file": "SIM-ENG7-T1-02-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0010",
+                "file": "SIM-ENG7-T1-02-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0011",
+                "file": "SIM-ENG7-T1-02-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0012",
+                "file": "SIM-ENG7-T1-02-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0013",
+                "file": "SIM-ENG7-T1-02-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0014",
+                "file": "SIM-ENG7-T1-02-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-02-0015",
+                "file": "SIM-ENG7-T1-02-0015"
+              },
+              {
+                "label": "Going To Mastery Recap",
                 "file": "recap_going_to"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_03_question_tags_mastery",
             "title": "03 Question Tags Mastery",
-            "prefix": "",
+            "prefix": "03",
             "resources": [
               {
-                "label": "03 Question Tags Mastery",
+                "label": "Question Tag Traps",
                 "file": "03_question_tags_mastery"
               },
               {
-                "label": "Question Tags Recap",
+                "label": "Practice ENG7-T1-03-0001",
+                "file": "SIM-ENG7-T1-03-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0002",
+                "file": "SIM-ENG7-T1-03-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0003",
+                "file": "SIM-ENG7-T1-03-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0004",
+                "file": "SIM-ENG7-T1-03-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0005",
+                "file": "SIM-ENG7-T1-03-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0006",
+                "file": "SIM-ENG7-T1-03-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0007",
+                "file": "SIM-ENG7-T1-03-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0008",
+                "file": "SIM-ENG7-T1-03-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0009",
+                "file": "SIM-ENG7-T1-03-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0010",
+                "file": "SIM-ENG7-T1-03-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0011",
+                "file": "SIM-ENG7-T1-03-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0012",
+                "file": "SIM-ENG7-T1-03-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0013",
+                "file": "SIM-ENG7-T1-03-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0014",
+                "file": "SIM-ENG7-T1-03-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-03-0015",
+                "file": "SIM-ENG7-T1-03-0015"
+              },
+              {
+                "label": "Question Tag Mastery Recap",
                 "file": "recap_question_tags"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_04_reported_speech_mastery",
             "title": "04 Reported Speech Mastery",
-            "prefix": "",
+            "prefix": "04",
             "resources": [
               {
-                "label": "04 Reported Speech Mastery",
+                "label": "Reporting the News",
                 "file": "04_reported_speech_mastery"
               },
               {
-                "label": "Reported Speech Recap",
+                "label": "Practice ENG7-T1-04-0001",
+                "file": "SIM-ENG7-T1-04-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0002",
+                "file": "SIM-ENG7-T1-04-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0003",
+                "file": "SIM-ENG7-T1-04-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0004",
+                "file": "SIM-ENG7-T1-04-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0005",
+                "file": "SIM-ENG7-T1-04-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0006",
+                "file": "SIM-ENG7-T1-04-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0007",
+                "file": "SIM-ENG7-T1-04-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0008",
+                "file": "SIM-ENG7-T1-04-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0009",
+                "file": "SIM-ENG7-T1-04-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0010",
+                "file": "SIM-ENG7-T1-04-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0011",
+                "file": "SIM-ENG7-T1-04-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0012",
+                "file": "SIM-ENG7-T1-04-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0013",
+                "file": "SIM-ENG7-T1-04-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0014",
+                "file": "SIM-ENG7-T1-04-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-04-0015",
+                "file": "SIM-ENG7-T1-04-0015"
+              },
+              {
+                "label": "Reported Speech Mastery Recap",
                 "file": "recap_reported_speech"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_05_village_arrival",
             "title": "05 Village Arrival",
-            "prefix": "",
+            "prefix": "05",
             "resources": [
               {
-                "label": "05 Village Arrival",
+                "label": "Life on the Farm",
                 "file": "05_village_arrival"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0001",
+                "file": "SIM-ENG7-T1-05-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0002",
+                "file": "SIM-ENG7-T1-05-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0003",
+                "file": "SIM-ENG7-T1-05-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0004",
+                "file": "SIM-ENG7-T1-05-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0005",
+                "file": "SIM-ENG7-T1-05-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0006",
+                "file": "SIM-ENG7-T1-05-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0007",
+                "file": "SIM-ENG7-T1-05-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0008",
+                "file": "SIM-ENG7-T1-05-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0009",
+                "file": "SIM-ENG7-T1-05-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0010",
+                "file": "SIM-ENG7-T1-05-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0011",
+                "file": "SIM-ENG7-T1-05-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0012",
+                "file": "SIM-ENG7-T1-05-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0013",
+                "file": "SIM-ENG7-T1-05-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0014",
+                "file": "SIM-ENG7-T1-05-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-05-0015",
+                "file": "SIM-ENG7-T1-05-0015"
               },
               {
                 "label": "Village Arrival Recap",
                 "file": "recap_village_arrival"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_06_feeling_and_facts",
             "title": "06 Feeling And Facts",
-            "prefix": "",
+            "prefix": "06",
             "resources": [
               {
-                "label": "06 Feeling And Facts",
+                "label": "Describing the Village",
                 "file": "06_feeling_and_facts"
               },
               {
-                "label": "Feeling And Facts Recap",
+                "label": "Practice ENG7-T1-06-0001",
+                "file": "SIM-ENG7-T1-06-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0002",
+                "file": "SIM-ENG7-T1-06-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0003",
+                "file": "SIM-ENG7-T1-06-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0004",
+                "file": "SIM-ENG7-T1-06-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0005",
+                "file": "SIM-ENG7-T1-06-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0006",
+                "file": "SIM-ENG7-T1-06-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0007",
+                "file": "SIM-ENG7-T1-06-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0008",
+                "file": "SIM-ENG7-T1-06-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0009",
+                "file": "SIM-ENG7-T1-06-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0010",
+                "file": "SIM-ENG7-T1-06-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0011",
+                "file": "SIM-ENG7-T1-06-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0012",
+                "file": "SIM-ENG7-T1-06-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0013",
+                "file": "SIM-ENG7-T1-06-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0014",
+                "file": "SIM-ENG7-T1-06-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-06-0015",
+                "file": "SIM-ENG7-T1-06-0015"
+              },
+              {
+                "label": "-ing and -ed Adjectives Recap",
                 "file": "recap_adj_ing_ed"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_07_past_regrets",
             "title": "07 Past Regrets",
-            "prefix": "",
+            "prefix": "07",
             "resources": [
               {
-                "label": "07 Past Regrets",
+                "label": "The Regret Rule",
                 "file": "07_past_regrets"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0001",
+                "file": "SIM-ENG7-T1-07-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0002",
+                "file": "SIM-ENG7-T1-07-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0003",
+                "file": "SIM-ENG7-T1-07-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0004",
+                "file": "SIM-ENG7-T1-07-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0005",
+                "file": "SIM-ENG7-T1-07-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0006",
+                "file": "SIM-ENG7-T1-07-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0007",
+                "file": "SIM-ENG7-T1-07-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0008",
+                "file": "SIM-ENG7-T1-07-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0009",
+                "file": "SIM-ENG7-T1-07-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0010",
+                "file": "SIM-ENG7-T1-07-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0011",
+                "file": "SIM-ENG7-T1-07-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0012",
+                "file": "SIM-ENG7-T1-07-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0013",
+                "file": "SIM-ENG7-T1-07-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0014",
+                "file": "SIM-ENG7-T1-07-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-07-0015",
+                "file": "SIM-ENG7-T1-07-0015"
               },
               {
                 "label": "Past Regrets Recap",
                 "file": "recap_conditional_type_3"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_08_voice_mastery",
             "title": "08 Voice Mastery",
-            "prefix": "",
+            "prefix": "08",
             "resources": [
               {
-                "label": "08 Voice Mastery",
+                "label": "Active vs Passive",
                 "file": "08_voice_mastery"
               },
               {
-                "label": "Voice Mastery Recap",
+                "label": "Practice ENG7-T1-08-0001",
+                "file": "SIM-ENG7-T1-08-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0002",
+                "file": "SIM-ENG7-T1-08-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0003",
+                "file": "SIM-ENG7-T1-08-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0004",
+                "file": "SIM-ENG7-T1-08-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0005",
+                "file": "SIM-ENG7-T1-08-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0006",
+                "file": "SIM-ENG7-T1-08-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0007",
+                "file": "SIM-ENG7-T1-08-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0008",
+                "file": "SIM-ENG7-T1-08-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0009",
+                "file": "SIM-ENG7-T1-08-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0010",
+                "file": "SIM-ENG7-T1-08-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0011",
+                "file": "SIM-ENG7-T1-08-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0012",
+                "file": "SIM-ENG7-T1-08-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0013",
+                "file": "SIM-ENG7-T1-08-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0014",
+                "file": "SIM-ENG7-T1-08-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-08-0015",
+                "file": "SIM-ENG7-T1-08-0015"
+              },
+              {
+                "label": "Active and Passive Recap",
                 "file": "recap_active_passive"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_09_final_review",
             "title": "09 Final Review",
-            "prefix": "",
+            "prefix": "09",
             "resources": [
               {
-                "label": "09 Final Review",
+                "label": "Chapter 1 Mastery",
                 "file": "09_final_review"
               },
               {
-                "label": "Chapter Review Recap",
+                "label": "Practice ENG7-T1-09-0001",
+                "file": "SIM-ENG7-T1-09-0001"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0002",
+                "file": "SIM-ENG7-T1-09-0002"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0003",
+                "file": "SIM-ENG7-T1-09-0003"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0004",
+                "file": "SIM-ENG7-T1-09-0004"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0005",
+                "file": "SIM-ENG7-T1-09-0005"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0006",
+                "file": "SIM-ENG7-T1-09-0006"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0007",
+                "file": "SIM-ENG7-T1-09-0007"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0008",
+                "file": "SIM-ENG7-T1-09-0008"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0009",
+                "file": "SIM-ENG7-T1-09-0009"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0010",
+                "file": "SIM-ENG7-T1-09-0010"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0011",
+                "file": "SIM-ENG7-T1-09-0011"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0012",
+                "file": "SIM-ENG7-T1-09-0012"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0013",
+                "file": "SIM-ENG7-T1-09-0013"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0014",
+                "file": "SIM-ENG7-T1-09-0014"
+              },
+              {
+                "label": "Practice ENG7-T1-09-0015",
+                "file": "SIM-ENG7-T1-09-0015"
+              },
+              {
+                "label": "Final Review Recap",
                 "file": "recap_chapter_review"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 16
           },
           {
             "folder": "quest_10_vault",
             "title": "10 Vault",
-            "prefix": "",
+            "prefix": "10",
             "resources": [
-              {
-                "label": "Dict Activities",
-                "file": "dict_activities"
-              },
-              {
-                "label": "Dict Holidays",
-                "file": "dict_holidays"
-              },
               {
                 "label": "Rule Active Passive",
                 "file": "rule_active_passive"
@@ -1520,9 +2859,17 @@
               {
                 "label": "Rule Reported Speech",
                 "file": "rule_reported_speech"
+              },
+              {
+                "label": "Dict Activities",
+                "file": "dict_activities"
+              },
+              {
+                "label": "Dict Holidays",
+                "file": "dict_holidays"
               }
             ],
-            "practiceCount": 0
+            "practiceCount": 2
           }
         ]
       }

@@ -5,6 +5,11 @@
   "topic": "Nature Sets",
   "variantTitle": "Quest 1-004: Nature Walk (Part 2)",
   "questions": [
-    { "scene": "fish", "expected": "finite", "prompt": "Set of <b>Fish in Lake Victoria</b>." }
-  ]
+    {
+      "scene": "fish",
+      "expected": "finite",
+      "prompt": "Set of <b>Fish in Lake Victoria</b>."
+    }
+  ],
+  "qid": "SIM-MT7-T1-01-0007"
 }

@@ -5,6 +5,11 @@
   "topic": "Set Types",
   "variantTitle": "Quest 1-003: Abstract Sets (Part 3)",
   "questions": [
-    { "scene": "cows", "expected": "finite", "prompt": "Set of <b>Primary Schools in Uganda</b>." }
-  ]
+    {
+      "scene": "cows",
+      "expected": "finite",
+      "prompt": "Set of <b>Primary Schools in Uganda</b>."
+    }
+  ],
+  "qid": "SIM-MT7-T1-01-0005"
 }

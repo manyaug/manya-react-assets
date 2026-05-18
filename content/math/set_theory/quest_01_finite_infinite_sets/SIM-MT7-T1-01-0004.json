@@ -5,6 +5,11 @@
   "topic": "Set Types",
   "variantTitle": "Quest 1-003: Abstract Sets (Part 2)",
   "questions": [
-    { "scene": "stars", "expected": "infinite", "prompt": "Set of <b>Points on a Line</b>." }
-  ]
+    {
+      "scene": "stars",
+      "expected": "infinite",
+      "prompt": "Set of <b>Points on a Line</b>."
+    }
+  ],
+  "qid": "SIM-MT7-T1-01-0004"
 }

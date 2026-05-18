@@ -6,9 +6,10 @@
   "variantTitle": "Quest 1-006: My Class (Part 2)",
   "questions": [
     {
-      "scene": "default", 
+      "scene": "default",
       "expected": "finite",
       "prompt": "Set of <b>Districts in Uganda</b>."
     }
-  ]
+  ],
+  "qid": "SIM-MT7-T1-01-0012"
 }

@@ -5,6 +5,11 @@
   "topic": "Nature Sets",
   "variantTitle": "Quest 1-004: Nature Walk (Part 4)",
   "questions": [
-    { "scene": "stars", "expected": "infinite", "prompt": "Set of <b>Stars in the Universe</b>." }
-  ]
+    {
+      "scene": "stars",
+      "expected": "infinite",
+      "prompt": "Set of <b>Stars in the Universe</b>."
+    }
+  ],
+  "qid": "SIM-MT7-T1-01-0009"
 }
