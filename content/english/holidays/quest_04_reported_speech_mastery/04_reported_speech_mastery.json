@@ -8,8 +8,8 @@
       "engineType": "CHAT",
       "data": {
         "speaker": "manya",
-        "image": "assets/english/chap-1-holidays/quest_1/holiday_chat_7.webp",
-        "text": "Wait! Polly is telling everyone what the teacher said. She is using <b>Reported Speech</b>! You must shift the tense back in time."
+        "image": "assets/english/chap-1-holidays/holiday_chat_7.webp",
+        "text": "Wait! Polly is telling us what the teacher said. She said that our trip <b>would be</b> exciting! She is using <b>Reported Speech</b>. Remember to shift the tense back!"
       }
     },
     {
@@ -22,11 +22,36 @@
       "engineType": "SYNTAX_ENGINE",
       "data": {
         "questions": [
-          { "mode": "TRANSFORM", "prompt": "Direct: 'I am going home.' <br>Reported: He said that he _______ going home.", "expected": "was", "hint": "Am -> Was" },
-          { "mode": "TRANSFORM", "prompt": "Direct: 'We will enjoy.' <br>Reported: They said that they _______ enjoy.", "expected": "would", "hint": "Will -> Would" },
-          { "mode": "TRANSFORM", "prompt": "Direct: 'The fare is high.' <br>Reported: She said the fare _______ high.", "expected": "was", "hint": "Is -> Was" },
-          { "mode": "TRANSFORM", "prompt": "Direct: 'I can swim.' <br>Reported: Manya said that he _______ swim.", "expected": "could", "hint": "Can -> Could" },
-          { "mode": "TRANSFORM", "prompt": "Direct: 'The trip has begun.' <br>Reported: They said the trip _______ begun.", "expected": "had", "hint": "Has -> Had" }
+          {
+            "mode": "TRANSFORM",
+            "prompt": "Direct: 'I am going home.' <br>Reported: He said that he _______ going home.",
+            "expected": "was",
+            "hint": "Am -> Was"
+          },
+          {
+            "mode": "TRANSFORM",
+            "prompt": "Direct: 'We will enjoy.' <br>Reported: They said that they _______ enjoy.",
+            "expected": "would",
+            "hint": "Will -> Would"
+          },
+          {
+            "mode": "TRANSFORM",
+            "prompt": "Direct: 'The fare is high.' <br>Reported: She said the fare _______ high.",
+            "expected": "was",
+            "hint": "Is -> Was"
+          },
+          {
+            "mode": "TRANSFORM",
+            "prompt": "Direct: 'I can swim.' <br>Reported: Manya said that he _______ swim.",
+            "expected": "could",
+            "hint": "Can -> Could"
+          },
+          {
+            "mode": "TRANSFORM",
+            "prompt": "Direct: 'The trip has begun.' <br>Reported: They said the trip _______ begun.",
+            "expected": "had",
+            "hint": "Has -> Had"
+          }
         ]
       }
     },
@@ -35,8 +60,8 @@
       "engineType": "CHAT",
       "data": {
         "speaker": "kiki",
-        "image": "assets/english/chap-1-holidays/quest_1/holiday_chat_8.webp",
-        "text": "We are here! The village is so <b>BEAUTIFUL</b>. I can make better adjectives by adding suffixes. Let's find the matching pairs!"
+        "image": "assets/english/chap-1-holidays/holiday_chat_8.webp",
+        "text": "We have arrived! The village is so <b>BEAUTIFUL</b> under the sunset. I can make better adjectives by adding suffixes. Let's find the matching pairs!"
       }
     },
     {
@@ -44,10 +69,22 @@
       "engineType": "MEMORY_MATCH",
       "data": {
         "pairs": [
-          { "item1": "Wonder", "item2": "Wonderful" },
-          { "item1": "Beauty", "item2": "Beautiful" },
-          { "item1": "Success", "item2": "Successful" },
-          { "item1": "Hope", "item2": "Hopeful" }
+          {
+            "item1": "Wonder",
+            "item2": "Wonderful"
+          },
+          {
+            "item1": "Beauty",
+            "item2": "Beautiful"
+          },
+          {
+            "item1": "Success",
+            "item2": "Successful"
+          },
+          {
+            "item1": "Hope",
+            "item2": "Hopeful"
+          }
         ]
       }
     },
@@ -56,11 +93,17 @@
       "engineType": "CHAT",
       "data": {
         "speaker": "manya",
-        "image": "assets/english/chap-1-holidays/quest_1/holiday_chat_9.webp",
+        "image": "assets/english/chap-1-holidays/holiday_chat_9.webp",
         "text": "Waddle! We've reached our destination. Let's plan to meet tomorrow at the stream to swim together!",
         "choices": [
-          { "text": "Revise Chapter Rules", "targetId": "rule-review-selector" },
-          { "text": "Finish and Get Badge", "action": "COMPLETE" }
+          {
+            "text": "Revise Chapter Rules",
+            "targetId": "rule-review-selector"
+          },
+          {
+            "text": "Finish and Get Badge",
+            "action": "COMPLETE"
+          }
         ]
       }
     }

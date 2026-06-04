@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0017",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Football Match",
+            "content": "<h2>The Football Match</h2><p>The much-anticipated football match between Nakasongola and the neighboring village started at 4 PM. The dusty field was lined with cheering fans blowing plastic horns and banging drums. Kiki and Polly sat on a tree branch to get a clear view of the exciting game. The home team played with great determination, passing the ball quickly on the dry ground. When the striker scored the winning goal in the final minute, the crowd burst into wild cheers.</p>"
+        },
+        "questions": [
+            {
+                "text": "Where did Kiki and Polly sit to watch the football match?",
+                "options": [
+                    "On a tree branch for a clear view",
+                    "Inside the team's locker room",
+                    "On the dusty sideline grass"
+                ],
+                "answer": "On a tree branch for a clear view"
+            }
+        ]
+    }
+}

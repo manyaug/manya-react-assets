@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-08-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_08_voice_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Active/Passive Voice Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

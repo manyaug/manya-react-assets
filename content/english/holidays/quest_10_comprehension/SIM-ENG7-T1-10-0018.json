@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0018",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Weaver Bird",
+            "content": "<h2>The Weaver Bird</h2><p>A large colony of bright yellow weaver birds had built their nests in the tall palm tree. They flew back and forth, carrying long strips of green grass in their small beaks. With amazing skill, they wove the grass into perfect, hollow balls hanging from the branches. Children loved to stand below and watch the busy birds chatter and work all day. It was a wonderful lesson in how small, repeated efforts can build a safe and beautiful home.</p>"
+        },
+        "questions": [
+            {
+                "text": "What do the weaver birds use to build their hollow nests?",
+                "options": [
+                    "Small twigs and sticky mud",
+                    "Long strips of green grass",
+                    "Feathers from other birds"
+                ],
+                "answer": "Long strips of green grass"
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Participles",
+  "variantTitle": "Participles Recap",
+  "themeColor": "#10b981",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What are Participles?",
+      "points": [
+        "Participles are verb forms that function as adjectives",
+        "Two types: Present Participles (-ING) and Past Participles (-ED/-EN)",
+        "Present Participle: Shows ongoing or continuous action",
+        "Past Participle: Shows completed action or state"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Present Participles (-ING)",
+      "points": [
+        "Example: The running dog is fast",
+        "Example: We saw a flying bird",
+        "Example: The sleeping baby woke up",
+        "Describes an action that is happening NOW"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Past Participles (-ED/-EN)",
+      "points": [
+        "Example: The broken window needs repair",
+        "Example: The painted house looks beautiful",
+        "Example: The tired farmers rest",
+        "Describes something that was done or completed"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: Present Participles (-ING) = active action | Past Participles (-ED) = completed/passive action"
+    }
+  ]
+}

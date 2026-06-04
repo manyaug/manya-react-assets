@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-06-0002",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Polly",
+        "title": "Participle Use",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "boring movie",
+                "error": "boring",
+                "correct": "bore"
+            },
+            {
+                "text": "excited girl",
+                "error": "excited",
+                "correct": "excite"
+            }
+        ]
+    }
+}

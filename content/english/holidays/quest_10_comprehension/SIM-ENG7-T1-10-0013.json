@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0013",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Potter's Wheel",
+            "content": "<h2>The Potter's Wheel</h2><p>Old Uncle George was famous for making the strongest clay pots in the sub-county. He dug fine red clay from the valley and mixed it with water until it was smooth. Sitting under a shaded mango tree, he spun his wooden wheel and shaped the clay with gentle fingers. Children sat in a circle around him, watching grey lumps turn into beautiful water jars and cooking bowls. Uncle George smiled and told them that patience and a soft touch could shape anything in life.</p>"
+        },
+        "questions": [
+            {
+                "text": "What material does Uncle George use to make pots?",
+                "options": [
+                    "Fine red clay from the valley",
+                    "White sand from the lake shore",
+                    "Soft wood from the forest"
+                ],
+                "answer": "Fine red clay from the valley"
+            }
+        ]
+    }
+}

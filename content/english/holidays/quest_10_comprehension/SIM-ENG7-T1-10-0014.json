@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0014",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Mango Season",
+            "content": "<h2>The Mango Season</h2><p>January in the village is always welcomed because it is the peak of the mango season. The branches of the huge, ancient trees bend low under the weight of sweet, juicy fruits. Boys climb up the sturdy branches to pick the ripe mangoes while girls wait below with baskets. Everyone's face is sticky and yellow from enjoying the delicious fresh fruit under the shade. It is a sweet time of year when nature provides a free feast for the whole community.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why do children welcome the month of January in the village?",
+                "options": [
+                    "Because it is the peak of the mango season",
+                    "Because they receive new winter jackets",
+                    "Because they get to swim in the cold river"
+                ],
+                "answer": "Because it is the peak of the mango season"
+            }
+        ]
+    }
+}

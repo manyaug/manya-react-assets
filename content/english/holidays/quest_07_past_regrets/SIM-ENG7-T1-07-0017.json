@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-07-0017",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_07_past_regrets",
+    "data": {
+        "character": "Polly",
+        "title": "Third Conditional Challenge #17",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Third Conditional"
+            }
+        ]
+    }
+}

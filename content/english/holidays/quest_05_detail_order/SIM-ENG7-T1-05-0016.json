@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-05-0016",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Manya",
+        "title": "Order of Adjectives Challenge #16",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

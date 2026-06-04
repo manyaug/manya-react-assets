@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0003",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Farm Life",
+            "content": "<h2>Farm Life</h2><p>Life on the family farm starts before the sun rises over the green hills. Papa wakes up early to feed the grazing cows and check on the banana trees. The children help by carrying fresh water from the nearby river in plastic jerrycans. Everyone has a job to do, from weeding the sweet potato patch to collecting fresh eggs from the chicken coop. Although the work is hard and tiring, the family feels proud when they sit down to eat the food they grew themselves.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why does the family feel proud at the end of the day?",
+                "options": [
+                    "Because they bought expensive food from a big supermarket.",
+                    "Because they completed their farm chores and grew their own food.",
+                    "Because they slept all day instead of working."
+                ],
+                "answer": "Because they completed their farm chores and grew their own food."
+            }
+        ]
+    }
+}

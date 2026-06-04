@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-06-0006",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Participle Hunt",
+        "size": 8,
+        "words": [
+            "RUNNING",
+            "PAINTED",
+            "BROKEN",
+            "FLYING"
+        ]
+    }
+}

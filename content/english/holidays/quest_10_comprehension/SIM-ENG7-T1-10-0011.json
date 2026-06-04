@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0011",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Harvest Time",
+            "content": "<h2>Harvest Time</h2><p>Harvest time is the busiest and most rewarding season of the year. The maize stalks have turned golden brown, and the bean pods are dry and ready. Neighbors visit each other's gardens to help cut the crops and carry them to the granary store. Working together makes the heavy work much faster and more enjoyable for everyone. After all the food is safely stored, the village hosts a large feast to celebrate their successful teamwork.</p>"
+        },
+        "questions": [
+            {
+                "text": "What makes harvest work easier and more enjoyable for the farmers?",
+                "options": [
+                    "Working alone in the garden without help.",
+                    "Helping each other and working together as a community.",
+                    "Buying food from another country."
+                ],
+                "answer": "Helping each other and working together as a community."
+            }
+        ]
+    }
+}

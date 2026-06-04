@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-06-0020",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Polly",
+        "title": "Participles Challenge #20",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-02-0025",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_02_going_to_mastery",
+    "data": {
+        "character": "Manya",
+        "title": "Be Going To Future Challenge #25",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Be Going To Future"
+            }
+        ]
+    }
+}

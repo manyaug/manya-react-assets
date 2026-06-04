@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-02-0019",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_02_going_to_mastery",
+    "data": {
+        "character": "Manya",
+        "title": "Be Going To Future Challenge #19",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

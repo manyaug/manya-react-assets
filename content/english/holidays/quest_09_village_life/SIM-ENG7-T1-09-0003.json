@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-09-0003",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Kiki",
+        "title": "Manner Adverbs",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "spoke"
+            },
+            {
+                "id": "s2",
+                "expected": "softly"
+            },
+            {
+                "id": "s3",
+                "expected": "and"
+            },
+            {
+                "id": "s4",
+                "expected": "kindly"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

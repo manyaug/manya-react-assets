@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-06-0016",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Manya",
+        "title": "Participles Challenge #16",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

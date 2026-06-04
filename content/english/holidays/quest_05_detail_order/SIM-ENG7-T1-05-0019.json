@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-05-0019",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Manya",
+        "title": "Order of Adjectives Challenge #19",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

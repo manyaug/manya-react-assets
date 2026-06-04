@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-06-0004",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Manya",
+        "title": "Past Participle",
+        "queries": [
+            {
+                "before": "paint house",
+                "after": "painted house",
+                "changeType": "Participles"
+            }
+        ]
+    }
+}

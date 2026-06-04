@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0023",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Morning Mist",
+            "content": "<h2>The Morning Mist</h2><p>A thick white mist lay over the valley early in the morning. It looked like a soft, fluffy blanket covering the coffee trees and grass. As the sun slowly rose behind the hills, the mist began to disappear into the warm air. Dew drops on the leaves shone like tiny diamonds in the morning light. The cool, fresh air was filled with the sweet smell of damp earth, announcing a beautiful day.</p>"
+        },
+        "questions": [
+            {
+                "text": "What happened to the morning mist when the sun rose?",
+                "options": [
+                    "It turned into heavy dark rain clouds",
+                    "It began to disappear into the warm air",
+                    "It froze and turned into white snow"
+                ],
+                "answer": "It began to disappear into the warm air"
+            }
+        ]
+    }
+}

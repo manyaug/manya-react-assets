@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-06-0012",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Village Activity",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "children"
+            },
+            {
+                "id": "s2",
+                "expected": "playing"
+            },
+            {
+                "id": "s3",
+                "expected": "happily"
+            },
+            {
+                "id": "s4",
+                "expected": "laughing"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-09-0007",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Manya",
+        "title": "Time Adverbs",
+        "queries": [
+            {
+                "before": "comes tomorrow she",
+                "after": "she comes tomorrow",
+                "changeType": "Adverbs"
+            }
+        ]
+    }
+}

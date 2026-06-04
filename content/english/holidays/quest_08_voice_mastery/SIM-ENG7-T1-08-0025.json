@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-08-0025",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_08_voice_mastery",
+    "data": {
+        "character": "Manya",
+        "title": "Active/Passive Voice Challenge #25",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Active/Passive Voice"
+            }
+        ]
+    }
+}

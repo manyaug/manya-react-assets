@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0015",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Goat Herd",
+            "content": "<h2>The Goat Herd</h2><p>Young Peter was given the responsibility of herding his father's five goats after school. Every afternoon, he led them up the rocky hill where the sweet shrubs grew. He carried a small stick to guide them and kept a sharp eye out for straying animals. While the goats grazed happily, Peter sat on a flat rock and practiced writing spelling words in the dirt. He knew that taking care of the animals was his first step toward learning responsibility.</p>"
+        },
+        "questions": [
+            {
+                "text": "What does Peter do while the goats are grazing?",
+                "options": [
+                    "He plays football with other village boys",
+                    "He practices writing spelling words in the dirt",
+                    "He goes to sleep under a big umbrella"
+                ],
+                "answer": "He practices writing spelling words in the dirt"
+            }
+        ]
+    }
+}

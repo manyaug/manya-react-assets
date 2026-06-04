@@ -1,0 +1,101 @@
+{
+  "questId": "ENG-C1-Q5",
+  "title": "The Decorating Quest",
+  "engineType": "QUEST_RUNNER",
+  "steps": [
+    {
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "manya",
+        "image": "assets/english/chap-1-holidays/holiday_chat_10.webp",
+        "text": "Waddle! We are walking to the village hall. It needs decorating! But we must describe all the decorations in the <b>RIGHT ORDER</b>. A big <b>red</b> balloon looks better than a red <b>big</b> balloon!"
+      }
+    },
+    {
+      "engineType": "ENGLISH_RULE_MASTER",
+      "referencePath": "../quest_11_vault/rule_order_of_adjectives.json"
+    },
+    {
+      "id": "q5-game-adjective-order",
+      "engineType": "SENTENCE_BLOCKS",
+      "data": {
+        "title": "Order the Adjectives Correctly",
+        "levels": [
+          {
+            "sentence": "We need a large beautiful red cloth.",
+            "blocks": [
+              "large",
+              "beautiful",
+              "red",
+              "cloth"
+            ],
+            "correct_order": [
+              "large",
+              "beautiful",
+              "red",
+              "cloth"
+            ]
+          },
+          {
+            "sentence": "She wore a lovely old silk dress.",
+            "blocks": [
+              "lovely",
+              "old",
+              "silk",
+              "dress"
+            ],
+            "correct_order": [
+              "lovely",
+              "old",
+              "silk",
+              "dress"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q5-chat-bridge",
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "polly",
+        "image": "assets/english/chap-1-holidays/holiday_chat_3.webp",
+        "text": "Look at our decoration plan! Let's play the <b>ADJECTIVE SCRAMBLE</b> to sort them before the noun. Remember: Opinion → Size → Color → Material!"
+      }
+    },
+    {
+      "id": "q5-game-adjective-scramble",
+      "engineType": "MORPH_GAME",
+      "data": {
+        "title": "Adjective Scramble",
+        "examples": [
+          {
+            "before": "small nice blue flowers",
+            "after": "nice small blue flowers",
+            "explanation": "Opinion (nice) → Size (small) → Color (blue)"
+          }
+        ]
+      }
+    },
+    {
+      "engineType": "DEEP_READER",
+      "data": {
+        "media": {
+          "type": "PASSAGE",
+          "content": "<h2>The Village Decorations</h2><p>The old town square had <b>beautiful tall wooden poles</b>. The bright colorful ribbons hung from every corner. Children placed <b>round shiny red balloons</b> everywhere. It was an amazing beautiful sight!</p>"
+        },
+        "questions": [
+          {
+            "text": "What adjectives describe the poles?",
+            "options": [
+              "old, beautiful, tall, wooden",
+              "beautiful, tall, old",
+              "tall, wooden"
+            ],
+            "answer": "old, beautiful, tall, wooden"
+          }
+        ]
+      }
+    }
+  ]
+}

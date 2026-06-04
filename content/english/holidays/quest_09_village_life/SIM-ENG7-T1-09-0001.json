@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-09-0001",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Manya",
+        "title": "Adverb Formation",
+        "queries": [
+            {
+                "before": "quick runner",
+                "after": "quick runs quickly",
+                "changeType": "Adverbs"
+            }
+        ]
+    }
+}

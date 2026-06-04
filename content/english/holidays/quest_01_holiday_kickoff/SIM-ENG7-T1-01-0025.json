@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-01-0025",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_01_holiday_kickoff",
+    "data": {
+        "character": "Manya",
+        "title": "Vocabulary Challenge #25",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Vocabulary"
+            }
+        ]
+    }
+}

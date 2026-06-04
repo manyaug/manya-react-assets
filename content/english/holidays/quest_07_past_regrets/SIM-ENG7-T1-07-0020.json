@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-07-0020",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_07_past_regrets",
+    "data": {
+        "character": "Polly",
+        "title": "Third Conditional Challenge #20",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

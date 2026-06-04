@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0016",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Building the Gazebo",
+            "content": "<h2>Building the Gazebo</h2><p>The village elders decided to build a shared grass-thatched gazebo near the main meeting square. Men brought long eucalyptus poles from the forest, while women harvested dry elephant grass from the swamp. Together, they tied the poles with strong fibers and laid the thick thatch to keep out the rain. Children carried cups of cold water to the working adults throughout the hot afternoon. In just two days, the gazebo was complete, providing a shady place for community discussions.</p>"
+        },
+        "questions": [
+            {
+                "text": "What did the women harvest from the swamp to build the gazebo?",
+                "options": [
+                    "Long eucalyptus poles",
+                    "Dry elephant grass",
+                    "Strong clay bricks"
+                ],
+                "answer": "Dry elephant grass"
+            }
+        ]
+    }
+}

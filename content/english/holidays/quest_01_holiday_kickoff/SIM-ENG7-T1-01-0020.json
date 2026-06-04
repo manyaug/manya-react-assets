@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-01-0020",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_01_holiday_kickoff",
+    "data": {
+        "character": "Polly",
+        "title": "Vocabulary Challenge #20",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

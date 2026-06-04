@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-06-0021",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Participles Challenge #21",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Participles"
+            }
+        ]
+    }
+}

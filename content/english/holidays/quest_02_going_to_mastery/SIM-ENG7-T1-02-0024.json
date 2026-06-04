@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-02-0024",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_02_going_to_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Be Going To Future Challenge #24",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

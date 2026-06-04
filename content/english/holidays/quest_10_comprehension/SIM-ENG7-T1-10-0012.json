@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0012",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Friends Meeting",
+            "content": "<h2>Friends Meeting</h2><p>We met our friends at the village water pump early in the afternoon. While waiting for our turn to fill the yellow jerrycans, we played a game of skipping rope. We shared stories about our week and laughed about the funny things our pets did. When the jerrycans were full, we helped each other lift the heavy water onto our heads. Walking back home together made the long path feel short and happy.</p>"
+        },
+        "questions": [
+            {
+                "text": "What did the friends do while waiting at the water pump?",
+                "options": [
+                    "They played games, shared stories, and helped each other with water.",
+                    "They argued about who should fill their jerrycan first.",
+                    "They went to the market to buy toys."
+                ],
+                "answer": "They played games, shared stories, and helped each other with water."
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0009",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Morning Routine",
+            "content": "<h2>Morning Routine</h2><p>Every morning in the village starts with a peaceful, silent routine. The roosters crow loudly to announce the dawn as the mist rises from the valleys. Before having breakfast, the children sweep the compound and wash the dishes from the night before. Papa goes to milk the cows while Mama boils water over the wood fire to make sweet milk tea. By the time the sun is high in the sky, the family is ready to start their work in the fields.</p>"
+        },
+        "questions": [
+            {
+                "text": "What is the first thing that happens in the morning routine?",
+                "options": [
+                    "The family sits down to eat a big lunch.",
+                    "Roosters crow at dawn while children do compound chores.",
+                    "Everyone goes to sleep in the garden."
+                ],
+                "answer": "Roosters crow at dawn while children do compound chores."
+            }
+        ]
+    }
+}

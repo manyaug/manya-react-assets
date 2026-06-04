@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-01-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_01_holiday_kickoff",
+    "data": {
+        "character": "Kiki",
+        "title": "Vocabulary Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

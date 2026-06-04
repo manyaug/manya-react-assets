@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-08-0021",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_08_voice_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Active/Passive Voice Challenge #21",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Active/Passive Voice"
+            }
+        ]
+    }
+}

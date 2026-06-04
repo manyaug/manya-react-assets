@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-08-0020",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_08_voice_mastery",
+    "data": {
+        "character": "Polly",
+        "title": "Active/Passive Voice Challenge #20",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-03-0020",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_03_question_tags_mastery",
+    "data": {
+        "character": "Polly",
+        "title": "Question Tags Challenge #20",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

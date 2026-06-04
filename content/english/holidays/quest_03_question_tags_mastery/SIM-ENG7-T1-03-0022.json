@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-03-0022",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_03_question_tags_mastery",
+    "data": {
+        "character": "Manya",
+        "title": "Question Tags Challenge #22",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-07-0019",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_07_past_regrets",
+    "data": {
+        "character": "Manya",
+        "title": "Third Conditional Challenge #19",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

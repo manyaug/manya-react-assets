@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-05-0009",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Kiki",
+        "title": "Fix Opinion",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "expensive lovely",
+                "error": "expensive",
+                "correct": "lovely"
+            },
+            {
+                "text": "ugly big",
+                "error": "ugly",
+                "correct": "big"
+            }
+        ]
+    }
+}

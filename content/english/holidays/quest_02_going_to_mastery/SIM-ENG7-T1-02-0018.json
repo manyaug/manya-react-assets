@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-02-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_02_going_to_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Be Going To Future Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

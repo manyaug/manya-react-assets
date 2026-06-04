@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-05-0002",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Polly",
+        "title": "Adjective Fix",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "beautiful small",
+                "error": "beautiful",
+                "correct": "small"
+            },
+            {
+                "text": "green lovely",
+                "error": "green",
+                "correct": "lovely"
+            }
+        ]
+    }
+}

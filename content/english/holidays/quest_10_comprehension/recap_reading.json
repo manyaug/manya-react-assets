@@ -1,0 +1,45 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Reading Comprehension",
+  "variantTitle": "Comprehension Skills Recap",
+  "themeColor": "#0ea5e9",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What is Reading Comprehension?",
+      "points": [
+        "Understanding the meaning of what you read",
+        "Finding the main idea and supporting details",
+        "Making connections between ideas",
+        "Understanding the author's message or lesson"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Key Reading Skills",
+      "points": [
+        "Main Idea: What is the passage mostly about?",
+        "Details: What specific information supports the main idea?",
+        "Inference: What can we conclude from the information?",
+        "Purpose: Why did the author write this?",
+        "Theme: What is the life lesson or message?"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "How to Read Better",
+      "points": [
+        "Read slowly and carefully — don't rush!",
+        "Ask questions as you read: Who? What? When? Where? Why?",
+        "Summarize: Retell the story in your own words",
+        "Look for keywords and important names",
+        "Think about what happened and why it matters"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: Reading comprehension is like detective work! Look for clues in the text to answer your questions."
+    }
+  ]
+}

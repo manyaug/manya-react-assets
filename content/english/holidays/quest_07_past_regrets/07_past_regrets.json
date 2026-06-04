@@ -5,7 +5,11 @@
   "steps": [
     {
       "engineType": "CHAT",
-      "data": { "speaker": "manya", "image": "assets/english/chap-1-holidays/quest_2/hday_2_chat_4.webp", "text": "<b>If I had remembered</b> my boots, <b>I would not have dirtied</b> my feet!" }
+      "data": {
+        "speaker": "manya",
+        "image": "assets/english/chap-1-holidays/holiday_chat_14.webp",
+        "text": "<b>If I had remembered</b> my boots, <b>I would not have dirtied</b> my feet!"
+      }
     },
     {
       "engineType": "ENGLISH_RULE_MASTER",
@@ -15,8 +19,12 @@
       "engineType": "SENTENCE_TRAIN",
       "data": {
         "questions": [
-          { "sentence": "If I had known I would have come." },
-          { "sentence": "She would have passed if she had revised." }
+          {
+            "sentence": "If I had known I would have come."
+          },
+          {
+            "sentence": "She would have passed if she had revised."
+          }
         ]
       }
     },
@@ -25,8 +33,8 @@
       "engineType": "CHAT",
       "data": {
         "speaker": "kiki",
-        "image": "assets/english/chap-1-holidays/quest_2/hday_2_chat_2.webp",
-        "text": "Meow! The Treehouse has <b>THREE FLOORS</b> — Past, Present, and Future. Climb to the right floor by choosing the correct verb tense!"
+        "image": "assets/english/chap-1-holidays/holiday_chat_10.webp",
+        "text": "Meow! As we walk through the village, look at the tall treehouse! It has <b>THREE FLOORS</b> — Past, Present, and Future. Let's climb it!"
       }
     },
     {
@@ -37,9 +45,19 @@
     {
       "engineType": "DEEP_READER",
       "data": {
-        "media": { "type": "PASSAGE", "content": "<h2>PASSAGE 2: The Market</h2><p>The village market was a <b>bustling</b> place. If they had delayed their visit, they <b>would have missed</b> the vibrant market day.</p>" },
+        "media": {
+          "type": "PASSAGE",
+          "content": "<h2>PASSAGE 2: The Market</h2><p>The village market was a <b>bustling</b> place. If they had delayed their visit, they <b>would have missed</b> the vibrant market day.</p>"
+        },
         "questions": [
-          { "text": "What does 'bustling' mean?", "options": ["Busy", "Quiet"], "answer": "Busy" }
+          {
+            "text": "What does 'bustling' mean?",
+            "options": [
+              "Busy",
+              "Quiet"
+            ],
+            "answer": "Busy"
+          }
         ]
       }
     }

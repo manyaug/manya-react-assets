@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-09-0014",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Polly",
+        "title": "Adverbs Challenge #14",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

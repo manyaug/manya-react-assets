@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-03-0021",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_03_question_tags_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Question Tags Challenge #21",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Question Tags"
+            }
+        ]
+    }
+}

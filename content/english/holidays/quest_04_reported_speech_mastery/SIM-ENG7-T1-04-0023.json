@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-04-0023",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_04_reported_speech_mastery",
+    "data": {
+        "character": "Polly",
+        "title": "Reported Speech Challenge #23",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

@@ -8,7 +8,7 @@
       "engineType": "CHAT",
       "data": {
         "speaker": "polly",
-        "image": "assets/english/chap-1-holidays/quest_1/holiday_chat_5.webp",
+        "image": "assets/english/chap-1-holidays/holiday_chat_5.webp",
         "text": "Look at the bus! I am <u>thinking</u> of traveling, but Manya is <u>planning</u>. He is using the <b>GOING TO</b> structure! Let's build some sentences."
       }
     },
@@ -22,11 +22,21 @@
       "engineType": "SENTENCE_TRAIN",
       "data": {
         "questions": [
-          { "sentence": "I am going to cook rice." },
-          { "sentence": "Polly is going to fly up-country." },
-          { "sentence": "We are going to revise books." },
-          { "sentence": "They are going to board the bus." },
-          { "sentence": "Manya is going to visit relatives." }
+          {
+            "sentence": "I am going to cook rice."
+          },
+          {
+            "sentence": "Polly is going to fly up-country."
+          },
+          {
+            "sentence": "We are going to revise books."
+          },
+          {
+            "sentence": "They are going to board the bus."
+          },
+          {
+            "sentence": "Manya is going to visit relatives."
+          }
         ]
       }
     },
@@ -35,8 +45,8 @@
       "engineType": "CHAT",
       "data": {
         "speaker": "kiki",
-        "image": "assets/english/chap-1-holidays/quest_1/holiday_chat_3.webp",
-        "text": "Meow! Now let's <b>BUILD</b> our own Going To sentence. Drag the blocks into the right spots!"
+        "image": "assets/english/chap-1-holidays/holiday_chat_4.webp",
+        "text": "Meow! We are at the crossroads. Are we <b>going to</b> choose the <b>rural</b> path or the <b>urban</b> road? Let's <b>BUILD</b> our sentence to decide our route!"
       }
     },
     {

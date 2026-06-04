@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0006",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Family Gathering",
+            "content": "<h2>Family Gathering</h2><p>This weekend was very busy because all the cousins came to visit from the city. The small brick house was filled with loud voices, laughter, and the smell of roasting maize. The children played games of hide-and-seek behind the banana plantation until the sun set. In the evening, everyone sat on mats on the veranda to listen to Uncle Joseph play the acoustic guitar. It was a wonderful reminder of how family love keeps everyone close despite the distance.</p>"
+        },
+        "questions": [
+            {
+                "text": "What is the main theme of the family gathering described?",
+                "options": [
+                    "City life is much better than village life.",
+                    "Playing hide-and-seek is the only way to have fun.",
+                    "Family connections and shared moments bring happiness."
+                ],
+                "answer": "Family connections and shared moments bring happiness."
+            }
+        ]
+    }
+}

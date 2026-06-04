@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-06-0001",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Manya",
+        "title": "Present Participle",
+        "queries": [
+            {
+                "before": "broken arm",
+                "after": "breaking arm",
+                "changeType": "Participles"
+            }
+        ]
+    }
+}

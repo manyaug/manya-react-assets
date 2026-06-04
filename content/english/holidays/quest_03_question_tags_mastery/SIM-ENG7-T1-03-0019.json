@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-03-0019",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_03_question_tags_mastery",
+    "data": {
+        "character": "Manya",
+        "title": "Question Tags Challenge #19",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0008",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Night Stories",
+            "content": "<h2>Night Stories</h2><p>Every evening after dinner, Grandma told stories to the children by the fireplace. The wind blew cold outside, but inside the kitchen was warm and cozy. She spoke of clever animals, ancient kings, and the brave ancestors who protected the land. The children listened in silence, their eyes wide with wonder as they pictured each adventure. Grandma's stories were not just for fun; they taught important lessons about honesty, kindness, and respect.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why did Grandma tell stories to the children?",
+                "options": [
+                    "To help them practice writing exams.",
+                    "To teach them lessons about honesty, kindness, and respect.",
+                    "To make them feel scared of the dark."
+                ],
+                "answer": "To teach them lessons about honesty, kindness, and respect."
+            }
+        ]
+    }
+}

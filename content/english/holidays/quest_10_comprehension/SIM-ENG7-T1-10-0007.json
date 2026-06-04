@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0007",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Journey Home",
+            "content": "<h2>Journey Home</h2><p>The journey back to the village was long but filled with beautiful sights. The bus climbed slowly up the winding roads of the Rwenzori mountains. Looking out the window, children saw green tea plantations that looked like giant carpets. As the bus passed small trading centers, villagers waved and smiled warmly. When the sun began to set, painting the sky in orange and pink, the bus finally reached the village gate, bringing the travelers home safely.</p>"
+        },
+        "questions": [
+            {
+                "text": "What did the children see out of the window during the journey?",
+                "options": [
+                    "Green tea plantations and friendly waving villagers.",
+                    "A big airport with airplanes landing.",
+                    "Nothing but sand and empty desert roads."
+                ],
+                "answer": "Green tea plantations and friendly waving villagers."
+            }
+        ]
+    }
+}

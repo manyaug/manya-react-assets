@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0021",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Basket Weaver",
+            "content": "<h2>The Basket Weaver</h2><p>Grandmother Sarah was famous for weaving the most beautiful baskets in the region. She used dried papyrus reeds dyed in vibrant red, green, and black colors. Her fingers moved quickly and rhythmically, pulling the reeds together in intricate patterns. It took her several days of focused work to complete a single large basket. The baskets were sold at the town market, helping to support her grandchildren's school fees.</p>"
+        },
+        "questions": [
+            {
+                "text": "What material does Grandmother Sarah use to weave her baskets?",
+                "options": [
+                    "Dried papyrus reeds dyed in colors",
+                    "Plastic threads imported from the city",
+                    "Thin iron wires and cotton string"
+                ],
+                "answer": "Dried papyrus reeds dyed in colors"
+            }
+        ]
+    }
+}

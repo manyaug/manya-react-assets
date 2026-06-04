@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0025",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Wood Carver",
+            "content": "<h2>The Wood Carver</h2><p>Uncle David sat on a wooden bench, carving a block of dry mahogany wood. Using sharp chisels, he slowly shaped the dark wood into a beautiful statue of an eagle. Wood shavings fell like snow around his feet as he worked carefully. He spent hours smoothing the wings and carving detailed feathers on the bird. Uncle David explained that every piece of wood has a hidden story waiting to be carved out.</p>"
+        },
+        "questions": [
+            {
+                "text": "What animal figure was Uncle David carving out of the mahogany wood?",
+                "options": [
+                    "A statue of a flying eagle",
+                    "A sculpture of a grazing cow",
+                    "A carving of a clever monkey"
+                ],
+                "answer": "A statue of a flying eagle"
+            }
+        ]
+    }
+}

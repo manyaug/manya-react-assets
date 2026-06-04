@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0010",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Evening Meals",
+            "content": "<h2>Evening Meals</h2><p>Dinner is a special time that brings the whole family together. After a long day of working on the farm, everyone sits on woven mats in the living room. Mama serves hot plates of steamed matooke, groundnut stew, and fresh beans. There are no phones or televisions to distract them; instead, they talk about their day and share jokes. Eating together helps the family relax and strengthens their bond before they sleep.</p>"
+        },
+        "questions": [
+            {
+                "text": "How does eating dinner together help the family?",
+                "options": [
+                    "It gives them time to watch television.",
+                    "It helps them relax and strengthens their family bond.",
+                    "It teaches them how to cook food by themselves."
+                ],
+                "answer": "It helps them relax and strengthens their family bond."
+            }
+        ]
+    }
+}

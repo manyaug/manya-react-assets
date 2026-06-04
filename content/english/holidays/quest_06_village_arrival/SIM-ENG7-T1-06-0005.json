@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-06-0005",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Polly",
+        "title": "Action Form",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "laugh children",
+                "error": "laugh",
+                "correct": "laughing"
+            },
+            {
+                "text": "dance girls",
+                "error": "dance",
+                "correct": "dancing"
+            }
+        ]
+    }
+}

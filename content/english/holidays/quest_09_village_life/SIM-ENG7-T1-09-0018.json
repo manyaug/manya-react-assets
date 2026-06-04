@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-09-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Kiki",
+        "title": "Adverbs Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

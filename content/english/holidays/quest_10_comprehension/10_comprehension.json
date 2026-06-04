@@ -1,0 +1,97 @@
+{
+  "questId": "ENG-C1-Q10",
+  "title": "Stories from the Village",
+  "engineType": "QUEST_RUNNER",
+  "steps": [
+    {
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "manya",
+        "image": "assets/english/chap-1-holidays/holiday_chat_3.webp",
+        "text": "Waddle! Let's sit together and read these amazing stories from our paper. You will learn by understanding what you read!"
+      }
+    },
+    {
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "polly",
+        "image": "assets/english/chap-1-holidays/holiday_chat_10.webp",
+        "text": "Walking through the village is like reading a story — we discover new ideas and exciting events! Every story has a <b>MAIN IDEA</b> and a <b>MESSAGE</b>!"
+      }
+    },
+    {
+      "id": "q10-game-story-one",
+      "engineType": "DEEP_READER",
+      "data": {
+        "media": {
+          "type": "PASSAGE",
+          "title": "The Mystery of the Well",
+          "content": "<h3>The Mystery of the Well</h3><p>In the heart of the village stood an old well. Nobody had used it for many years. One morning, Kiki discovered water flowing from it again! The whole village came to celebrate. They realized that nature never truly abandons us — it only waits for the right moment to return.</p>"
+        },
+        "questions": [
+          {
+            "text": "What made the well special?",
+            "options": [
+              "It was very old",
+              "Water flowed from it again",
+              "Nobody used it"
+            ],
+            "answer": "Water flowed from it again"
+          }
+        ]
+      }
+    },
+    {
+      "id": "q10-chat-bridge",
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "kiki",
+        "image": "assets/english/chap-1-holidays/holiday_chat_11.webp",
+        "text": "Meow! As we rest under the night sky, we can reflect on the stories we read. Reading helps us understand new ideas. Let's solve the last questions!"
+      }
+    },
+    {
+      "id": "q10-game-story-two",
+      "engineType": "DEEP_READER",
+      "data": {
+        "media": {
+          "type": "PASSAGE",
+          "title": "The Harvest Moon",
+          "content": "<h3>The Harvest Moon</h3><p>Every year, the village celebrates the harvest moon. Farmers gather their crops as golden moonlight illuminates the fields. Children sing traditional songs while adults prepare a great feast. It's a night filled with gratitude for nature's gifts and hope for the future.</p>"
+        },
+        "questions": [
+          {
+            "text": "What do farmers do during harvest moon?",
+            "options": [
+              "Sing songs",
+              "Gather crops",
+              "Sleep under the moon"
+            ],
+            "answer": "Gather crops"
+          }
+        ]
+      }
+    },
+    {
+      "engineType": "DEEP_READER",
+      "data": {
+        "media": {
+          "type": "PASSAGE",
+          "title": "The Lost Path",
+          "content": "<h3>The Lost Path</h3><p>A young girl found an old path in the forest that nobody used anymore. Following it, she discovered a hidden garden full of wildflowers. She learned that sometimes the most beautiful things are found when we explore beyond the usual routes. The garden became her special place of peace.</p>"
+        },
+        "questions": [
+          {
+            "text": "What did the girl discover?",
+            "options": [
+              "A lost girl",
+              "A hidden garden",
+              "A new village"
+            ],
+            "answer": "A hidden garden"
+          }
+        ]
+      }
+    }
+  ]
+}

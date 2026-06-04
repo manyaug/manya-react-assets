@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-09-0012",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Kiki",
+        "title": "Daily Life",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "works"
+            },
+            {
+                "id": "s2",
+                "expected": "diligently"
+            },
+            {
+                "id": "s3",
+                "expected": "every"
+            },
+            {
+                "id": "s4",
+                "expected": "day"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

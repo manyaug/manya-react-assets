@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-09-0006",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Kiki",
+        "title": "Adverb Hunt",
+        "size": 8,
+        "words": [
+            "QUICKLY",
+            "SLOWLY",
+            "HAPPILY",
+            "CAREFULLY"
+        ]
+    }
+}

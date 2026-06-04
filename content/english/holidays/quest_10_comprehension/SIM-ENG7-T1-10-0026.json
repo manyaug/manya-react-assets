@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0026",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Rainmaker",
+            "content": "<h2>The Rainmaker</h2><p>In the dry months, the villagers often spoke of the ancient legends of rainmakers. The elders gathered under the sacred fig tree to pray for rain to water their dry crops. They sang traditional songs and beat the large ceremonial drums to invite the clouds. As if in response, a cool breeze blew from the east, bringing dark rain clouds. The children danced in the first drops of rain, celebrating the return of life.</p>"
+        },
+        "questions": [
+            {
+                "text": "Where did the elders gather to pray for rain?",
+                "options": [
+                    "Under the sacred fig tree",
+                    "At the modern town hall",
+                    "Near the dry mountain stream"
+                ],
+                "answer": "Under the sacred fig tree"
+            }
+        ]
+    }
+}

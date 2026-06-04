@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0005",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Weather Change",
+            "content": "<h2>Weather Change</h2><p>The long dry season has finally ended, and the cool rainy season has arrived. Big dark clouds cover the sky, and heavy rain drops wash the dusty leaves. The dry, brown grass turns into a bright green carpet within a few days. Farmers quickly go to the fields to plant seeds in the soft, wet soil. Everyone is happy because the rain means clean water to drink and a good harvest in the coming months.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why is the arrival of the rainy season important to the villagers?",
+                "options": [
+                    "It makes the roads too dry to walk on.",
+                    "It brings clean water and allows farmers to plant crops for food.",
+                    "It makes the village look brown and dry."
+                ],
+                "answer": "It brings clean water and allows farmers to plant crops for food."
+            }
+        ]
+    }
+}

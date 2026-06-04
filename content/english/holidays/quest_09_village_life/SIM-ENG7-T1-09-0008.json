@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-09-0008",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Polly",
+        "title": "Manner Description",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "danced"
+            },
+            {
+                "id": "s2",
+                "expected": "gracefully"
+            },
+            {
+                "id": "s3",
+                "expected": "and"
+            },
+            {
+                "id": "s4",
+                "expected": "elegantly"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

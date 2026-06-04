@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0019",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Bicycle Ride",
+            "content": "<h2>The Bicycle Ride</h2><p>James received a shiny black bicycle from his uncle as a reward for passing his exams. The next morning, he led his friends to the flat dirt road behind the school. He held the handlebars tightly, balancing carefully as he pushed the pedals forward. His friends ran alongside, cheering and laughing as the bicycle moved faster and faster. Learning to ride gave James a feeling of freedom and filled the afternoon with joy.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why did James receive a bicycle from his uncle?",
+                "options": [
+                    "As a reward for passing his school exams",
+                    "Because he helped clean the village well",
+                    "For winning a running competition"
+                ],
+                "answer": "As a reward for passing his school exams"
+            }
+        ]
+    }
+}

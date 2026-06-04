@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-07-0025",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_07_past_regrets",
+    "data": {
+        "character": "Manya",
+        "title": "Third Conditional Challenge #25",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Third Conditional"
+            }
+        ]
+    }
+}

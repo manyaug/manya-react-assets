@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-09-0010",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Manya",
+        "title": "Degree Adverbs",
+        "queries": [
+            {
+                "before": "very careful",
+                "after": "very carefully",
+                "changeType": "Adverbs"
+            }
+        ]
+    }
+}

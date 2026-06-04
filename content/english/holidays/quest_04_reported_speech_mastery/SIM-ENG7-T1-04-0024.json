@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-04-0024",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_04_reported_speech_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Reported Speech Challenge #24",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

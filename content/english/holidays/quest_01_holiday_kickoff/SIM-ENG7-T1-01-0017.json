@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-01-0017",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_01_holiday_kickoff",
+    "data": {
+        "character": "Polly",
+        "title": "Vocabulary Challenge #17",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Vocabulary"
+            }
+        ]
+    }
+}

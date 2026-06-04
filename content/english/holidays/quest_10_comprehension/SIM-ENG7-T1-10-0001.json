@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0001",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Market Story",
+            "content": "<h2>Market Story</h2><p>The village market in Nakasongola was exceptionally lively this Saturday. Colorful stalls were filled with fresh yellow bananas, giant green cabbages, and juicy pineapples. Farmers from the surrounding hills had travelled early in the morning to display their best produce. Parents bartered loudly while children giggled and ran between the tables, carrying sweet groundnut cakes. It was a beautiful celebration of community effort and local trade.</p>"
+        },
+        "questions": [
+            {
+                "text": "What is the main reason the village market is special in this story?",
+                "options": [
+                    "It brings the community together to trade fresh food and celebrate.",
+                    "It is a quiet place where people only go to read books.",
+                    "It is located far away in a desert with no fresh fruits."
+                ],
+                "answer": "It brings the community together to trade fresh food and celebrate."
+            }
+        ]
+    }
+}

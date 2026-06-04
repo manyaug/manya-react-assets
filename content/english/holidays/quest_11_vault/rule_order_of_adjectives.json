@@ -1,0 +1,19 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "rule",
+  "topic": "Order of Adjectives",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Adjective Order Rule",
+      "points": [
+        "1. Opinion (beautiful, ugly, wonderful)",
+        "2. Size (big, small, tall, short)",
+        "3. Age (old, new, young, ancient)",
+        "4. Color (red, blue, yellow)",
+        "5. Material (wooden, metal, plastic, silk)",
+        "Example: A beautiful big old red wooden table"
+      ]
+    }
+  ]
+}

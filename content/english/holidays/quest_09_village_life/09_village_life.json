@@ -1,0 +1,98 @@
+{
+  "questId": "ENG-C1-Q9",
+  "title": "Daily Adventures",
+  "engineType": "QUEST_RUNNER",
+  "steps": [
+    {
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "kiki",
+        "image": "assets/english/chap-1-holidays/holiday_chat_10.webp",
+        "text": "Meow! As we walk <b>cheerfully</b> through the village, let me tell you how people do things here. They work <b>carefully</b> and play <b>happily</b>!"
+      }
+    },
+    {
+      "engineType": "ENGLISH_RULE_MASTER",
+      "referencePath": "../quest_11_vault/rule_adverbs.json"
+    },
+    {
+      "id": "q9-game-adverb-placement",
+      "engineType": "SENTENCE_BLOCKS",
+      "data": {
+        "title": "Place the Adverb",
+        "levels": [
+          {
+            "sentence": "She sang beautifully.",
+            "blocks": [
+              "sang",
+              "beautifully",
+              "she"
+            ],
+            "correct_order": [
+              "she",
+              "sang",
+              "beautifully"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q9-chat-bridge",
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "polly",
+        "image": "assets/english/chap-1-holidays/holiday_chat_11.webp",
+        "text": "It is night, and we are resting <b>peacefully</b> under the porch. Adverbs tell us HOW, WHEN, or WHERE! We are sleeping <b>soundly</b> now."
+      }
+    },
+    {
+      "id": "q9-game-manner-adverbs",
+      "engineType": "MORPH_GAME",
+      "data": {
+        "title": "Adverb Formation",
+        "examples": [
+          {
+            "before": "He is quick runner",
+            "after": "He runs quickly",
+            "explanation": "Adjective (quick) → Adverb (quickly)"
+          },
+          {
+            "before": "She has careful movements",
+            "after": "She moves carefully",
+            "explanation": "Adjective (careful) → Adverb (carefully)"
+          }
+        ]
+      }
+    },
+    {
+      "engineType": "DEEP_READER",
+      "data": {
+        "media": {
+          "type": "PASSAGE",
+          "content": "<h2>A Day in the Village</h2><p>Morning arrives early in the village. Children play happily outside. The vendor sells goods cheerfully. Farmers work tirelessly in fields. By evening, everyone gathers together. They eat slowly and talk peacefully. The day ends quietly as stars appear above.</p>"
+        },
+        "questions": [
+          {
+            "text": "How do the farmers work?",
+            "options": [
+              "tirelessly",
+              "happily",
+              "peacefully"
+            ],
+            "answer": "tirelessly"
+          },
+          {
+            "text": "When do children play?",
+            "options": [
+              "in evening",
+              "happily",
+              "outside"
+            ],
+            "answer": "outside"
+          }
+        ]
+      }
+    }
+  ]
+}

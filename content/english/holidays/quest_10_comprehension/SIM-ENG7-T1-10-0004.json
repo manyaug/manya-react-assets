@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0004",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "School Holidays",
+            "content": "<h2>School Holidays</h2><p>When the school term ends and holidays begin, children cheer with excitement. Instead of studying in classrooms, they travel to visit their grandparents in the countryside. The long journey on the dusty bus is filled with songs and laughter. Once they arrive, they learn how to weave mats from palm leaves and herd sheep in the hills. These holidays are a special time for children to connect with family traditions and enjoy nature.</p>"
+        },
+        "questions": [
+            {
+                "text": "What do the children do during their school holidays in this story?",
+                "options": [
+                    "They stay in classrooms and write exams.",
+                    "They visit grandparents, learn crafts like weaving, and explore nature.",
+                    "They play computer games inside all day."
+                ],
+                "answer": "They visit grandparents, learn crafts like weaving, and explore nature."
+            }
+        ]
+    }
+}

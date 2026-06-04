@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-05-0012",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Kiki",
+        "title": "Decorate Hall",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "magnificent"
+            },
+            {
+                "id": "s2",
+                "expected": "tall"
+            },
+            {
+                "id": "s3",
+                "expected": "golden"
+            },
+            {
+                "id": "s4",
+                "expected": "decorations"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

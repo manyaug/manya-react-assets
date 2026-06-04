@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-05-0022",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Manya",
+        "title": "Order of Adjectives Challenge #22",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

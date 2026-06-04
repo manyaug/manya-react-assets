@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-06-0009",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Verb to Participle",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "confuse rules",
+                "error": "confuse",
+                "correct": "confusing"
+            },
+            {
+                "text": "amaze facts",
+                "error": "amaze",
+                "correct": "amazing"
+            }
+        ]
+    }
+}

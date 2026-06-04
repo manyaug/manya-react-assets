@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-05-0004",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Manya",
+        "title": "Color Order",
+        "queries": [
+            {
+                "before": "blue small car",
+                "after": "small blue car",
+                "changeType": "Order of Adjectives"
+            }
+        ]
+    }
+}

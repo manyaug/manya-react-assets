@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-06-0015",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Participles Challenge #15",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0027",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The School Library",
+            "content": "<h2>The School Library</h2><p>The school library was a quiet room filled with colorful storybooks. Every Friday afternoon, children rushed to find their favorite seats near the open windows. The shelves were loaded with tales of adventure, science, and history from around the world. The teacher helped them choose books that challenged their vocabulary and imagination. Reading in the library opened their minds to new ideas and dreams for their future.</p>"
+        },
+        "questions": [
+            {
+                "text": "When do the children visit the school library in this story?",
+                "options": [
+                    "Every Friday afternoon",
+                    "Only during the dry harvest season",
+                    "Early in the morning before sunrise"
+                ],
+                "answer": "Every Friday afternoon"
+            }
+        ]
+    }
+}

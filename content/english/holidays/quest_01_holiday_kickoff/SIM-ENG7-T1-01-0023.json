@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-01-0023",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_01_holiday_kickoff",
+    "data": {
+        "character": "Polly",
+        "title": "Vocabulary Challenge #23",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

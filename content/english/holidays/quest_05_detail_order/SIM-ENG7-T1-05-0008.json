@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-05-0008",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Polly",
+        "title": "Build Sentence",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "lovely"
+            },
+            {
+                "id": "s2",
+                "expected": "round"
+            },
+            {
+                "id": "s3",
+                "expected": "silver"
+            },
+            {
+                "id": "s4",
+                "expected": "ball"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

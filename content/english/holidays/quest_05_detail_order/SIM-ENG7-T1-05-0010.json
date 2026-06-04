@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-05-0010",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Manya",
+        "title": "Mixed Adjectives",
+        "queries": [
+            {
+                "before": "bright wonderful yellow light",
+                "after": "wonderful bright yellow light",
+                "changeType": "Order of Adjectives"
+            }
+        ]
+    }
+}

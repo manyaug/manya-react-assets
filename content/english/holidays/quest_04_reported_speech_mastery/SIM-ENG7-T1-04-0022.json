@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-04-0022",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_04_reported_speech_mastery",
+    "data": {
+        "character": "Manya",
+        "title": "Reported Speech Challenge #22",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-09-0022",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Manya",
+        "title": "Adverbs Challenge #22",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

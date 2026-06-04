@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-07-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_07_past_regrets",
+    "data": {
+        "character": "Kiki",
+        "title": "Third Conditional Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

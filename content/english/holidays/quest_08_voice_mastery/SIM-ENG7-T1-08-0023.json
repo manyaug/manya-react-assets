@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-08-0023",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_08_voice_mastery",
+    "data": {
+        "character": "Polly",
+        "title": "Active/Passive Voice Challenge #23",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

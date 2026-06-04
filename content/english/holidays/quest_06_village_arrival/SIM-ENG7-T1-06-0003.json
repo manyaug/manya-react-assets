@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-06-0003",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Participle Order",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "running"
+            },
+            {
+                "id": "s2",
+                "expected": "dog"
+            },
+            {
+                "id": "s3",
+                "expected": "wagging"
+            },
+            {
+                "id": "s4",
+                "expected": "tail"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

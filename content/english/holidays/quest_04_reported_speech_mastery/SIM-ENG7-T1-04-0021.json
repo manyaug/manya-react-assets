@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-04-0021",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_04_reported_speech_mastery",
+    "data": {
+        "character": "Kiki",
+        "title": "Reported Speech Challenge #21",
+        "queries": [
+            {
+                "before": "example before",
+                "after": "example after",
+                "changeType": "Reported Speech"
+            }
+        ]
+    }
+}

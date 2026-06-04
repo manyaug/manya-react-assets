@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-01-0016",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_01_holiday_kickoff",
+    "data": {
+        "character": "Manya",
+        "title": "Vocabulary Challenge #16",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

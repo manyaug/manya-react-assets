@@ -1,0 +1,23 @@
+{
+    "qid": "SIM-ENG7-T1-09-0015",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Kiki",
+        "title": "Adverbs Challenge #15",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "word1"
+            },
+            {
+                "id": "s2",
+                "expected": "word2"
+            }
+        ],
+        "distractors": [
+            "distractor1",
+            "distractor2"
+        ]
+    }
+}

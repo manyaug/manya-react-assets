@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-06-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Kiki",
+        "title": "Participles Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

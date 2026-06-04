@@ -1,0 +1,31 @@
+{
+    "qid": "SIM-ENG7-T1-06-0008",
+    "engine_type": "SENTENCE_BLOCKS",
+    "subtopic": "quest_06_village_arrival",
+    "data": {
+        "character": "Polly",
+        "title": "Farm Scene",
+        "slots": [
+            {
+                "id": "s1",
+                "expected": "working"
+            },
+            {
+                "id": "s2",
+                "expected": "farmers"
+            },
+            {
+                "id": "s3",
+                "expected": "harvesting"
+            },
+            {
+                "id": "s4",
+                "expected": "crops"
+            }
+        ],
+        "distractors": [
+            "wrong",
+            "text"
+        ]
+    }
+}

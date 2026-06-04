@@ -1,0 +1,17 @@
+{
+    "qid": "SIM-ENG7-T1-05-0018",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Kiki",
+        "title": "Order of Adjectives Challenge #18",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "example text",
+                "error": "wrong",
+                "correct": "right"
+            }
+        ]
+    }
+}

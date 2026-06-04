@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-09-0002",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Polly",
+        "title": "Adverb Placement",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "quickly she ran",
+                "error": "quickly",
+                "correct": "she"
+            },
+            {
+                "text": "carefully he worked",
+                "error": "carefully",
+                "correct": "he"
+            }
+        ]
+    }
+}

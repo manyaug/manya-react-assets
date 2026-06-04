@@ -1,0 +1,89 @@
+{
+  "questId": "ENG-C1-Q6",
+  "title": "The Enchanted Farm",
+  "engineType": "QUEST_RUNNER",
+  "steps": [
+    {
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "polly",
+        "image": "assets/english/chap-1-holidays/holiday_chat_13.webp",
+        "text": "Welcome to the farm! Look at these <b>growing</b> crops and the <b>flying</b> birds! There are so many exciting farm activities happening around us!"
+      }
+    },
+    {
+      "engineType": "ENGLISH_RULE_MASTER",
+      "referencePath": "../quest_11_vault/rule_participles.json"
+    },
+    {
+      "id": "q6-game-participle-action",
+      "engineType": "SENTENCE_BLOCKS",
+      "data": {
+        "title": "Describe Farm Actions",
+        "levels": [
+          {
+            "sentence": "The farmers are harvesting crops.",
+            "blocks": [
+              "harvesting",
+              "farmers",
+              "crops"
+            ],
+            "correct_order": [
+              "farmers",
+              "harvesting",
+              "crops"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q6-chat-bridge",
+      "engineType": "CHAT",
+      "data": {
+        "speaker": "manya",
+        "image": "assets/english/chap-1-holidays/holiday_chat_12.webp",
+        "text": "Look at this <b>standing</b> cow! Kiki is holding a <b>filled</b> milk can. We use present and past participles to describe them, like the <b>grazing</b> cow and the <b>milked</b> milk!"
+      }
+    },
+    {
+      "id": "q6-game-past-present",
+      "engineType": "MORPH_GAME",
+      "data": {
+        "title": "Participle Transformation",
+        "examples": [
+          {
+            "before": "The children play happily",
+            "after": "The playing children are happy",
+            "explanation": "Present Participle describing an action"
+          },
+          {
+            "before": "The paint is wet",
+            "after": "The painted wall looks fresh",
+            "explanation": "Past Participle describing a completed action"
+          }
+        ]
+      }
+    },
+    {
+      "engineType": "DEEP_READER",
+      "data": {
+        "media": {
+          "type": "PASSAGE",
+          "content": "<h2>Life on the Farm</h2><p>The <b>rising sun</b> brings a new day to the farm. <b>Tired farmers</b> begin their work. The <b>grazing animals</b> eat peacefully. The <b>planted seeds</b> grow steadily. By evening, the <b>exhausted workers</b> rest under the <b>falling rain</b>.</p>"
+        },
+        "questions": [
+          {
+            "text": "Which describes an ongoing action?",
+            "options": [
+              "tired farmers",
+              "grazing animals",
+              "planted seeds"
+            ],
+            "answer": "grazing animals"
+          }
+        ]
+      }
+    }
+  ]
+}

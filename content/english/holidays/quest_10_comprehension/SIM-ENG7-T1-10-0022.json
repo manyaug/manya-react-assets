@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0022",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Night Sky",
+            "content": "<h2>The Night Sky</h2><p>The village was quiet at night, far away from the bright lights of the city. Sitting outside on wooden stools, the family looked up at the endless dark sky. Millions of stars twinkled brightly, and the Milky Way looked like a glowing river of stardust. Papa pointed out the different constellations and told stories of old sailors who navigated by them. It made the children feel small but safe under the giant, beautiful universe.</p>"
+        },
+        "questions": [
+            {
+                "text": "What did the Milky Way look like to the children in this story?",
+                "options": [
+                    "A glowing river of stardust in the sky",
+                    "A dark cloud covering the stars",
+                    "A bright moon shining on the hills"
+                ],
+                "answer": "A glowing river of stardust in the sky"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0024",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Honey Harvest",
+            "content": "<h2>The Honey Harvest</h2><p>The village beekeeper, Mr. Moses, prepared to harvest honey from his wooden hives. He wore a protective white suit and carried a metal smoker to calm the bees. Gentle smoke filled the air as he carefully opened the hive boxes to check the combs. The honeycombs were heavy, dripping with sweet, golden wild honey. Mr. Moses shared a piece of sweet honeycomb with the children, who cheered with joy.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why did Mr. Moses carry a smoker during the honey harvest?",
+                "options": [
+                    "To calm the bees before opening hives",
+                    "To light a fire and cook the honey",
+                    "To keep his hands warm in the cold"
+                ],
+                "answer": "To calm the bees before opening hives"
+            }
+        ]
+    }
+}

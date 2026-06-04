@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-09-0009",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Kiki",
+        "title": "Fix Position",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "loudly he sang",
+                "error": "loudly",
+                "correct": "he"
+            },
+            {
+                "text": "gently they worked",
+                "error": "gently",
+                "correct": "they"
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-05-0006",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Kiki",
+        "title": "Adjective Hunt",
+        "size": 8,
+        "words": [
+            "BEAUTIFUL",
+            "SMALL",
+            "RED",
+            "WOODEN"
+        ]
+    }
+}

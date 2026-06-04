@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0020",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "The Forest Stream",
+            "content": "<h2>The Forest Stream</h2><p>Deep in the forest, a clear stream bubbled over smooth grey stones. The water was cool, sweet, and clean because it came from the high hills. Colorful butterflies danced over the wet flowers growing along the muddy banks. Sometimes, monkeys swung down from the branches to take a quick drink and play in the water. It was a secret, peaceful place where the forest animals could always find fresh water.</p>"
+        },
+        "questions": [
+            {
+                "text": "Why was the water in the forest stream cool and clean?",
+                "options": [
+                    "Because it came from the high hills",
+                    "Because the villagers washed it with soap",
+                    "Because it was filtered in a modern factory"
+                ],
+                "answer": "Because it came from the high hills"
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-09-0016",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_09_village_life",
+    "data": {
+        "character": "Manya",
+        "title": "Adverbs Challenge #16",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

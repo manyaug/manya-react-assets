@@ -1,0 +1,16 @@
+{
+    "qid": "SIM-ENG7-T1-05-0001",
+    "engine_type": "MORPH_GAME",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Manya",
+        "title": "Opinion before Size",
+        "queries": [
+            {
+                "before": "small nice blue flowers",
+                "after": "nice small blue flowers",
+                "changeType": "Order of Adjectives"
+            }
+        ]
+    }
+}

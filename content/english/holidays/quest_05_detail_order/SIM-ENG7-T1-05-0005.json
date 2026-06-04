@@ -1,0 +1,22 @@
+{
+    "qid": "SIM-ENG7-T1-05-0005",
+    "engine_type": "GARDEN_GUARD",
+    "subtopic": "quest_05_detail_order",
+    "data": {
+        "character": "Polly",
+        "title": "Material Order",
+        "winScore": 250,
+        "queries": [
+            {
+                "text": "plastic round",
+                "error": "plastic",
+                "correct": "round"
+            },
+            {
+                "text": "metal big",
+                "error": "metal",
+                "correct": "big"
+            }
+        ]
+    }
+}

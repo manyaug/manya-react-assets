@@ -1,0 +1,25 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "rule",
+  "topic": "Participles",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Present Participles (-ING)",
+      "points": [
+        "Form: Base verb + ING",
+        "Use: Describes ongoing actions",
+        "Example: running dog, flying bird, sleeping baby"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Past Participles (-ED/-EN)",
+      "points": [
+        "Form: Base verb + ED (or irregular forms)",
+        "Use: Describes completed actions",
+        "Example: painted wall, broken window, tired farmer"
+      ]
+    }
+  ]
+}

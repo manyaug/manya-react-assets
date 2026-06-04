@@ -1,0 +1,28 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "rule",
+  "topic": "Adverbs",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Adverb Types",
+      "points": [
+        "Manner (HOW?): quickly, slowly, happily, carefully",
+        "Time (WHEN?): today, yesterday, now, later",
+        "Frequency (HOW OFTEN?): always, never, often, rarely",
+        "Place (WHERE?): here, there, inside, outside"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Forming Adverbs",
+      "points": [
+        "Most: Adjective + LY",
+        "happy → happily",
+        "quick → quickly",
+        "careful → carefully",
+        "Exceptions: fast, hard, good (well), bad (badly)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "qid": "SIM-ENG7-T1-10-0002",
+    "engine_type": "DEEP_READER",
+    "subtopic": "quest_10_comprehension",
+    "data": {
+        "character": "Manya",
+        "media": {
+            "type": "PASSAGE",
+            "title": "Festival Day",
+            "content": "<h2>Festival Day</h2><p>The annual village harvest festival brings joy to everyone in the community. As the sun went down, drums began to beat, and families gathered around the central bonfire. People wore bright, colorful traditional clothing and danced to stories of the past. The elders prepared a huge pot of local millet porridge and roasted groundnuts for everyone to share. This festival is the way the village remembers its history and thanks the land for the food.</p>"
+        },
+        "questions": [
+            {
+                "text": "What is the primary purpose of the harvest festival?",
+                "options": [
+                    "To buy new modern cars and computers.",
+                    "To dance, share local food, and thank the land for its harvest.",
+                    "To sleep early and avoid talking to neighbors."
+                ],
+                "answer": "To dance, share local food, and thank the land for its harvest."
+            }
+        ]
+    }
+}

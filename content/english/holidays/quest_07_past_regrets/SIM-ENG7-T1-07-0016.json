@@ -1,0 +1,15 @@
+{
+    "qid": "SIM-ENG7-T1-07-0016",
+    "engine_type": "WORDGRID_ENGINE",
+    "subtopic": "quest_07_past_regrets",
+    "data": {
+        "character": "Manya",
+        "title": "Third Conditional Challenge #16",
+        "size": 8,
+        "words": [
+            "WORD1",
+            "WORD2",
+            "WORD3"
+        ]
+    }
+}

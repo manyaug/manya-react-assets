@@ -1,0 +1,43 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Adverbs",
+  "variantTitle": "Adverbs Recap",
+  "themeColor": "#8b5cf6",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "What are Adverbs?",
+      "points": [
+        "Adverbs modify (describe) VERBS, ADJECTIVES, or other ADVERBS",
+        "They usually end in -LY (but not always!)",
+        "Adverbs answer: HOW, WHEN, WHERE, WHY, or HOW OFTEN?"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Types of Adverbs",
+      "points": [
+        "Manner: HOW? (quickly, slowly, carefully, happily)",
+        "Time: WHEN? (today, yesterday, soon, always)",
+        "Frequency: HOW OFTEN? (always, never, often, rarely)",
+        "Place: WHERE? (here, there, inside, outside)",
+        "Degree: HOW MUCH? (very, quite, too, extremely)"
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Adverb Position",
+      "points": [
+        "Usually placed AFTER the main verb: She sings beautifully",
+        "Can go at the BEGINNING: Quickly, she ran away",
+        "Frequency adverbs often go BEFORE the main verb: He always arrives late",
+        "Can modify entire sentences: Clearly, we should help"
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Tip: Most adverbs = adjective + LY. But watch for: fast→fast, hard→hard, good→well, bad→badly"
+    }
+  ]
+}
