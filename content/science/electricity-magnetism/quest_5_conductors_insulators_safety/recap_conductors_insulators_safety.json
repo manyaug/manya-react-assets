@@ -1,0 +1,34 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Conductors and Safety",
+  "variantTitle": "Quest 5 Master Study Guide",
+  "themeColor": "#4b5563",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Materials",
+      "points": [
+        "<b>Silver:</b> The best metallic conductor (too expensive for home use).",
+        "<b>Copper:</b> Standard conductor for wiring.",
+        "<b>Carbon (Graphite):</b> The only <b>non-metallic solid</b> conductor.",
+        "<b>Insulators:</b> Rubber, Plastic, Dry wood, <b>Distilled water</b>."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "The Fuse",
+      "points": [
+        "Made of an <b>alloy of Tin and Lead</b>.",
+        "Has a <b>low melting point</b>.",
+        "It melts (blows) to protect appliances from fire during an overload."
+      ]
+    },
+    { "type": "warning", "text": "<b>Short Circuit:</b> A shortcut path of low resistance. It causes sparks and fires. <b>Earthing</b> helps prevent shocks by sending stray current to the ground." }
+  ],
+  "cards": [
+    { "term": "Electrolyte", "fact": "A liquid that conducts electricity (Salt water, Urine).", "mnemonic": "<b>Liquid</b> conductor!" },
+    { "term": "Overloading", "fact": "Too many appliances on one socket.", "mnemonic": "Too much load causes explode!" }
+  ],
+  "qid": "recap_conductors_safety"
+}

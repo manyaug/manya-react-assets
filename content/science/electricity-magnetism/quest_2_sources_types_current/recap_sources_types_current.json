@@ -1,0 +1,35 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Sources and Types of Current",
+  "variantTitle": "Quest 2 Master Study Guide",
+  "themeColor": "#059669",
+  "sections": [
+    {
+      "type": "comparison",
+      "title": "AC vs DC Current",
+      "itemA": "Direct Current (DC)",
+      "itemB": "Alternating Current (AC)",
+      "rows": [
+        { "feature": "Direction", "valA": "One direction only", "valB": "Two directions (back/forth)" },
+        { "feature": "Sources", "valA": "Dry cells, Solar panels", "valB": "Generators, Dynamos" },
+        { "feature": "Transmission", "valA": "Short distances", "valB": "National Grid (Long distance)" }
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Uganda's Energy Transformation",
+      "points": [
+        "<b>Hydroelectricity:</b> Main source in Uganda (Nalubaale/Bujagali Dams).",
+        "<b>Transformation:</b> Potential (stored water) → Kinetic (falling) → Mechanical (spinning turbine) → Electrical.",
+        "<b>Thermal Power:</b> Burning coal/diesel. <b>Most expensive</b> due to fuel costs.",
+        "<b>Nuclear:</b> Uses <b>Uranium</b> atoms."
+      ]
+    }
+  ],
+  "cards": [
+    { "term": "Renewable", "fact": "Energy that never runs out (Sun, Water, Wind).", "mnemonic": "<b>W.S.W</b>: Water, Sun, Wind!" },
+    { "term": "Nalubaale", "fact": "The official name for Owen Falls Dam in Jinja.", "mnemonic": "Nalubaale = Nile Power!" }
+  ],
+  "qid": "recap_sources_current"
+}

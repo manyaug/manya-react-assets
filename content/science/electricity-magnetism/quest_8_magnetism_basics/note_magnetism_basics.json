@@ -1,0 +1,24 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Magnetism Basics",
+    "study_notes": {
+        "title": "Magnetism: The Force of Attraction",
+        "definitions": {
+            "Magnet": "A substance that attracts iron and steel.",
+            "Magnetic_Materials": "Iron, Steel, Nickel, Cobalt.",
+            "Non_Magnetic": "Copper, Aluminum, Zinc, Lead, Wood, Plastic."
+        },
+        "laws_and_properties": {
+            "visual_reference": "[IMAGE_021: Bar magnet with iron filings showing field lines]",
+            "Law_of_Magnetism": "Like poles repel; Unlike poles attract.",
+            "Lines_of_Force": "Run from North to South. They never cross.",
+            "Strongest_Point": "Magnetic force is highest at the poles.",
+            "Neutral_Point": "The area between two like poles where the force is zero."
+        },
+        "earth_as_a_magnet": "The Earth has a magnetic field. A freely suspended magnet always rests North-South."
+    },
+    "image_metadata": {
+        "IMAGE_021": { "type": "Field Diagram", "description": "A bar magnet with curved arrows flowing from the 'N' end to the 'S' end." }
+    }
+}

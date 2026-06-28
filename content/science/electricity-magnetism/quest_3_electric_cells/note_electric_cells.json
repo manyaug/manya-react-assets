@@ -1,0 +1,32 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Electric Cells (Batteries)",
+    "study_notes": {
+        "title": "Electric Cells: Storing Energy in Chemicals",
+        "cell_types": {
+            "Primary_Cells": "Cannot be recharged once chemicals are used up (e.g., Simple Dry Cells).",
+            "Secondary_Cells_Accumulators": "Can be recharged by passing current through them in reverse (e.g., Car batteries, mobile phone batteries).",
+            "visual_reference": "[IMAGE_010: Illustration of a Car Battery vs. a AA Dry Cell]"
+        },
+        "the_dry_cell_anatomy": {
+            "visual_reference": "[IMAGE_011: Labeled Cross-section of a Dry Cell]",
+            "Brass_Cap": "Positive (+) terminal; the contact point.",
+            "Zinc_Can": "Negative (-) terminal; also acts as the container.",
+            "Ammonium_Chloride": "The electrolyte paste that allows electrons to move.",
+            "Manganese_IV_Oxide": "The Depolarizer. It stops hydrogen bubbles from blocking current.",
+            "Carbon_Rod": "A non-metallic conductor (Graphite) in the center."
+        },
+        "simple_wet_cells_and_problems": {
+            "Structure": "Zinc and Copper plates in Dilute Sulphuric Acid.",
+            "Polarization": "Hydrogen bubbles cover the copper plate, making the bulb dim. Fixed by adding a depolarizer.",
+            "Local_Action": "Impurities in zinc cause it to waste away. Fixed by coating zinc with mercury (Amalgamation).",
+            "visual_reference": "[IMAGE_012: Diagram of Simple Cell with bubbles on plates]"
+        }
+    },
+    "image_metadata": {
+        "IMAGE_010": { "type": "Comparison", "description": "A heavy rectangular car battery next to a small cylindrical torch battery." },
+        "IMAGE_011": { "type": "Technical Anatomy", "description": "A cut-away view of a battery labeling the rod, the paste, and the zinc walls." },
+        "IMAGE_012": { "type": "Lab Diagram", "description": "A glass beaker with acid and two metal strips; one strip has tiny bubbles on it." }
+    }
+}

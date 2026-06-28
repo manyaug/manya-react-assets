@@ -1,0 +1,26 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Circuits and Symbols",
+  "variantTitle": "Quest 4 Master Study Guide",
+  "themeColor": "#dc2626",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Circuit Components",
+      "points": [
+        "<b>Switch:</b> A gap used to <b>break</b> or <b>complete</b> the path of current.",
+        "<b>Load:</b> The device using energy (Bulb/Motor).",
+        "<b>Conductor:</b> The path (Wires).",
+        "<b>Ammeter:</b> Measures current in <b>Amperes</b>. Connected in <b>Series</b>.",
+        "<b>Voltmeter:</b> Measures pressure in <b>Volts</b>. Connected in <b>Parallel</b>."
+      ]
+    },
+    { "type": "warning", "text": "<b>Open vs Closed:</b> A 'Closed' circuit has no gaps (Light is ON). An 'Open' circuit has a gap or broken wire (Light is OFF)." }
+  ],
+  "cards": [
+    { "term": "Ammeter", "fact": "Measures electron flow.", "mnemonic": "<b>A</b>mperes with <b>A</b>mmeter!" },
+    { "term": "Resistance", "fact": "Opposition to flow (measured in Ohms).", "mnemonic": "Resistance <b>Resists</b> current!" }
+  ],
+  "qid": "recap_circuits_symbols"
+}

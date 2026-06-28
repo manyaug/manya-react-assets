@@ -1,0 +1,26 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Magnetisation and Demagnetisation",
+    "study_notes": {
+        "title": "Managing Magnets",
+        "making_magnets": {
+            "Stroking": "Rubbing a bar in ONE direction with a magnet (Single or Double touch).",
+            "Induction": "A temporary magnet made by being near a permanent one.",
+            "Electrical_Method": "Using D.C. electricity and a solenoid coil.",
+            "visual_reference": "[IMAGE_022: Hands showing the stroking motion on an iron bar]"
+        },
+        "destroying_magnets": {
+            "Physical": "Hammering or dropping repeatedly.",
+            "Thermal": "Strong heating (Red hot).",
+            "Electrical": "Passing A.C. electricity through it.",
+            "Chemical": "Letting it rust.",
+            "visual_reference": "[IMAGE_023: Icons showing fire, hammer, and rusty magnet]"
+        },
+        "maintenance": "Iron Keepers are pieces of soft iron placed over poles during storage to preserve strength."
+    },
+    "image_metadata": {
+        "IMAGE_022": { "type": "Action Illustration", "description": "A magnet being lifted high in a circular motion to stroke a steel bar." },
+        "IMAGE_023": { "type": "Set of Icons", "description": "A hammer hitting a magnet, a magnet in a fire, and a magnet with brown rust patches." }
+    }
+}

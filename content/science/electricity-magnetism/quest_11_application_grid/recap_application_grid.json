@@ -1,0 +1,35 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "The National Grid",
+  "variantTitle": "Quest 11 Master Study Guide",
+  "themeColor": "#0d9488",
+  "sections": [
+    {
+      "type": "comparison",
+      "title": "Uganda Power Companies",
+      "itemA": "UEGCL",
+      "itemB": "UEDCL (Umeme)",
+      "rows": [
+        { "feature": "Role", "valA": "<b>Generation</b> (Dams)", "valB": "<b>Distribution</b> (Homes)" },
+        { "feature": "Task", "valA": "Creating the power", "valB": "Billing and meters" }
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Safe Wiring",
+      "points": [
+        "<b>Live (Brown/Red):</b> Carries the high-voltage current.",
+        "<b>Neutral (Blue/Black):</b> The return path to source.",
+        "<b>Earth (Yellow-Green):</b> Safety wire for discharge.",
+        "<b>Transformer:</b> Changes voltage levels for safety/transmission."
+      ]
+    },
+    { "type": "warning", "text": "<b>Rural Electrification:</b> A government project to stop <b>deforestation</b> by replacing wood fuel with electricity in villages." }
+  ],
+  "cards": [
+    { "term": "Dynamo", "fact": "Bicycle motion to light.", "mnemonic": "Movement makes the beam!" },
+    { "term": "UETCL", "fact": "Transmission (High voltage pylons).", "mnemonic": "<b>T</b> is for <b>T</b>ransmission!" }
+  ],
+  "qid": "recap_national_grid"
+}

@@ -1,0 +1,21 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Series and Parallel Circuits",
+    "study_notes": {
+        "title": "Arranging Circuits",
+        "comparative_logic": {
+            "Series_Circuit": "Single loop. If one bulb blows, all stop. Adding bulbs makes them dimmer. Voltage adds up.",
+            "Parallel_Circuit": "Multiple branches. If one bulb blows, others stay lit. Bulbs stay bright. Batteries last longer.",
+            "visual_reference": "[IMAGE_019: Side-by-side comparison of Series and Parallel bulb circuits]"
+        },
+        "domestic_usage": {
+            "Why_Parallel_at_Home": "1. Appliances can be used independently. 2. If one fails, the whole house doesn't go dark.",
+            "visual_reference": "[IMAGE_020: House floor plan showing parallel light wiring]"
+        }
+    },
+    "image_metadata": {
+        "IMAGE_019": { "type": "Comparison", "description": "Two diagrams: one showing three bulbs in one circle, one showing three bulbs in a ladder shape." },
+        "IMAGE_020": { "type": "Application Map", "description": "A sketch of a house with separate switches for the sitting room, kitchen, and bedroom." }
+    }
+}

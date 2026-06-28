@@ -1,0 +1,29 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Conductors, Insulators and Safety",
+    "study_notes": {
+        "title": "Safety and Materials",
+        "material_groups": {
+            "Metallic_Conductors": "Silver (Best), Copper (Common), Aluminum (Pylons).",
+            "Non_Metallic_Conductors": "Carbon/Graphite is the only solid non-metal conductor.",
+            "Electrolytes": "Conducting liquids like salt solution and acids.",
+            "Insulators": "Rubber, plastic, dry wood, glass, and pure (distilled) water.",
+            "visual_reference": "[IMAGE_015: Sorting bin of conductors vs. insulators]"
+        },
+        "hazards": {
+            "Short_Circuit": "A shortcut of low resistance causing high heat. Often caused by bare wires touching.",
+            "visual_reference": "[IMAGE_016: Two bare wires sparking where they touch]",
+            "Overloading": "Connecting too many appliances to one socket.",
+            "Wet_Hands": "Water reduces skin resistance, making a shock more likely and fatal."
+        },
+        "safety_devices": {
+            "The_Fuse": "A tin-lead alloy wire with a low melting point. It melts to break the path during a surge.",
+            "Earthing": "Connecting an appliance's metal case to a wire that leads to the ground to prevent shock."
+        }
+    },
+    "image_metadata": {
+        "IMAGE_015": { "type": "Educational Graphic", "description": "Left side shows a copper wire and nail; right side shows a rubber band and glass cup." },
+        "IMAGE_016": { "type": "Safety Warning", "description": "A close-up of worn-out wire insulation showing the copper inside touching another wire." }
+    }
+}

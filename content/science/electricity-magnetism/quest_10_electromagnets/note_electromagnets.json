@@ -1,0 +1,20 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Electromagnets and The Bell",
+    "study_notes": {
+        "title": "Temporary Magnetism: The Electric Bell",
+        "electromagnets": "Magnets that only work when electricity flows. Strength increases by: 1. More coils, 2. More current, 3. Using a soft iron core.",
+        "electric_bell_cycle": {
+            "visual_reference": "[IMAGE_024: Step-by-step cycle diagram of an electric bell]",
+            "Step_1": "Switch is pressed, current flows, electromagnet attracts the armature.",
+            "Step_2": "Hammer hits the gong (sound).",
+            "Step_3": "As armature moves, it breaks contact with the screw, stopping the current.",
+            "Step_4": "Magnet loses force; spring pulls armature back to touch the screw.",
+            "Step_5": "Cycle repeats as long as the button is held."
+        }
+    },
+    "image_metadata": {
+        "IMAGE_024": { "type": "Cycle Diagram", "description": "A 4-part circular diagram showing the movement of the hammer and the breaking of the circuit contact." }
+    }
+}

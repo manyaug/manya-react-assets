@@ -1,0 +1,83 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Atoms and Static Electricity",
+    "study_notes": {
+        "title": "Atoms, Charges, and Nature's Spark",
+        "atomic_theory": {
+            "definition": "An atom is the smallest indivisible particle of matter. All electricity begins at this microscopic level.",
+            "visual_reference": "[IMAGE_001: Labeled Structure of an Atom]",
+            "parts_of_an_atom": {
+                "Nucleus": "The central core of the atom. It is very heavy and contains Protons and Neutrons.",
+                "Protons": "Tiny particles with a Positive (+) charge. (Think: P for Positive).",
+                "Neutrons": "Tiny particles with No charge (Neutral).",
+                "Electrons": "Negative (-) particles that spin in paths called orbits or shells around the nucleus. Electricity is caused when these electrons move from one atom to another."
+            }
+        },
+        "static_electricity_details": {
+            "definition": "Static electricity is a type of electricity where charges gather on the surface of an insulator and remain stationary (do not flow).",
+            "production_by_friction": "When you rub two insulators together, friction causes electrons to be 'ripped' from one surface and transferred to another.",
+            "visual_reference": "[IMAGE_002: Balloon and Sweater Friction Experiment]",
+            "the_law_of_electrostatics": {
+                "rule": "Unlike charges attract each other; Like charges repel each other.",
+                "visual_reference": "[IMAGE_003: Attraction and Repulsion of Charges Diagram]"
+            },
+            "daily_life_examples": [
+                "A plastic comb becoming charged after rubbing through hair and picking up paper.",
+                "Feeling a tiny 'zap' after walking on a nylon carpet and touching a metal door handle.",
+                "The friction of fuel flowing through pipes in aircrafts (this is why planes must be 'earthed' during refueling to prevent sparks)."
+            ]
+        },
+        "lightning_and_thunder": {
+            "how_lightning_forms": "In storm clouds, ice and water droplets rub together, creating massive static charges. When the charge is big enough, it leaps as a giant spark (Lightning) to another cloud or the ground.",
+            "visual_reference": "[IMAGE_004: Lightning Discharge between Clouds and Earth]",
+            "speed_of_light_vs_sound": "We see lightning before hearing thunder because Light travels much faster (300,000 km/s) than Sound (0.33 km/s).",
+            "environmental_benefits": "Lightning helps in 'Nitrogen Fixation'—it converts atmospheric nitrogen into nitrates in the soil, which helps plants grow as natural fertilizer.",
+            "dangers": "Lightning can destroy tall buildings, set forests on fire, and cause instant death to humans and animals by electrocution."
+        },
+        "lightning_protection": {
+            "the_lightning_conductor": "A safety device made of a thick copper or aluminum rod with pointed spikes at the top of a building.",
+            "visual_reference": "[IMAGE_005: Diagram of a Lightning Conductor on a House]",
+            "why_pointed_spikes": "Spikes leak and attract charges from the air more effectively than flat surfaces.",
+            "the_grounding_system": "The rod is connected to a wire that leads to a metal plate buried deep underground to neutralize the electricity safely."
+        },
+        "essential_safety_rules": {
+            "visual_reference": "[IMAGE_006: Safety Poster - Do's and Don'ts of Storms]",
+            "outdoor_rules": [
+                "DO: Wear rubber-soled shoes; rubber is an insulator that prevents current from entering the body.",
+                "DON'T: Seek shelter under tall trees or stand in open fields (you become the highest point).",
+                "DON'T: Swim in open water during a storm as water is a conductor."
+            ],
+            "indoor_rules": [
+                "Avoid using corded telephones (lightning travels through wires).",
+                "Stay away from windows and do not touch metal water taps."
+            ]
+        }
+    },
+    "image_metadata": {
+        "IMAGE_001": {
+            "type": "Technical Labeled Diagram",
+            "description": "A cross-section of an atom showing a central red/blue nucleus (protons/neutrons) and small yellow electrons orbiting on rings."
+        },
+        "IMAGE_002": {
+            "type": "Illustration",
+            "description": "A person rubbing a balloon against a wool sweater, showing '+' and '-' charges being transferred."
+        },
+        "IMAGE_003": {
+            "type": "Instructional Graphic",
+            "description": "Two panels: One showing (+)(-) moving together with arrows, and one showing (+)(+) pushing away with arrows."
+        },
+        "IMAGE_004": {
+            "type": "Process Diagram",
+            "description": "A storm cloud showing negative charges at the base and positive charges on the ground, with a jagged lightning bolt connecting them."
+        },
+        "IMAGE_005": {
+            "type": "Anatomy of Device",
+            "description": "A house with a thin rod on the chimney labeled 'Spikes', a wire going down the wall labeled 'Copper cable', and a plate in the dirt labeled 'Earthing plate'."
+        },
+        "IMAGE_006": {
+            "type": "Icons/Safety Sign",
+            "description": "A split screen showing a person under a tree with a big 'X' and a person inside a house with a green checkmark."
+        }
+    }
+}

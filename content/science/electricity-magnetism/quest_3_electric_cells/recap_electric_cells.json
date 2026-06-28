@@ -1,0 +1,35 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Electric Cells (Batteries)",
+  "variantTitle": "Quest 3 Master Study Guide",
+  "themeColor": "#d97706",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "The Dry Cell (Zinc-Carbon)",
+      "points": [
+        "<b>Brass Cap (+):</b> The positive terminal connected to the Carbon rod.",
+        "<b>Zinc Can (-):</b> The container and negative terminal.",
+        "<b>Ammonium Chloride:</b> The electrolyte paste that allows electrons to move.",
+        "<b>Manganese IV Oxide:</b> The <b>Depolarizer</b>. It stops hydrogen bubbles from blocking the current."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Cell Problems & Solutions",
+      "itemA": "Polarization",
+      "itemB": "Local Action",
+      "rows": [
+        { "feature": "Cause", "valA": "Hydrogen bubbles on copper", "valB": "Impurities in zinc" },
+        { "feature": "Solution", "valA": "Depolarizer (Manganese Oxide)", "valB": "Amalgamation (Mercury coating)" }
+      ]
+    },
+    { "type": "warning", "text": "<b>Exam Tip:</b> Cells in <b>Series</b> (+ to -) give more voltage/brightness. Cells in <b>Parallel</b> last much longer but have less 'push'." }
+  ],
+  "cards": [
+    { "term": "Secondary Cell", "fact": "Rechargeable batteries (Car/Phone).", "mnemonic": "<b>S</b>econdary = <b>S</b>econd chance (recharge)!" },
+    { "term": "e.m.f", "fact": "Electromotive Force (Electrical Pressure).", "mnemonic": "<b>e.m.f</b>: Electricity Moving Force!" }
+  ],
+  "qid": "recap_electric_cells"
+}

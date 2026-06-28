@@ -1,0 +1,29 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Modern Apps and The Grid",
+    "study_notes": {
+        "title": "National Grid and Safety",
+        "key_machines": {
+            "Dynamo": "Mechanical to Electrical (e.g., bicycle lamp).",
+            "Electric_Motor": "Electrical to Mechanical (e.g., fans, sewing machines).",
+            "visual_reference": "[IMAGE_025: Comparison of a Dynamo vs. an Electric Motor]"
+        },
+        "wiring_colors": {
+            "Live": "Brown/Red (The dangerous wire).",
+            "Neutral": "Blue/Black (Return path).",
+            "Earth": "Yellow-Green (Safety discharge).",
+            "visual_reference": "[IMAGE_026: A 3-pin plug opened to show the three colored wires]"
+        },
+        "ugandan_grid_roles": {
+            "ERA": "The Regulator (gives licenses).",
+            "UEGCL": "Generates power at the dams.",
+            "UETCL": "Transmits power on large pylons.",
+            "UEDCL_Umeme": "Distributes power to homes and bills customers."
+        }
+    },
+    "image_metadata": {
+        "IMAGE_025": { "type": "Comparison", "description": "Left: A bicycle dynamo. Right: A ceiling fan motor." },
+        "IMAGE_026": { "type": "Open Plug View", "description": "Top view of a plug showing where the brown, blue, and yellow wires are screwed in." }
+    }
+}

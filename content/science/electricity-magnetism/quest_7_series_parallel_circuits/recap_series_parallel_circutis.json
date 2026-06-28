@@ -1,0 +1,27 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Series and Parallel",
+  "variantTitle": "Quest 7 Master Study Guide",
+  "themeColor": "#4f46e5",
+  "sections": [
+    {
+      "type": "comparison",
+      "title": "The Circuit Choice",
+      "itemA": "Series Arrangement",
+      "itemB": "Parallel Arrangement",
+      "rows": [
+        { "feature": "Paths", "valA": "Single loop", "valB": "Multiple branches" },
+        { "feature": "Reliability", "valA": "If one blows, all stop", "valB": "If one blows, others stay lit" },
+        { "feature": "Brightness", "valA": "Dimmer (shared voltage)", "valB": "Bright (full voltage)" },
+        { "feature": "Battery Life", "valA": "Runs out fast", "valB": "Lasts longer" }
+      ]
+    },
+    { "type": "warning", "text": "<b>Domestic Wiring:</b> Homes use <b>Parallel</b> wiring so we can switch the kitchen light off without turning off the bedroom!" }
+  ],
+  "cards": [
+    { "term": "Series", "fact": "Voltage adds up.", "mnemonic": "<b>S</b>eries = <b>S</b>tronger light!" },
+    { "term": "Parallel", "fact": "Standard for street lights.", "mnemonic": "<b>P</b>arallel = <b>P</b>ermanent path!" }
+  ],
+  "qid": "recap_series_parallel"
+}

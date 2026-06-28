@@ -1,0 +1,46 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Atoms and Static Electricity",
+  "variantTitle": "Quest 1 Master Study Guide",
+  "themeColor": "#2563eb",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Atomic Structure",
+      "points": [
+        "<b>Atom:</b> The smallest indivisible particle of matter that participates in chemical changes.",
+        "<b>Protons:</b> Positively charged particles in the center (Nucleus).",
+        "<b>Neutrons:</b> Neutral particles (no charge) in the nucleus.",
+        "<b>Electrons:</b> Negatively charged particles that orbit the nucleus. <b>Moving electrons</b> are what create electricity."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Static Electricity & Lightning",
+      "points": [
+        "<b>Static Electricity:</b> Imbalance of charges on the surface of an insulator caused by <b>friction</b>.",
+        "<b>Law of Electrostatics:</b> Like charges repel; unlike charges attract.",
+        "<b>Nitrogen Fixation:</b> A major biological benefit where lightning turns atmospheric nitrogen into <b>nitrates</b> for soil fertility.",
+        "<b>Speed Fact:</b> We see lightning before thunder because light travels at <b>300,000 km/s</b> while sound is only 0.33 km/s."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "<b>Safety:</b> Pointed spikes on lightning conductors are essential because they 'leak' or attract charges more effectively. During a storm, avoid water and trees—they are conductors!"
+    }
+  ],
+  "cards": [
+    {
+      "term": "Proton",
+      "fact": "Positive particle in the atom's center.",
+      "mnemonic": "<b>P</b>roton = <b>P</b>ositive!"
+    },
+    {
+      "term": "Lightning Conductor",
+      "fact": "A metal rod that sends lightning safely into the ground.",
+      "mnemonic": "Pointy top attracts the pop!"
+    }
+  ],
+  "qid": "recap_atoms_static"
+}

@@ -1,0 +1,25 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "The Bulb and Torch",
+    "study_notes": {
+        "title": "Light and Heat: The Bulb Anatomy",
+        "the_bulb": {
+            "visual_reference": "[IMAGE_017: Detailed labeled diagram of a light bulb]",
+            "Filament": "Coiled wire made of Tungsten (Wolfram). High melting point and high resistance.",
+            "Inert_Gases": "Argon and Nitrogen protect the filament from oxygen so it doesn't burn out.",
+            "Glass_Envelope": "Hold gases and allows light to pass.",
+            "Cement": "Holds the glass to the brass cap."
+        },
+        "the_torch": {
+            "visual_reference": "[IMAGE_018: X-ray view of a torch showing internal path]",
+            "Reflector": "Reflects light into a parallel focused beam.",
+            "Tail_Spring": "Ensures the cells have firm contact and completes the circuit to the metal body.",
+            "Casing_Faults": "A rusted casing acts as an insulator and stops the torch from working."
+        }
+    },
+    "image_metadata": {
+        "IMAGE_017": { "type": "Anatomy", "description": "A bulb with arrows pointing to the coiled tungsten, the inert gas space, and the brass base." },
+        "IMAGE_018": { "type": "Internal Diagram", "description": "A side view of a torch showing three batteries in a row, the spring at the back, and the reflector at the front." }
+    }
+}

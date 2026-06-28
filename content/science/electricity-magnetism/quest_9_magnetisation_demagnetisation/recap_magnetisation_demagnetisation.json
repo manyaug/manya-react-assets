@@ -1,0 +1,34 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Magnetisation",
+  "variantTitle": "Quest 9 Master Study Guide",
+  "themeColor": "#db2777",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Making Magnets",
+      "points": [
+        "<b>Stroking:</b> Rubbing in <b>one direction</b>. Lifting high prevents reversing alignment.",
+        "<b>Induction:</b> Magnetism by proximity/contact (Temporary).",
+        "<b>Electrical:</b> Using <b>D.C.</b> and a solenoid (Quickest/Strongest)."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Destroying Magnets (Demagnetisation)",
+      "points": [
+        "<b>Physical:</b> Hammering or dropping.",
+        "<b>Thermal:</b> Heating until red hot.",
+        "<b>Electrical:</b> Passing <b>A.C.</b> electricity through it.",
+        "<b>Chemical:</b> Letting it rust."
+      ]
+    },
+    { "type": "warning", "text": "<b>Maintenance:</b> Use <b>Iron Keepers</b> during storage. Store magnets in pairs with unlike poles facing to prevent loss of power." }
+  ],
+  "cards": [
+    { "term": "Steel", "fact": "Used for permanent magnets.", "mnemonic": "Steel stays strong!" },
+    { "term": "Soft Iron", "fact": "Used for temporary magnets.", "mnemonic": "Iron is easy in, easy out!" }
+  ],
+  "qid": "recap_magnetisation"
+}

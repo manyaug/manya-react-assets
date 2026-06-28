@@ -1,0 +1,34 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "The Electric Bell",
+  "variantTitle": "Quest 10 Master Study Guide",
+  "themeColor": "#e11d48",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "The Bell Cycle",
+      "points": [
+        "<b>1. Power On:</b> Magnet pulls the soft iron armature.",
+        "<b>2. Strike:</b> Hammer hits the gong (Sound).",
+        "<b>3. Break:</b> Contact with the screw is broken; circuit opens.",
+        "<b>4. Reset:</b> Magnet turns off; spring pulls hammer back to touch the screw.",
+        "<b>5. Repeat:</b> Cycle starts again automatically."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Strength Factors",
+      "points": [
+        "Increase <b>turns in the coil</b> (Solenoid).",
+        "Increase the <b>current</b> (more batteries).",
+        "Use a <b>soft iron core</b>."
+      ]
+    }
+  ],
+  "cards": [
+    { "term": "Armature", "fact": "The moving iron part of the bell.", "mnemonic": "The part that hit-and-runs!" },
+    { "term": "Solenoid", "fact": "Coil of insulated wire.", "mnemonic": "Spiral of power!" }
+  ],
+  "qid": "recap_electric_bell"
+}

@@ -1,0 +1,32 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "The Bulb and Torch",
+  "variantTitle": "Quest 6 Master Study Guide",
+  "themeColor": "#fbbf24",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Anatomy of a Bulb",
+      "points": [
+        "<b>Filament:</b> Made of <b>Tungsten (Wolfram)</b>. Has high resistance and a <b>high melting point</b>.",
+        "<b>Inert Gases:</b> Argon/Nitrogen prevent the filament from oxidizing (burning up).",
+        "<b>Transformation:</b> Electrical energy → Heat energy → Light energy."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "The Torch Parts",
+      "points": [
+        "<b>Reflector:</b> Focuses light into a parallel/diverging beam.",
+        "<b>Tail Spring:</b> Completes the circuit to the casing and holds batteries tight.",
+        "<b>Casing:</b> If rusted, it acts as an insulator and the torch fails."
+      ]
+    }
+  ],
+  "cards": [
+    { "term": "Tungsten", "fact": "The thin wire that glows.", "mnemonic": "<b>T</b>ungsten = <b>T</b>hin wire!" },
+    { "term": "Blown Bulb", "fact": "Filament is broken, creating an open circuit.", "mnemonic": "Broken bridge, no light!" }
+  ],
+  "qid": "recap_bulb_torch"
+}

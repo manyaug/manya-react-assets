@@ -1,0 +1,33 @@
+{
+  "engineType": "READER_STUDY",
+  "mode": "recap",
+  "topic": "Magnetism Basics",
+  "variantTitle": "Quest 8 Master Study Guide",
+  "themeColor": "#9333ea",
+  "sections": [
+    {
+      "type": "bullets",
+      "title": "Laws and Materials",
+      "points": [
+        "<b>Magnetic Materials:</b> Iron, Steel, Nickel, Cobalt.",
+        "<b>Non-Magnetic:</b> Copper, Aluminum, Wood, Plastic, Gold.",
+        "<b>Law of Magnetism:</b> Like poles repel; unlike poles attract.",
+        "<b>Lodestone:</b> A natural magnet (Magnetite)."
+      ]
+    },
+    {
+      "type": "bullets",
+      "title": "Magnetic Fields",
+      "points": [
+        "<b>Field:</b> Space around a magnet where force is felt.",
+        "<b>Lines of Force:</b> Move from <b>North to South</b>. They never cross.",
+        "<b>Neutral Point:</b> Spot between two like poles where the force is zero."
+      ]
+    }
+  ],
+  "cards": [
+    { "term": "Poles", "fact": "The strongest part of a magnet.", "mnemonic": "Strength at the ends!" },
+    { "term": "Compass", "fact": "Magnetic needle always points North-South.", "mnemonic": "North-seeking needle!" }
+  ],
+  "qid": "recap_magnetism_basics"
+}

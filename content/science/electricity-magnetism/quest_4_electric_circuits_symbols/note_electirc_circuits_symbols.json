@@ -1,0 +1,30 @@
+{
+    "mode": "note_explorer",
+    "topic": "Electricity and Magnetism",
+    "subtopic": "Electric Circuits and Symbols",
+    "study_notes": {
+        "title": "The Circuit: The Path of Electrons",
+        "essentials": {
+            "Source": "Provides the push (Cell/Battery).",
+            "Conductor": "The 'road' for current (Wires).",
+            "Load": "The consumer (Bulb/Appliance).",
+            "Switch": "The controller (Breaks or completes the loop).",
+            "visual_reference": "[IMAGE_013: A simple circuit with real objects: bulb, battery, switch]"
+        },
+        "technical_symbols": {
+            "visual_reference": "[IMAGE_014: Table of PLE standard circuit symbols]",
+            "Ammeters": "Must be connected in Series to measure flow (Amps).",
+            "Voltmeters": "Must be connected in Parallel to measure pressure (Volts).",
+            "Fuses": "Represented by a rectangle with a wire line through it."
+        },
+        "key_definitions": {
+            "EMF_Electromotive_Force": "The total electrical pressure produced by a source.",
+            "Resistance": "The opposition to current. Long, thin wires have more resistance than short, thick ones.",
+            "Open_vs_Closed": "Closed = On (complete path). Open = Off (gap in path)."
+        }
+    },
+    "image_metadata": {
+        "IMAGE_013": { "type": "Illustration", "description": "A battery connected by wires to a glowing bulb with a switch in the 'down' position." },
+        "IMAGE_014": { "type": "Symbol Key", "description": "A grid showing the symbol for bulb (circle-X), switch, cell, and resistor." }
+    }
+}
